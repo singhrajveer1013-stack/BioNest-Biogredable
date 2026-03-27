@@ -1,0 +1,2001 @@
+business_type,city_tier,years_operating,monthly_revenue,decision_maker,key_decision_factor,packaging_type,monthly_volume,monthly_spend,sustainability_importance,customer_demand,switch_barrier,switch_likelihood
+Cloud Kitchen,Tier 1,3-5,5-10L,Manager,Quality,Biodegradable,1000-5000,10K-50K,Low,Medium,Supply,Neutral
+Catering,Tier 1,5+,<2L,Manager,Cost,Plastic,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 3,3-5,10-25L,Owner,Cost,Plastic,5000-10000,50K-1L,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 1,<1,5-10L,Multiple,Brand,Biodegradable,<1000,10K-50K,Low,Medium,Supply,Neutral
+Restaurant,Tier 1,<1,<2L,Manager,Quality,Paper,<1000,<10K,High,High,Quality,Very Likely
+Restaurant,Tier 3,1-3,25L+,Owner,Customer Experience,Mixed,5000-10000,1L-5L,Low,Low,Supply,Unlikely
+Restaurant,Tier 2,1-3,5-10L,Procurement,Cost,Paper,<1000,10K-50K,Medium,Low,Awareness,Unlikely
+E-commerce,Tier 3,1-3,<2L,Owner,Brand,Mixed,1000-5000,10K-50K,Low,High,Cost,Unlikely
+Retail,Tier 1,3-5,5-10L,Manager,Compliance,Paper,1000-5000,<10K,Medium,Medium,Supply,Neutral
+Retail,Tier 2,<1,2-5L,Owner,Compliance,Mixed,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 1,<1,10-25L,Procurement,Customer Experience,Mixed,1000-5000,10K-50K,Low,Medium,Quality,Neutral
+Catering,Tier 1,1-3,10-25L,Owner,Compliance,Plastic,5000-10000,1L-5L,Medium,High,Cost,Neutral
+E-commerce,Tier 3,3-5,25L+,Manager,Customer Experience,Mixed,5000-10000,50K-1L,Medium,High,Cost,Unlikely
+Restaurant,Tier 1,<1,5-10L,Owner,Cost,Mixed,<1000,<10K,High,Medium,Cost,Neutral
+Restaurant,Tier 2,3-5,2-5L,Manager,Quality,Plastic,<1000,<10K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 2,1-3,10-25L,Procurement,Cost,Paper,5000-10000,1L-5L,Medium,High,Awareness,Likely
+Restaurant,Tier 1,5+,<2L,Owner,Cost,Plastic,<1000,<10K,High,Medium,Supply,Very Likely
+Cloud Kitchen,Tier 3,5+,5-10L,Manager,Cost,Mixed,1000-5000,<10K,High,High,Awareness,Very Likely
+Cloud Kitchen,Tier 1,1-3,5-10L,Owner,Cost,Plastic,<1000,<10K,High,Low,Quality,Very Likely
+Restaurant,Tier 2,1-3,<2L,Procurement,Cost,Plastic,1000-5000,<10K,High,Low,Cost,Unlikely
+Retail,Tier 3,1-3,2-5L,Owner,Cost,Paper,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,1-3,10-25L,Procurement,Cost,Paper,5000-10000,50K-1L,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 3,3-5,10-25L,Procurement,Customer Experience,Mixed,5000-10000,50K-1L,Low,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,5+,<2L,Owner,Cost,Mixed,1000-5000,10K-50K,Medium,High,Supply,Very Likely
+Cloud Kitchen,Tier 2,3-5,<2L,Owner,Compliance,Paper,<1000,<10K,High,Medium,Quality,Likely
+E-commerce,Tier 1,5+,2-5L,Owner,Cost,Plastic,<1000,10K-50K,Medium,High,Cost,Neutral
+Restaurant,Tier 2,1-3,10-25L,Procurement,Customer Experience,Biodegradable,1000-5000,10K-50K,High,Medium,Cost,Unlikely
+Cloud Kitchen,Tier 3,<1,<2L,Owner,Customer Experience,Paper,<1000,<10K,High,High,Cost,Likely
+Retail,Tier 1,3-5,5-10L,Manager,Brand,Paper,1000-5000,10K-50K,Low,High,Cost,Neutral
+Restaurant,Tier 2,1-3,<2L,Procurement,Brand,Plastic,<1000,10K-50K,High,Medium,Cost,Unlikely
+Retail,Tier 1,3-5,5-10L,Owner,Cost,Paper,<1000,<10K,Medium,Medium,Supply,Neutral
+Restaurant,Tier 2,1-3,2-5L,Manager,Customer Experience,Plastic,<1000,10K-50K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,<1,10-25L,Owner,Customer Experience,Biodegradable,1000-5000,<10K,High,Medium,Supply,Likely
+Catering,Tier 3,5+,2-5L,Owner,Customer Experience,Paper,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Catering,Tier 2,<1,5-10L,Procurement,Brand,Mixed,<1000,<10K,High,High,Cost,Likely
+E-commerce,Tier 1,5+,2-5L,Owner,Cost,Paper,<1000,<10K,Medium,High,Supply,Very Likely
+Restaurant,Tier 1,5+,5-10L,Owner,Customer Experience,Plastic,1000-5000,<10K,Medium,Medium,Quality,Neutral
+Restaurant,Tier 1,3-5,10-25L,Procurement,Cost,Mixed,1000-5000,<10K,High,Medium,Cost,Neutral
+Retail,Tier 1,3-5,<2L,Owner,Quality,Paper,1000-5000,<10K,Medium,Medium,Awareness,Neutral
+Cloud Kitchen,Tier 1,3-5,10-25L,Multiple,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,5+,5-10L,Multiple,Customer Experience,Paper,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,1-3,<2L,Owner,Cost,Plastic,1000-5000,10K-50K,High,High,Supply,Very Likely
+Restaurant,Tier 2,1-3,2-5L,Owner,Cost,Mixed,<1000,<10K,Low,Medium,Supply,Unlikely
+Catering,Tier 1,3-5,<2L,Manager,Quality,Paper,<1000,<10K,High,Low,Cost,Neutral
+Restaurant,Tier 3,1-3,5-10L,Owner,Compliance,Biodegradable,<1000,<10K,Medium,High,Cost,Unlikely
+Retail,Tier 2,1-3,10-25L,Owner,Brand,Plastic,5000-10000,1L-5L,Medium,Medium,Awareness,Unlikely
+Restaurant,Tier 1,1-3,<2L,Manager,Cost,Plastic,<1000,10K-50K,High,High,Cost,Very Likely
+Cloud Kitchen,Tier 2,3-5,5-10L,Owner,Cost,Mixed,1000-5000,10K-50K,Low,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,5+,10-25L,Procurement,Compliance,Mixed,1000-5000,10K-50K,Medium,Low,Quality,Unlikely
+Restaurant,Tier 1,1-3,25L+,Owner,Customer Experience,Plastic,5000-10000,1L-5L,High,High,Awareness,Very Likely
+Catering,Tier 2,5+,5-10L,Owner,Compliance,Plastic,<1000,10K-50K,High,Low,Cost,Unlikely
+E-commerce,Tier 2,3-5,25L+,Owner,Quality,Plastic,5000-10000,50K-1L,Medium,High,Supply,Likely
+Catering,Tier 1,5+,5-10L,Multiple,Customer Experience,Biodegradable,<1000,<10K,Medium,High,Quality,Very Likely
+E-commerce,Tier 3,3-5,2-5L,Manager,Quality,Biodegradable,1000-5000,10K-50K,High,Medium,Quality,Likely
+Retail,Tier 3,3-5,10-25L,Procurement,Quality,Biodegradable,5000-10000,1L-5L,High,Low,Supply,Likely
+Catering,Tier 2,<1,2-5L,Owner,Quality,Paper,1000-5000,10K-50K,High,Medium,Awareness,Likely
+Restaurant,Tier 2,5+,2-5L,Owner,Quality,Mixed,<1000,10K-50K,Medium,High,Cost,Unlikely
+Restaurant,Tier 2,<1,2-5L,Owner,Compliance,Paper,1000-5000,10K-50K,High,Medium,Cost,Unlikely
+Restaurant,Tier 2,5+,10-25L,Owner,Quality,Plastic,5000-10000,50K-1L,Medium,Medium,Awareness,Unlikely
+Restaurant,Tier 2,5+,10-25L,Manager,Cost,Paper,1000-5000,<10K,Low,Medium,Supply,Unlikely
+Cloud Kitchen,Tier 1,1-3,2-5L,Manager,Cost,Mixed,<1000,<10K,Medium,Low,Quality,Neutral
+Restaurant,Tier 2,1-3,2-5L,Owner,Cost,Biodegradable,<1000,<10K,Low,High,Quality,Likely
+E-commerce,Tier 3,3-5,2-5L,Multiple,Quality,Paper,<1000,<10K,Low,High,Supply,Likely
+Cloud Kitchen,Tier 2,1-3,5-10L,Owner,Cost,Paper,<1000,<10K,Low,High,Supply,Likely
+Restaurant,Tier 1,5+,2-5L,Multiple,Cost,Mixed,1000-5000,<10K,Low,Medium,Awareness,Neutral
+Cloud Kitchen,Tier 3,<1,10-25L,Owner,Brand,Paper,1000-5000,<10K,Medium,High,Quality,Likely
+Restaurant,Tier 1,<1,2-5L,Owner,Brand,Plastic,1000-5000,10K-50K,Low,Low,Cost,Very Unlikely
+E-commerce,Tier 1,5+,2-5L,Owner,Compliance,Mixed,<1000,10K-50K,Low,Medium,Quality,Neutral
+Restaurant,Tier 1,3-5,<2L,Owner,Quality,Mixed,1000-5000,<10K,Low,Medium,Quality,Neutral
+Catering,Tier 1,5+,2-5L,Manager,Customer Experience,Plastic,<1000,<10K,Low,High,Quality,Very Likely
+E-commerce,Tier 3,1-3,25L+,Owner,Customer Experience,Paper,5000-10000,50K-1L,Low,High,Quality,Likely
+Restaurant,Tier 2,3-5,2-5L,Owner,Compliance,Paper,<1000,10K-50K,Medium,High,Cost,Unlikely
+Restaurant,Tier 1,3-5,<2L,Manager,Brand,Plastic,1000-5000,10K-50K,High,High,Quality,Very Likely
+E-commerce,Tier 3,3-5,2-5L,Manager,Cost,Mixed,<1000,<10K,High,High,Supply,Very Likely
+Retail,Tier 3,3-5,2-5L,Procurement,Customer Experience,Paper,<1000,10K-50K,High,Low,Supply,Likely
+Retail,Tier 3,3-5,<2L,Owner,Cost,Mixed,1000-5000,<10K,Low,High,Quality,Likely
+E-commerce,Tier 1,1-3,2-5L,Manager,Cost,Plastic,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,1-3,5-10L,Manager,Quality,Paper,1000-5000,<10K,Low,Low,Quality,Unlikely
+Cloud Kitchen,Tier 3,3-5,5-10L,Owner,Cost,Plastic,<1000,<10K,High,Low,Supply,Likely
+Restaurant,Tier 3,1-3,2-5L,Owner,Customer Experience,Biodegradable,<1000,<10K,Low,Medium,Quality,Unlikely
+E-commerce,Tier 1,3-5,2-5L,Owner,Quality,Paper,<1000,10K-50K,Medium,Low,Supply,Neutral
+Retail,Tier 1,1-3,25L+,Owner,Quality,Paper,5000-10000,50K-1L,Low,Medium,Quality,Neutral
+Restaurant,Tier 2,3-5,2-5L,Owner,Brand,Plastic,<1000,<10K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,3-5,2-5L,Owner,Quality,Plastic,1000-5000,<10K,High,High,Supply,Very Likely
+Restaurant,Tier 2,1-3,2-5L,Manager,Cost,Plastic,<1000,<10K,High,High,Cost,Likely
+Restaurant,Tier 2,<1,2-5L,Manager,Brand,Plastic,1000-5000,10K-50K,High,Medium,Quality,Likely
+Retail,Tier 1,<1,10-25L,Multiple,Compliance,Paper,5000-10000,50K-1L,Medium,Low,Cost,Very Unlikely
+Retail,Tier 2,3-5,2-5L,Manager,Quality,Paper,<1000,<10K,High,Low,Cost,Unlikely
+E-commerce,Tier 3,5+,5-10L,Owner,Compliance,Paper,1000-5000,10K-50K,Medium,Low,Quality,Unlikely
+Cloud Kitchen,Tier 1,<1,<2L,Procurement,Cost,Paper,<1000,<10K,High,Low,Quality,Very Likely
+Restaurant,Tier 3,3-5,2-5L,Procurement,Cost,Plastic,<1000,<10K,Low,High,Supply,Likely
+Retail,Tier 3,1-3,10-25L,Owner,Cost,Plastic,1000-5000,<10K,Medium,Medium,Supply,Unlikely
+E-commerce,Tier 1,1-3,2-5L,Manager,Quality,Plastic,<1000,<10K,Medium,Low,Supply,Neutral
+Retail,Tier 2,5+,5-10L,Multiple,Compliance,Mixed,1000-5000,10K-50K,Medium,Low,Quality,Unlikely
+E-commerce,Tier 1,1-3,2-5L,Manager,Compliance,Paper,1000-5000,<10K,High,Medium,Quality,Very Likely
+Cloud Kitchen,Tier 3,1-3,5-10L,Multiple,Quality,Plastic,<1000,<10K,High,Medium,Quality,Likely
+Cloud Kitchen,Tier 2,<1,<2L,Owner,Quality,Plastic,<1000,10K-50K,Medium,Low,Quality,Unlikely
+Cloud Kitchen,Tier 2,<1,10-25L,Owner,Compliance,Mixed,5000-10000,50K-1L,Medium,High,Quality,Likely
+Restaurant,Tier 3,1-3,<2L,Owner,Cost,Biodegradable,1000-5000,<10K,Medium,Low,Awareness,Unlikely
+Restaurant,Tier 1,<1,10-25L,Manager,Cost,Biodegradable,5000-10000,1L-5L,High,Low,Cost,Neutral
+Restaurant,Tier 3,3-5,2-5L,Procurement,Customer Experience,Paper,1000-5000,<10K,Medium,Low,Awareness,Unlikely
+Retail,Tier 2,1-3,5-10L,Multiple,Brand,Plastic,<1000,10K-50K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,2-5L,Owner,Customer Experience,Mixed,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,<1,25L+,Owner,Cost,Biodegradable,5000-10000,1L-5L,Low,Low,Cost,Very Unlikely
+Catering,Tier 3,1-3,<2L,Procurement,Compliance,Plastic,<1000,<10K,High,Low,Quality,Likely
+Restaurant,Tier 1,3-5,<2L,Manager,Cost,Mixed,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,5+,2-5L,Owner,Cost,Biodegradable,<1000,10K-50K,Medium,Low,Awareness,Unlikely
+E-commerce,Tier 3,<1,<2L,Owner,Quality,Plastic,<1000,<10K,High,Low,Supply,Likely
+Restaurant,Tier 1,5+,<2L,Manager,Cost,Paper,<1000,10K-50K,Low,Medium,Supply,Neutral
+Restaurant,Tier 3,3-5,25L+,Procurement,Cost,Plastic,5000-10000,1L-5L,Low,Low,Quality,Unlikely
+Restaurant,Tier 1,3-5,25L+,Owner,Cost,Plastic,10000+,5L+,Medium,Medium,Awareness,Neutral
+Restaurant,Tier 1,1-3,2-5L,Owner,Cost,Biodegradable,1000-5000,10K-50K,Low,Low,Supply,Neutral
+Catering,Tier 1,<1,25L+,Multiple,Compliance,Plastic,10000+,1L-5L,Medium,Low,Quality,Neutral
+E-commerce,Tier 3,<1,5-10L,Manager,Quality,Mixed,<1000,10K-50K,High,Medium,Supply,Likely
+Retail,Tier 2,3-5,2-5L,Owner,Cost,Mixed,1000-5000,<10K,High,Low,Quality,Likely
+E-commerce,Tier 1,1-3,5-10L,Owner,Cost,Plastic,<1000,<10K,High,Low,Quality,Very Likely
+E-commerce,Tier 2,5+,5-10L,Manager,Cost,Paper,<1000,10K-50K,High,Medium,Cost,Unlikely
+Restaurant,Tier 2,1-3,25L+,Owner,Brand,Mixed,5000-10000,1L-5L,Medium,High,Quality,Likely
+E-commerce,Tier 1,<1,2-5L,Owner,Cost,Biodegradable,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,3-5,5-10L,Manager,Compliance,Biodegradable,<1000,10K-50K,Low,High,Cost,Unlikely
+E-commerce,Tier 3,1-3,<2L,Owner,Cost,Plastic,1000-5000,<10K,High,High,Supply,Very Likely
+E-commerce,Tier 2,1-3,<2L,Manager,Cost,Paper,1000-5000,10K-50K,Medium,High,Awareness,Likely
+Restaurant,Tier 3,3-5,<2L,Owner,Customer Experience,Paper,1000-5000,<10K,Low,High,Awareness,Likely
+Restaurant,Tier 2,5+,25L+,Manager,Compliance,Mixed,5000-10000,50K-1L,Medium,Medium,Quality,Unlikely
+Restaurant,Tier 3,3-5,10-25L,Owner,Cost,Plastic,5000-10000,1L-5L,Medium,Low,Quality,Unlikely
+Cloud Kitchen,Tier 2,3-5,10-25L,Owner,Compliance,Mixed,5000-10000,50K-1L,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 2,3-5,5-10L,Owner,Quality,Plastic,1000-5000,<10K,High,Medium,Supply,Likely
+E-commerce,Tier 1,5+,2-5L,Multiple,Compliance,Mixed,<1000,10K-50K,Medium,High,Cost,Neutral
+Restaurant,Tier 3,1-3,<2L,Procurement,Brand,Biodegradable,1000-5000,10K-50K,High,Medium,Cost,Unlikely
+Cloud Kitchen,Tier 2,<1,2-5L,Owner,Brand,Paper,<1000,10K-50K,Medium,Medium,Supply,Unlikely
+Cloud Kitchen,Tier 1,1-3,2-5L,Procurement,Customer Experience,Paper,<1000,10K-50K,High,Medium,Cost,Neutral
+Restaurant,Tier 1,1-3,10-25L,Manager,Cost,Plastic,1000-5000,10K-50K,High,Medium,Cost,Neutral
+Restaurant,Tier 2,3-5,5-10L,Multiple,Brand,Plastic,1000-5000,<10K,High,Medium,Supply,Likely
+Restaurant,Tier 2,3-5,<2L,Owner,Quality,Plastic,<1000,<10K,Low,Medium,Cost,Very Unlikely
+Catering,Tier 2,3-5,<2L,Manager,Cost,Plastic,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 3,<1,<2L,Owner,Cost,Plastic,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,3-5,2-5L,Owner,Cost,Biodegradable,1000-5000,<10K,Medium,High,Cost,Neutral
+Retail,Tier 2,1-3,25L+,Multiple,Brand,Paper,10000+,1L-5L,Medium,High,Cost,Unlikely
+Cloud Kitchen,Tier 1,3-5,5-10L,Manager,Quality,Plastic,1000-5000,<10K,High,Low,Supply,Very Likely
+Catering,Tier 3,3-5,10-25L,Owner,Quality,Mixed,1000-5000,<10K,Low,High,Cost,Unlikely
+Catering,Tier 3,1-3,2-5L,Owner,Cost,Paper,1000-5000,10K-50K,Medium,Low,Supply,Unlikely
+Restaurant,Tier 2,<1,2-5L,Manager,Quality,Mixed,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,<1,<2L,Manager,Customer Experience,Biodegradable,1000-5000,<10K,High,Medium,Quality,Likely
+Restaurant,Tier 1,5+,10-25L,Owner,Quality,Plastic,5000-10000,50K-1L,High,Low,Supply,Very Likely
+Restaurant,Tier 2,5+,10-25L,Multiple,Brand,Paper,1000-5000,10K-50K,Medium,Low,Supply,Unlikely
+Restaurant,Tier 3,3-5,<2L,Owner,Compliance,Paper,<1000,10K-50K,Low,Low,Quality,Unlikely
+Retail,Tier 2,<1,5-10L,Owner,Compliance,Plastic,<1000,10K-50K,High,Medium,Awareness,Likely
+Cloud Kitchen,Tier 1,1-3,2-5L,Multiple,Quality,Plastic,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 2,3-5,5-10L,Owner,Customer Experience,Plastic,1000-5000,<10K,Medium,Medium,Quality,Unlikely
+Restaurant,Tier 3,3-5,25L+,Owner,Quality,Plastic,10000+,5L+,High,Medium,Awareness,Likely
+Catering,Tier 1,<1,5-10L,Manager,Customer Experience,Paper,<1000,10K-50K,High,Medium,Cost,Neutral
+Restaurant,Tier 1,<1,5-10L,Procurement,Cost,Paper,1000-5000,<10K,Medium,High,Cost,Neutral
+Restaurant,Tier 2,3-5,<2L,Owner,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,1-3,<2L,Multiple,Cost,Biodegradable,<1000,10K-50K,Low,Low,Quality,Unlikely
+Catering,Tier 1,1-3,<2L,Procurement,Compliance,Paper,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 1,<1,<2L,Owner,Quality,Plastic,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 1,1-3,5-10L,Manager,Cost,Plastic,<1000,10K-50K,Medium,Medium,Quality,Neutral
+E-commerce,Tier 1,5+,5-10L,Owner,Cost,Plastic,1000-5000,<10K,Low,Low,Quality,Neutral
+Restaurant,Tier 2,5+,<2L,Owner,Customer Experience,Plastic,1000-5000,<10K,Low,Low,Cost,Very Unlikely
+Retail,Tier 2,3-5,10-25L,Procurement,Compliance,Plastic,1000-5000,<10K,Low,High,Cost,Unlikely
+Cloud Kitchen,Tier 2,1-3,<2L,Multiple,Quality,Plastic,1000-5000,<10K,Medium,Medium,Quality,Unlikely
+Retail,Tier 2,<1,2-5L,Owner,Brand,Paper,<1000,<10K,Medium,Medium,Awareness,Unlikely
+Retail,Tier 1,1-3,2-5L,Owner,Quality,Paper,1000-5000,10K-50K,Medium,High,Supply,Very Likely
+Cloud Kitchen,Tier 3,1-3,2-5L,Owner,Quality,Plastic,1000-5000,10K-50K,Medium,High,Supply,Likely
+Restaurant,Tier 2,3-5,2-5L,Owner,Customer Experience,Plastic,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+E-commerce,Tier 3,1-3,2-5L,Owner,Cost,Paper,<1000,10K-50K,High,Medium,Cost,Unlikely
+Restaurant,Tier 2,1-3,2-5L,Owner,Quality,Mixed,1000-5000,10K-50K,Medium,High,Quality,Likely
+Restaurant,Tier 1,<1,25L+,Manager,Cost,Biodegradable,5000-10000,1L-5L,High,Medium,Supply,Very Likely
+Restaurant,Tier 2,1-3,<2L,Owner,Quality,Paper,1000-5000,10K-50K,Medium,Low,Quality,Unlikely
+Retail,Tier 1,<1,<2L,Owner,Quality,Plastic,1000-5000,10K-50K,Medium,Low,Supply,Neutral
+Retail,Tier 2,<1,<2L,Procurement,Quality,Plastic,1000-5000,10K-50K,Low,Medium,Awareness,Unlikely
+Restaurant,Tier 1,5+,5-10L,Procurement,Cost,Mixed,1000-5000,10K-50K,Medium,High,Cost,Neutral
+Cloud Kitchen,Tier 1,1-3,<2L,Owner,Quality,Plastic,<1000,10K-50K,High,Low,Cost,Neutral
+Restaurant,Tier 3,1-3,10-25L,Owner,Cost,Mixed,5000-10000,1L-5L,High,Low,Cost,Unlikely
+Retail,Tier 1,5+,5-10L,Manager,Cost,Biodegradable,1000-5000,10K-50K,High,High,Cost,Very Likely
+Restaurant,Tier 3,5+,5-10L,Owner,Cost,Biodegradable,<1000,<10K,Low,High,Cost,Unlikely
+Retail,Tier 1,3-5,5-10L,Owner,Compliance,Plastic,<1000,10K-50K,Medium,Low,Awareness,Neutral
+Cloud Kitchen,Tier 2,5+,<2L,Manager,Quality,Paper,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Catering,Tier 2,1-3,<2L,Owner,Brand,Paper,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,1-3,2-5L,Owner,Compliance,Plastic,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,5-10L,Owner,Brand,Plastic,1000-5000,10K-50K,High,High,Awareness,Very Likely
+Restaurant,Tier 1,3-5,2-5L,Owner,Quality,Mixed,1000-5000,<10K,High,Low,Supply,Very Likely
+Catering,Tier 1,3-5,<2L,Owner,Quality,Paper,1000-5000,<10K,Medium,Low,Awareness,Neutral
+E-commerce,Tier 1,1-3,25L+,Multiple,Quality,Paper,10000+,5L+,Low,Low,Awareness,Neutral
+Restaurant,Tier 2,<1,<2L,Owner,Brand,Plastic,1000-5000,10K-50K,Low,Low,Quality,Unlikely
+Retail,Tier 3,3-5,10-25L,Owner,Quality,Biodegradable,5000-10000,1L-5L,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 3,<1,10-25L,Owner,Compliance,Biodegradable,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 3,3-5,2-5L,Multiple,Customer Experience,Paper,1000-5000,<10K,High,High,Cost,Likely
+Cloud Kitchen,Tier 3,3-5,<2L,Manager,Cost,Paper,1000-5000,<10K,Medium,Low,Supply,Unlikely
+Restaurant,Tier 2,3-5,<2L,Owner,Cost,Paper,1000-5000,10K-50K,Medium,High,Cost,Unlikely
+Restaurant,Tier 1,3-5,5-10L,Procurement,Brand,Paper,<1000,<10K,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 3,5+,5-10L,Owner,Cost,Plastic,<1000,<10K,Low,Medium,Quality,Unlikely
+Catering,Tier 2,1-3,10-25L,Owner,Cost,Mixed,1000-5000,10K-50K,High,Low,Quality,Likely
+Retail,Tier 2,3-5,25L+,Owner,Customer Experience,Paper,10000+,5L+,Medium,Low,Supply,Unlikely
+Restaurant,Tier 1,3-5,5-10L,Owner,Cost,Plastic,1000-5000,10K-50K,High,Medium,Cost,Neutral
+Restaurant,Tier 2,<1,<2L,Owner,Customer Experience,Paper,1000-5000,<10K,Medium,Medium,Supply,Unlikely
+Retail,Tier 2,<1,2-5L,Manager,Compliance,Mixed,<1000,10K-50K,High,High,Quality,Very Likely
+E-commerce,Tier 3,1-3,10-25L,Owner,Compliance,Plastic,5000-10000,50K-1L,Low,High,Cost,Unlikely
+E-commerce,Tier 2,1-3,2-5L,Manager,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Supply,Unlikely
+E-commerce,Tier 1,3-5,<2L,Owner,Cost,Biodegradable,1000-5000,10K-50K,High,Medium,Awareness,Very Likely
+Retail,Tier 3,5+,5-10L,Owner,Quality,Plastic,1000-5000,<10K,High,High,Cost,Likely
+Restaurant,Tier 1,<1,2-5L,Owner,Cost,Biodegradable,<1000,<10K,High,Medium,Cost,Neutral
+Restaurant,Tier 2,<1,25L+,Multiple,Cost,Plastic,5000-10000,50K-1L,Low,High,Quality,Likely
+E-commerce,Tier 1,5+,5-10L,Owner,Cost,Biodegradable,1000-5000,<10K,High,High,Cost,Very Likely
+Retail,Tier 2,<1,<2L,Manager,Cost,Plastic,1000-5000,<10K,High,Low,Awareness,Likely
+Restaurant,Tier 3,1-3,25L+,Owner,Cost,Plastic,5000-10000,50K-1L,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 1,3-5,2-5L,Owner,Compliance,Mixed,1000-5000,10K-50K,High,Medium,Supply,Very Likely
+Retail,Tier 3,1-3,2-5L,Owner,Cost,Paper,1000-5000,<10K,Low,Medium,Supply,Unlikely
+Restaurant,Tier 1,<1,2-5L,Owner,Cost,Plastic,<1000,<10K,Medium,Medium,Quality,Neutral
+Restaurant,Tier 3,<1,<2L,Owner,Brand,Plastic,1000-5000,10K-50K,Medium,High,Cost,Unlikely
+Cloud Kitchen,Tier 3,<1,2-5L,Owner,Customer Experience,Paper,1000-5000,<10K,High,Low,Cost,Unlikely
+Retail,Tier 3,3-5,<2L,Procurement,Cost,Paper,<1000,<10K,Low,Low,Cost,Very Unlikely
+Retail,Tier 1,1-3,2-5L,Owner,Cost,Mixed,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 3,1-3,2-5L,Manager,Quality,Mixed,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 2,3-5,10-25L,Owner,Customer Experience,Paper,5000-10000,1L-5L,Medium,Medium,Supply,Unlikely
+Restaurant,Tier 1,5+,10-25L,Manager,Compliance,Paper,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 3,<1,<2L,Manager,Brand,Paper,<1000,10K-50K,Low,Medium,Supply,Unlikely
+Retail,Tier 1,1-3,2-5L,Owner,Cost,Biodegradable,<1000,<10K,High,Low,Quality,Very Likely
+Retail,Tier 3,3-5,2-5L,Owner,Quality,Plastic,1000-5000,10K-50K,High,Low,Supply,Likely
+E-commerce,Tier 1,1-3,<2L,Manager,Cost,Plastic,<1000,<10K,High,Medium,Awareness,Very Likely
+Retail,Tier 2,1-3,10-25L,Procurement,Brand,Plastic,1000-5000,10K-50K,High,Low,Cost,Unlikely
+Retail,Tier 2,3-5,5-10L,Owner,Compliance,Plastic,<1000,10K-50K,Medium,Medium,Awareness,Unlikely
+Restaurant,Tier 1,5+,<2L,Owner,Customer Experience,Plastic,1000-5000,10K-50K,Medium,High,Quality,Very Likely
+Cloud Kitchen,Tier 1,5+,2-5L,Procurement,Cost,Paper,<1000,<10K,Medium,High,Supply,Very Likely
+Restaurant,Tier 1,3-5,<2L,Owner,Cost,Biodegradable,1000-5000,<10K,Low,Low,Supply,Neutral
+Restaurant,Tier 2,3-5,5-10L,Manager,Quality,Paper,1000-5000,10K-50K,High,Medium,Quality,Likely
+Catering,Tier 1,1-3,<2L,Owner,Compliance,Plastic,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,3-5,25L+,Owner,Compliance,Plastic,5000-10000,1L-5L,High,High,Cost,Likely
+E-commerce,Tier 1,1-3,10-25L,Manager,Cost,Paper,5000-10000,1L-5L,Low,High,Quality,Very Likely
+Retail,Tier 1,<1,2-5L,Manager,Cost,Plastic,1000-5000,<10K,High,Low,Awareness,Very Likely
+E-commerce,Tier 2,3-5,5-10L,Owner,Quality,Paper,<1000,10K-50K,Low,Low,Supply,Unlikely
+Cloud Kitchen,Tier 1,3-5,25L+,Owner,Cost,Mixed,10000+,5L+,Low,Medium,Cost,Very Unlikely
+Retail,Tier 3,1-3,5-10L,Procurement,Customer Experience,Plastic,1000-5000,<10K,High,Medium,Supply,Likely
+Cloud Kitchen,Tier 3,5+,<2L,Manager,Quality,Plastic,1000-5000,<10K,Low,Low,Supply,Unlikely
+Restaurant,Tier 2,<1,2-5L,Owner,Compliance,Paper,<1000,10K-50K,High,Low,Cost,Unlikely
+Retail,Tier 2,1-3,10-25L,Manager,Quality,Mixed,5000-10000,1L-5L,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,<1,5-10L,Manager,Compliance,Biodegradable,<1000,<10K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 1,3-5,5-10L,Procurement,Cost,Mixed,1000-5000,<10K,High,Low,Awareness,Very Likely
+Retail,Tier 1,3-5,10-25L,Manager,Compliance,Plastic,1000-5000,10K-50K,Medium,Low,Supply,Neutral
+Restaurant,Tier 1,1-3,10-25L,Owner,Cost,Mixed,5000-10000,50K-1L,High,Low,Cost,Neutral
+Catering,Tier 3,3-5,25L+,Manager,Quality,Plastic,10000+,1L-5L,Medium,Medium,Cost,Very Unlikely
+Catering,Tier 1,1-3,<2L,Manager,Cost,Plastic,<1000,10K-50K,Medium,Low,Supply,Neutral
+Catering,Tier 2,3-5,5-10L,Owner,Quality,Mixed,1000-5000,10K-50K,Medium,Low,Awareness,Unlikely
+Cloud Kitchen,Tier 3,1-3,5-10L,Owner,Cost,Mixed,<1000,<10K,Low,Low,Supply,Unlikely
+Restaurant,Tier 3,1-3,10-25L,Owner,Cost,Plastic,5000-10000,1L-5L,Medium,Low,Quality,Unlikely
+Catering,Tier 2,5+,5-10L,Manager,Customer Experience,Plastic,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,1-3,<2L,Owner,Cost,Plastic,<1000,10K-50K,Medium,Low,Quality,Neutral
+Catering,Tier 3,<1,10-25L,Manager,Compliance,Plastic,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Catering,Tier 2,3-5,5-10L,Multiple,Customer Experience,Plastic,<1000,10K-50K,Medium,Low,Supply,Unlikely
+E-commerce,Tier 1,5+,<2L,Procurement,Cost,Mixed,1000-5000,<10K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,2-5L,Multiple,Brand,Biodegradable,1000-5000,<10K,Medium,Low,Supply,Neutral
+Cloud Kitchen,Tier 3,<1,<2L,Multiple,Cost,Biodegradable,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 2,1-3,2-5L,Owner,Cost,Biodegradable,1000-5000,10K-50K,Low,Medium,Supply,Unlikely
+Restaurant,Tier 3,1-3,<2L,Manager,Quality,Paper,<1000,10K-50K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,<1,2-5L,Owner,Customer Experience,Biodegradable,<1000,<10K,Low,High,Quality,Likely
+Retail,Tier 2,3-5,5-10L,Procurement,Cost,Paper,<1000,<10K,High,Low,Quality,Likely
+Catering,Tier 2,5+,5-10L,Owner,Quality,Plastic,<1000,<10K,High,Low,Cost,Unlikely
+Retail,Tier 2,1-3,5-10L,Multiple,Quality,Paper,<1000,<10K,Low,Low,Awareness,Unlikely
+Retail,Tier 1,1-3,10-25L,Manager,Customer Experience,Paper,1000-5000,10K-50K,Low,High,Quality,Very Likely
+Restaurant,Tier 2,1-3,2-5L,Procurement,Cost,Mixed,1000-5000,10K-50K,High,Low,Quality,Likely
+Retail,Tier 3,<1,<2L,Owner,Brand,Mixed,<1000,<10K,Medium,Medium,Supply,Unlikely
+Catering,Tier 2,5+,10-25L,Owner,Brand,Paper,1000-5000,<10K,High,Low,Awareness,Likely
+Restaurant,Tier 3,1-3,<2L,Procurement,Brand,Biodegradable,<1000,10K-50K,High,Low,Quality,Likely
+Cloud Kitchen,Tier 2,1-3,25L+,Owner,Customer Experience,Plastic,5000-10000,1L-5L,Medium,High,Awareness,Likely
+E-commerce,Tier 2,3-5,10-25L,Procurement,Compliance,Biodegradable,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 2,1-3,5-10L,Owner,Cost,Plastic,<1000,10K-50K,High,High,Cost,Likely
+Retail,Tier 2,3-5,25L+,Manager,Quality,Plastic,5000-10000,1L-5L,High,Medium,Quality,Likely
+Retail,Tier 2,<1,<2L,Owner,Quality,Plastic,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,5+,2-5L,Manager,Cost,Paper,1000-5000,10K-50K,Medium,Low,Quality,Neutral
+Restaurant,Tier 2,5+,5-10L,Manager,Quality,Plastic,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+E-commerce,Tier 1,3-5,2-5L,Owner,Quality,Mixed,1000-5000,<10K,Medium,Low,Quality,Neutral
+E-commerce,Tier 1,5+,25L+,Owner,Quality,Plastic,5000-10000,1L-5L,High,Medium,Supply,Very Likely
+E-commerce,Tier 2,<1,<2L,Owner,Customer Experience,Mixed,1000-5000,<10K,High,Medium,Quality,Likely
+Catering,Tier 2,1-3,5-10L,Manager,Cost,Biodegradable,1000-5000,<10K,Medium,High,Awareness,Likely
+Cloud Kitchen,Tier 3,3-5,5-10L,Manager,Customer Experience,Plastic,1000-5000,10K-50K,High,Medium,Supply,Likely
+Cloud Kitchen,Tier 2,3-5,5-10L,Manager,Quality,Plastic,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+E-commerce,Tier 2,1-3,2-5L,Manager,Brand,Biodegradable,1000-5000,10K-50K,Low,Low,Cost,Very Unlikely
+Retail,Tier 2,1-3,2-5L,Owner,Compliance,Paper,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 2,<1,10-25L,Owner,Quality,Biodegradable,1000-5000,<10K,Low,Low,Supply,Unlikely
+E-commerce,Tier 1,1-3,<2L,Owner,Quality,Plastic,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+E-commerce,Tier 1,<1,10-25L,Owner,Quality,Paper,1000-5000,10K-50K,Low,High,Cost,Neutral
+Restaurant,Tier 1,3-5,5-10L,Multiple,Quality,Mixed,1000-5000,<10K,High,Low,Awareness,Very Likely
+Cloud Kitchen,Tier 2,1-3,10-25L,Procurement,Customer Experience,Plastic,1000-5000,10K-50K,High,Low,Quality,Likely
+Restaurant,Tier 1,<1,5-10L,Owner,Compliance,Paper,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 1,3-5,2-5L,Manager,Cost,Plastic,1000-5000,<10K,Low,High,Cost,Neutral
+Restaurant,Tier 1,3-5,5-10L,Procurement,Cost,Biodegradable,<1000,10K-50K,Medium,Medium,Awareness,Neutral
+Cloud Kitchen,Tier 3,5+,10-25L,Owner,Quality,Biodegradable,5000-10000,50K-1L,High,Low,Awareness,Likely
+Cloud Kitchen,Tier 1,3-5,2-5L,Owner,Cost,Plastic,<1000,10K-50K,Medium,High,Cost,Neutral
+Restaurant,Tier 2,1-3,25L+,Owner,Brand,Plastic,10000+,1L-5L,Low,High,Quality,Likely
+Retail,Tier 1,5+,2-5L,Manager,Cost,Plastic,1000-5000,10K-50K,Low,Low,Supply,Neutral
+Restaurant,Tier 2,1-3,<2L,Multiple,Quality,Paper,1000-5000,10K-50K,Medium,High,Supply,Likely
+Restaurant,Tier 1,<1,2-5L,Manager,Cost,Paper,1000-5000,<10K,Low,Medium,Supply,Neutral
+E-commerce,Tier 1,3-5,25L+,Owner,Cost,Mixed,10000+,1L-5L,High,Low,Quality,Very Likely
+Cloud Kitchen,Tier 2,5+,2-5L,Owner,Brand,Paper,<1000,10K-50K,High,Medium,Awareness,Likely
+Restaurant,Tier 1,1-3,10-25L,Procurement,Quality,Plastic,5000-10000,1L-5L,Low,High,Cost,Neutral
+Cloud Kitchen,Tier 1,1-3,10-25L,Procurement,Customer Experience,Mixed,5000-10000,50K-1L,Medium,Medium,Cost,Very Unlikely
+E-commerce,Tier 1,<1,2-5L,Manager,Customer Experience,Paper,1000-5000,10K-50K,Low,Low,Supply,Neutral
+Restaurant,Tier 1,<1,<2L,Manager,Quality,Paper,1000-5000,10K-50K,High,High,Quality,Very Likely
+Retail,Tier 1,1-3,5-10L,Owner,Cost,Plastic,<1000,<10K,Medium,Low,Awareness,Neutral
+Restaurant,Tier 1,3-5,2-5L,Procurement,Compliance,Plastic,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,<1,10-25L,Procurement,Customer Experience,Mixed,5000-10000,1L-5L,Medium,Medium,Supply,Unlikely
+Cloud Kitchen,Tier 2,5+,2-5L,Owner,Compliance,Paper,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,3-5,2-5L,Manager,Cost,Plastic,<1000,<10K,Medium,Low,Supply,Unlikely
+Retail,Tier 1,3-5,10-25L,Owner,Customer Experience,Paper,5000-10000,1L-5L,Medium,High,Cost,Neutral
+Retail,Tier 3,5+,2-5L,Owner,Cost,Mixed,1000-5000,<10K,Medium,Medium,Quality,Unlikely
+Catering,Tier 1,<1,2-5L,Owner,Compliance,Plastic,1000-5000,<10K,Medium,Medium,Supply,Neutral
+Cloud Kitchen,Tier 1,1-3,2-5L,Owner,Customer Experience,Paper,<1000,10K-50K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,3-5,2-5L,Owner,Cost,Mixed,<1000,<10K,Low,Medium,Cost,Very Unlikely
+E-commerce,Tier 1,5+,5-10L,Owner,Customer Experience,Plastic,1000-5000,10K-50K,Medium,Medium,Quality,Neutral
+Restaurant,Tier 1,3-5,10-25L,Manager,Cost,Biodegradable,1000-5000,<10K,Medium,Low,Supply,Neutral
+Cloud Kitchen,Tier 2,1-3,2-5L,Owner,Customer Experience,Paper,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 3,5+,5-10L,Owner,Cost,Biodegradable,<1000,10K-50K,High,High,Cost,Likely
+Restaurant,Tier 2,<1,5-10L,Owner,Customer Experience,Plastic,<1000,<10K,Low,Medium,Cost,Very Unlikely
+Catering,Tier 2,5+,2-5L,Manager,Cost,Plastic,<1000,<10K,Low,Low,Awareness,Unlikely
+E-commerce,Tier 3,5+,2-5L,Owner,Compliance,Biodegradable,<1000,<10K,Low,High,Cost,Unlikely
+Retail,Tier 1,<1,25L+,Owner,Quality,Plastic,5000-10000,50K-1L,Medium,High,Cost,Neutral
+Cloud Kitchen,Tier 1,3-5,5-10L,Procurement,Quality,Paper,1000-5000,<10K,Medium,Low,Supply,Neutral
+Restaurant,Tier 1,<1,5-10L,Manager,Cost,Plastic,<1000,<10K,High,High,Supply,Very Likely
+Restaurant,Tier 2,1-3,5-10L,Procurement,Compliance,Plastic,<1000,10K-50K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,1-3,<2L,Owner,Cost,Mixed,<1000,<10K,Medium,Low,Awareness,Unlikely
+Cloud Kitchen,Tier 3,3-5,5-10L,Owner,Quality,Paper,<1000,<10K,High,Low,Quality,Likely
+Retail,Tier 2,5+,5-10L,Manager,Cost,Mixed,1000-5000,10K-50K,High,Medium,Quality,Likely
+Retail,Tier 2,3-5,5-10L,Owner,Customer Experience,Plastic,1000-5000,10K-50K,High,High,Cost,Likely
+Restaurant,Tier 1,1-3,2-5L,Owner,Cost,Paper,<1000,10K-50K,High,Low,Awareness,Very Likely
+Catering,Tier 3,5+,<2L,Owner,Cost,Plastic,1000-5000,<10K,High,Low,Cost,Unlikely
+Retail,Tier 3,5+,<2L,Procurement,Cost,Biodegradable,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+Retail,Tier 3,<1,25L+,Owner,Quality,Biodegradable,10000+,5L+,Low,Medium,Cost,Very Unlikely
+Retail,Tier 1,5+,2-5L,Multiple,Cost,Plastic,1000-5000,<10K,Low,Low,Supply,Neutral
+Cloud Kitchen,Tier 2,<1,2-5L,Procurement,Quality,Mixed,<1000,10K-50K,High,Low,Quality,Likely
+Restaurant,Tier 1,5+,<2L,Owner,Customer Experience,Plastic,1000-5000,<10K,High,Medium,Quality,Very Likely
+Cloud Kitchen,Tier 1,1-3,<2L,Manager,Compliance,Paper,<1000,<10K,Low,High,Cost,Neutral
+E-commerce,Tier 1,<1,5-10L,Manager,Quality,Mixed,<1000,<10K,Medium,Medium,Supply,Neutral
+Restaurant,Tier 2,1-3,5-10L,Procurement,Cost,Mixed,<1000,<10K,High,Low,Supply,Likely
+Restaurant,Tier 2,3-5,5-10L,Owner,Brand,Mixed,<1000,<10K,High,Medium,Cost,Unlikely
+Restaurant,Tier 1,1-3,2-5L,Procurement,Cost,Plastic,1000-5000,10K-50K,Medium,Low,Supply,Neutral
+Restaurant,Tier 1,<1,5-10L,Owner,Compliance,Plastic,<1000,<10K,High,High,Cost,Very Likely
+E-commerce,Tier 2,3-5,<2L,Multiple,Cost,Plastic,1000-5000,10K-50K,Medium,High,Supply,Likely
+Retail,Tier 1,5+,<2L,Owner,Quality,Paper,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,1-3,2-5L,Owner,Quality,Biodegradable,<1000,10K-50K,Medium,Low,Quality,Neutral
+Restaurant,Tier 2,1-3,2-5L,Procurement,Customer Experience,Plastic,1000-5000,<10K,Medium,Medium,Awareness,Unlikely
+Cloud Kitchen,Tier 3,1-3,2-5L,Procurement,Cost,Biodegradable,<1000,<10K,Low,Medium,Awareness,Unlikely
+Cloud Kitchen,Tier 1,<1,5-10L,Manager,Quality,Plastic,1000-5000,<10K,High,Medium,Cost,Neutral
+Restaurant,Tier 1,5+,5-10L,Owner,Cost,Plastic,1000-5000,10K-50K,High,High,Quality,Very Likely
+Cloud Kitchen,Tier 1,5+,10-25L,Owner,Compliance,Biodegradable,5000-10000,1L-5L,High,High,Cost,Very Likely
+Cloud Kitchen,Tier 3,3-5,2-5L,Multiple,Customer Experience,Paper,<1000,10K-50K,Medium,Medium,Awareness,Unlikely
+Retail,Tier 2,1-3,<2L,Procurement,Quality,Mixed,1000-5000,<10K,Medium,High,Quality,Likely
+Retail,Tier 2,3-5,2-5L,Procurement,Quality,Plastic,<1000,<10K,Medium,High,Cost,Unlikely
+Restaurant,Tier 1,3-5,25L+,Owner,Customer Experience,Biodegradable,10000+,5L+,Low,High,Cost,Neutral
+Cloud Kitchen,Tier 2,5+,5-10L,Owner,Quality,Plastic,1000-5000,<10K,Medium,High,Awareness,Likely
+Retail,Tier 1,3-5,5-10L,Manager,Quality,Plastic,1000-5000,10K-50K,Low,Low,Quality,Neutral
+Cloud Kitchen,Tier 2,3-5,<2L,Procurement,Quality,Biodegradable,<1000,<10K,Low,Low,Cost,Very Unlikely
+E-commerce,Tier 3,3-5,5-10L,Owner,Brand,Mixed,1000-5000,10K-50K,High,High,Cost,Likely
+Retail,Tier 2,1-3,<2L,Procurement,Cost,Plastic,<1000,10K-50K,Low,High,Cost,Unlikely
+Restaurant,Tier 3,5+,5-10L,Manager,Compliance,Plastic,<1000,<10K,High,High,Quality,Very Likely
+Restaurant,Tier 2,1-3,25L+,Owner,Quality,Paper,5000-10000,1L-5L,Medium,Low,Awareness,Unlikely
+Retail,Tier 1,3-5,25L+,Owner,Cost,Plastic,10000+,1L-5L,High,Medium,Awareness,Very Likely
+Restaurant,Tier 3,1-3,5-10L,Owner,Compliance,Mixed,1000-5000,<10K,Low,Low,Quality,Unlikely
+Retail,Tier 1,3-5,2-5L,Manager,Quality,Biodegradable,<1000,<10K,Medium,Medium,Supply,Neutral
+Catering,Tier 2,3-5,25L+,Owner,Cost,Plastic,10000+,5L+,Medium,Low,Quality,Unlikely
+Retail,Tier 1,<1,5-10L,Owner,Brand,Paper,<1000,10K-50K,High,Low,Cost,Neutral
+Cloud Kitchen,Tier 1,<1,<2L,Procurement,Customer Experience,Biodegradable,1000-5000,10K-50K,Medium,Low,Awareness,Neutral
+Retail,Tier 2,3-5,2-5L,Owner,Customer Experience,Plastic,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,3-5,2-5L,Owner,Customer Experience,Paper,<1000,<10K,High,Low,Cost,Neutral
+Cloud Kitchen,Tier 2,1-3,2-5L,Owner,Customer Experience,Plastic,1000-5000,10K-50K,Medium,Low,Awareness,Unlikely
+Catering,Tier 2,1-3,2-5L,Manager,Cost,Paper,1000-5000,<10K,Low,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,3-5,5-10L,Procurement,Quality,Plastic,<1000,<10K,Medium,Low,Supply,Neutral
+Catering,Tier 1,<1,2-5L,Owner,Compliance,Mixed,1000-5000,10K-50K,Medium,High,Awareness,Very Likely
+Catering,Tier 2,1-3,<2L,Procurement,Quality,Plastic,1000-5000,10K-50K,Low,Low,Quality,Unlikely
+Restaurant,Tier 1,<1,5-10L,Manager,Brand,Plastic,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 2,<1,10-25L,Owner,Brand,Mixed,5000-10000,50K-1L,Low,High,Cost,Unlikely
+Restaurant,Tier 2,1-3,5-10L,Owner,Quality,Plastic,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,1-3,2-5L,Owner,Customer Experience,Plastic,1000-5000,10K-50K,High,Medium,Quality,Likely
+Restaurant,Tier 2,<1,25L+,Owner,Quality,Plastic,10000+,1L-5L,Medium,Medium,Supply,Unlikely
+Retail,Tier 2,1-3,25L+,Manager,Quality,Plastic,5000-10000,50K-1L,Medium,High,Quality,Likely
+Restaurant,Tier 2,1-3,2-5L,Manager,Customer Experience,Mixed,<1000,<10K,Low,Low,Quality,Unlikely
+Restaurant,Tier 1,1-3,<2L,Owner,Quality,Biodegradable,1000-5000,10K-50K,Low,High,Quality,Very Likely
+E-commerce,Tier 1,1-3,5-10L,Owner,Cost,Plastic,<1000,<10K,Low,High,Quality,Very Likely
+Restaurant,Tier 3,5+,10-25L,Owner,Quality,Biodegradable,1000-5000,<10K,Medium,Medium,Awareness,Unlikely
+E-commerce,Tier 2,<1,25L+,Manager,Compliance,Paper,10000+,1L-5L,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,1-3,10-25L,Owner,Compliance,Mixed,1000-5000,<10K,High,Medium,Supply,Likely
+Restaurant,Tier 3,<1,5-10L,Manager,Compliance,Plastic,<1000,<10K,Low,Low,Quality,Unlikely
+Retail,Tier 3,<1,5-10L,Owner,Compliance,Paper,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 3,3-5,<2L,Manager,Cost,Paper,<1000,10K-50K,Medium,High,Cost,Unlikely
+E-commerce,Tier 2,3-5,2-5L,Procurement,Customer Experience,Paper,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 1,5+,2-5L,Owner,Customer Experience,Paper,1000-5000,10K-50K,High,Low,Quality,Very Likely
+E-commerce,Tier 2,3-5,5-10L,Owner,Cost,Plastic,1000-5000,<10K,Low,High,Cost,Unlikely
+Restaurant,Tier 1,5+,5-10L,Multiple,Cost,Biodegradable,<1000,10K-50K,Low,Medium,Awareness,Neutral
+Restaurant,Tier 2,<1,5-10L,Owner,Customer Experience,Paper,1000-5000,<10K,Medium,Low,Quality,Unlikely
+E-commerce,Tier 2,<1,2-5L,Manager,Customer Experience,Mixed,<1000,<10K,Medium,Medium,Awareness,Unlikely
+E-commerce,Tier 2,<1,5-10L,Owner,Customer Experience,Plastic,<1000,<10K,Low,Medium,Cost,Very Unlikely
+Catering,Tier 1,<1,<2L,Manager,Customer Experience,Biodegradable,<1000,<10K,Low,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,1-3,2-5L,Owner,Quality,Mixed,1000-5000,<10K,Medium,High,Cost,Neutral
+Cloud Kitchen,Tier 2,3-5,10-25L,Multiple,Brand,Biodegradable,5000-10000,1L-5L,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 1,<1,5-10L,Manager,Quality,Mixed,1000-5000,10K-50K,Low,Medium,Awareness,Neutral
+Restaurant,Tier 3,5+,25L+,Procurement,Cost,Mixed,5000-10000,1L-5L,Medium,Low,Cost,Very Unlikely
+Catering,Tier 1,5+,2-5L,Manager,Compliance,Plastic,<1000,<10K,Medium,Medium,Quality,Neutral
+E-commerce,Tier 1,1-3,2-5L,Manager,Quality,Paper,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,<1,2-5L,Owner,Brand,Plastic,<1000,<10K,High,Low,Quality,Very Likely
+E-commerce,Tier 2,<1,2-5L,Procurement,Quality,Paper,<1000,10K-50K,Low,High,Supply,Likely
+E-commerce,Tier 2,<1,10-25L,Multiple,Quality,Plastic,1000-5000,10K-50K,High,Low,Quality,Likely
+Restaurant,Tier 1,<1,5-10L,Owner,Cost,Biodegradable,<1000,10K-50K,Medium,High,Supply,Very Likely
+Catering,Tier 1,1-3,10-25L,Multiple,Cost,Paper,5000-10000,1L-5L,High,Medium,Cost,Neutral
+Cloud Kitchen,Tier 2,1-3,2-5L,Manager,Cost,Paper,<1000,10K-50K,Medium,High,Awareness,Likely
+E-commerce,Tier 1,1-3,10-25L,Manager,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Supply,Neutral
+Restaurant,Tier 2,5+,<2L,Owner,Customer Experience,Mixed,1000-5000,<10K,High,Low,Quality,Likely
+E-commerce,Tier 2,3-5,10-25L,Owner,Cost,Plastic,1000-5000,<10K,High,Low,Quality,Likely
+Cloud Kitchen,Tier 1,5+,2-5L,Owner,Cost,Plastic,<1000,<10K,Low,High,Awareness,Very Likely
+Restaurant,Tier 1,<1,2-5L,Owner,Quality,Plastic,<1000,<10K,Low,High,Quality,Very Likely
+Catering,Tier 3,1-3,5-10L,Manager,Brand,Mixed,1000-5000,<10K,Medium,Low,Supply,Unlikely
+Restaurant,Tier 2,3-5,25L+,Owner,Cost,Mixed,5000-10000,1L-5L,High,Medium,Quality,Likely
+Restaurant,Tier 2,<1,<2L,Owner,Compliance,Biodegradable,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Catering,Tier 1,<1,2-5L,Multiple,Compliance,Mixed,1000-5000,<10K,Medium,High,Supply,Very Likely
+Catering,Tier 2,3-5,10-25L,Owner,Cost,Plastic,1000-5000,<10K,High,High,Quality,Very Likely
+Retail,Tier 1,3-5,2-5L,Owner,Cost,Mixed,<1000,<10K,High,High,Quality,Very Likely
+Retail,Tier 2,1-3,<2L,Owner,Customer Experience,Plastic,1000-5000,<10K,Medium,High,Quality,Likely
+Cloud Kitchen,Tier 3,1-3,2-5L,Owner,Compliance,Plastic,<1000,<10K,Medium,High,Cost,Unlikely
+Restaurant,Tier 1,1-3,2-5L,Procurement,Brand,Plastic,<1000,<10K,High,Low,Supply,Very Likely
+Restaurant,Tier 1,<1,25L+,Manager,Cost,Paper,10000+,1L-5L,Medium,High,Awareness,Very Likely
+Retail,Tier 1,1-3,10-25L,Procurement,Quality,Biodegradable,5000-10000,50K-1L,High,Medium,Awareness,Very Likely
+E-commerce,Tier 1,<1,5-10L,Owner,Quality,Plastic,1000-5000,10K-50K,Medium,High,Cost,Neutral
+E-commerce,Tier 1,<1,25L+,Manager,Cost,Mixed,10000+,1L-5L,Medium,Medium,Quality,Neutral
+E-commerce,Tier 1,5+,2-5L,Owner,Quality,Paper,1000-5000,<10K,Low,Low,Supply,Neutral
+Restaurant,Tier 3,3-5,<2L,Owner,Brand,Plastic,<1000,10K-50K,Low,Medium,Quality,Unlikely
+Cloud Kitchen,Tier 2,3-5,2-5L,Owner,Cost,Paper,1000-5000,10K-50K,High,Medium,Quality,Likely
+Restaurant,Tier 1,1-3,2-5L,Owner,Compliance,Biodegradable,1000-5000,<10K,Medium,Low,Awareness,Neutral
+Cloud Kitchen,Tier 3,1-3,<2L,Owner,Compliance,Mixed,<1000,<10K,Medium,Low,Quality,Unlikely
+Cloud Kitchen,Tier 1,1-3,25L+,Owner,Cost,Paper,5000-10000,50K-1L,Low,Medium,Quality,Neutral
+E-commerce,Tier 3,<1,10-25L,Multiple,Compliance,Paper,5000-10000,1L-5L,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,<1,2-5L,Owner,Cost,Plastic,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 3,3-5,5-10L,Owner,Compliance,Paper,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 2,3-5,5-10L,Owner,Cost,Mixed,<1000,10K-50K,Low,High,Awareness,Likely
+E-commerce,Tier 3,1-3,25L+,Manager,Cost,Plastic,5000-10000,1L-5L,High,High,Quality,Very Likely
+Retail,Tier 3,1-3,10-25L,Owner,Brand,Mixed,1000-5000,10K-50K,High,Low,Quality,Likely
+Restaurant,Tier 1,5+,5-10L,Procurement,Quality,Paper,<1000,10K-50K,Low,High,Supply,Very Likely
+Restaurant,Tier 3,<1,10-25L,Multiple,Customer Experience,Plastic,5000-10000,50K-1L,Medium,Medium,Quality,Unlikely
+Retail,Tier 1,1-3,5-10L,Owner,Quality,Mixed,1000-5000,<10K,Medium,Low,Quality,Neutral
+Restaurant,Tier 1,1-3,5-10L,Owner,Cost,Paper,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 1,3-5,<2L,Owner,Quality,Plastic,<1000,10K-50K,High,Medium,Supply,Very Likely
+Retail,Tier 2,5+,<2L,Manager,Quality,Plastic,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,5-10L,Owner,Cost,Plastic,1000-5000,10K-50K,Medium,High,Cost,Neutral
+Restaurant,Tier 2,5+,2-5L,Owner,Brand,Mixed,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+Catering,Tier 2,5+,<2L,Owner,Compliance,Paper,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,1-3,5-10L,Manager,Customer Experience,Mixed,1000-5000,10K-50K,Low,High,Cost,Unlikely
+Cloud Kitchen,Tier 3,1-3,<2L,Owner,Customer Experience,Plastic,<1000,<10K,Medium,Low,Supply,Unlikely
+E-commerce,Tier 2,1-3,5-10L,Owner,Cost,Plastic,<1000,<10K,Low,Medium,Cost,Very Unlikely
+Catering,Tier 1,5+,5-10L,Manager,Compliance,Plastic,<1000,<10K,High,Low,Supply,Very Likely
+Catering,Tier 1,<1,25L+,Manager,Quality,Paper,10000+,1L-5L,High,Low,Cost,Neutral
+E-commerce,Tier 1,3-5,2-5L,Procurement,Brand,Mixed,1000-5000,10K-50K,High,Medium,Cost,Neutral
+Cloud Kitchen,Tier 1,1-3,<2L,Owner,Quality,Biodegradable,<1000,10K-50K,High,Low,Quality,Very Likely
+Restaurant,Tier 1,3-5,5-10L,Procurement,Customer Experience,Plastic,<1000,10K-50K,Medium,Medium,Awareness,Neutral
+E-commerce,Tier 1,1-3,10-25L,Manager,Compliance,Mixed,5000-10000,1L-5L,High,Low,Awareness,Very Likely
+Retail,Tier 3,3-5,25L+,Owner,Customer Experience,Biodegradable,10000+,5L+,Low,Medium,Awareness,Unlikely
+Cloud Kitchen,Tier 2,5+,2-5L,Manager,Compliance,Plastic,<1000,10K-50K,Low,Medium,Supply,Unlikely
+Catering,Tier 1,5+,2-5L,Owner,Customer Experience,Mixed,1000-5000,10K-50K,High,Low,Supply,Very Likely
+Restaurant,Tier 2,5+,25L+,Multiple,Compliance,Plastic,5000-10000,1L-5L,Low,High,Quality,Likely
+Cloud Kitchen,Tier 1,<1,<2L,Owner,Quality,Plastic,<1000,10K-50K,High,Low,Quality,Very Likely
+Restaurant,Tier 2,3-5,5-10L,Manager,Cost,Plastic,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,<1,2-5L,Owner,Quality,Paper,1000-5000,10K-50K,High,Medium,Quality,Likely
+Restaurant,Tier 2,1-3,<2L,Multiple,Cost,Paper,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,1-3,2-5L,Owner,Quality,Plastic,1000-5000,<10K,Medium,Medium,Quality,Unlikely
+Restaurant,Tier 3,1-3,2-5L,Multiple,Quality,Plastic,<1000,<10K,Low,Low,Quality,Unlikely
+Retail,Tier 3,1-3,5-10L,Multiple,Quality,Biodegradable,<1000,<10K,High,High,Cost,Likely
+Retail,Tier 2,5+,25L+,Owner,Customer Experience,Mixed,10000+,5L+,Low,Medium,Cost,Very Unlikely
+Retail,Tier 2,<1,2-5L,Procurement,Customer Experience,Biodegradable,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Catering,Tier 2,3-5,10-25L,Multiple,Cost,Plastic,5000-10000,50K-1L,Low,Low,Awareness,Unlikely
+Cloud Kitchen,Tier 1,1-3,<2L,Owner,Quality,Plastic,<1000,10K-50K,Low,High,Cost,Neutral
+Restaurant,Tier 1,<1,5-10L,Owner,Quality,Plastic,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+E-commerce,Tier 1,<1,<2L,Manager,Quality,Plastic,1000-5000,10K-50K,Low,Low,Awareness,Neutral
+Restaurant,Tier 2,5+,25L+,Owner,Compliance,Paper,10000+,5L+,High,Low,Quality,Likely
+Catering,Tier 2,5+,10-25L,Owner,Quality,Paper,5000-10000,1L-5L,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 1,5+,5-10L,Owner,Quality,Biodegradable,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Catering,Tier 3,5+,10-25L,Owner,Customer Experience,Biodegradable,1000-5000,<10K,Medium,High,Cost,Unlikely
+Restaurant,Tier 3,1-3,5-10L,Owner,Compliance,Plastic,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+E-commerce,Tier 2,1-3,25L+,Owner,Cost,Plastic,5000-10000,50K-1L,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,3-5,5-10L,Procurement,Compliance,Biodegradable,1000-5000,<10K,High,High,Quality,Very Likely
+Catering,Tier 3,1-3,25L+,Manager,Quality,Plastic,10000+,5L+,Low,Medium,Supply,Unlikely
+Restaurant,Tier 1,1-3,5-10L,Owner,Cost,Plastic,1000-5000,<10K,Low,Medium,Quality,Neutral
+Retail,Tier 3,1-3,<2L,Manager,Cost,Plastic,1000-5000,10K-50K,Medium,Low,Quality,Unlikely
+Catering,Tier 1,3-5,5-10L,Manager,Quality,Plastic,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,3-5,<2L,Multiple,Quality,Plastic,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 1,<1,5-10L,Owner,Cost,Mixed,<1000,<10K,Medium,Low,Supply,Neutral
+Retail,Tier 3,1-3,2-5L,Owner,Brand,Mixed,1000-5000,<10K,High,High,Cost,Likely
+Cloud Kitchen,Tier 3,3-5,5-10L,Multiple,Compliance,Plastic,<1000,10K-50K,Low,High,Awareness,Likely
+Retail,Tier 1,3-5,<2L,Multiple,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Quality,Neutral
+Retail,Tier 2,1-3,<2L,Manager,Cost,Biodegradable,1000-5000,<10K,Medium,Medium,Supply,Unlikely
+Catering,Tier 3,3-5,2-5L,Procurement,Compliance,Plastic,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,<1,25L+,Owner,Cost,Plastic,5000-10000,50K-1L,High,Low,Cost,Unlikely
+Restaurant,Tier 3,1-3,2-5L,Manager,Customer Experience,Plastic,<1000,<10K,Medium,Low,Supply,Unlikely
+Catering,Tier 2,3-5,2-5L,Owner,Brand,Plastic,<1000,10K-50K,High,High,Supply,Very Likely
+E-commerce,Tier 1,3-5,5-10L,Owner,Cost,Biodegradable,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,1-3,5-10L,Procurement,Cost,Mixed,<1000,<10K,Low,High,Awareness,Very Likely
+Retail,Tier 1,3-5,2-5L,Owner,Cost,Plastic,1000-5000,<10K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 3,3-5,2-5L,Owner,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,3-5,2-5L,Multiple,Cost,Plastic,<1000,<10K,Medium,Medium,Quality,Neutral
+Cloud Kitchen,Tier 2,3-5,25L+,Owner,Brand,Plastic,10000+,5L+,Low,Medium,Supply,Unlikely
+Cloud Kitchen,Tier 2,3-5,<2L,Multiple,Cost,Mixed,1000-5000,10K-50K,Medium,High,Awareness,Likely
+Retail,Tier 2,1-3,2-5L,Multiple,Quality,Biodegradable,<1000,<10K,Medium,High,Quality,Likely
+Restaurant,Tier 3,<1,<2L,Manager,Quality,Paper,1000-5000,<10K,Low,Low,Cost,Very Unlikely
+Catering,Tier 3,1-3,2-5L,Owner,Cost,Biodegradable,<1000,<10K,Low,Low,Quality,Unlikely
+Catering,Tier 2,1-3,10-25L,Owner,Cost,Mixed,1000-5000,10K-50K,High,Low,Cost,Unlikely
+Retail,Tier 3,3-5,2-5L,Owner,Cost,Mixed,1000-5000,10K-50K,Medium,Medium,Quality,Unlikely
+Cloud Kitchen,Tier 3,1-3,<2L,Owner,Cost,Plastic,<1000,<10K,High,Low,Quality,Likely
+Restaurant,Tier 2,1-3,2-5L,Owner,Compliance,Plastic,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+E-commerce,Tier 3,<1,<2L,Multiple,Cost,Biodegradable,1000-5000,<10K,Medium,Medium,Quality,Unlikely
+Retail,Tier 1,1-3,<2L,Owner,Compliance,Plastic,<1000,<10K,Low,Medium,Quality,Neutral
+Restaurant,Tier 1,1-3,10-25L,Manager,Quality,Mixed,5000-10000,50K-1L,Medium,High,Supply,Very Likely
+Catering,Tier 3,3-5,10-25L,Owner,Quality,Biodegradable,1000-5000,<10K,Medium,Medium,Quality,Unlikely
+E-commerce,Tier 2,<1,25L+,Manager,Quality,Mixed,5000-10000,50K-1L,Medium,Medium,Cost,Very Unlikely
+Catering,Tier 3,3-5,10-25L,Multiple,Compliance,Plastic,5000-10000,50K-1L,Low,Low,Cost,Very Unlikely
+Retail,Tier 3,5+,5-10L,Owner,Cost,Mixed,<1000,10K-50K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 1,<1,<2L,Owner,Cost,Plastic,1000-5000,10K-50K,High,Medium,Cost,Neutral
+Cloud Kitchen,Tier 3,1-3,10-25L,Manager,Quality,Mixed,1000-5000,10K-50K,Medium,Medium,Supply,Unlikely
+Catering,Tier 2,<1,10-25L,Manager,Cost,Plastic,1000-5000,<10K,Medium,High,Awareness,Likely
+E-commerce,Tier 2,3-5,10-25L,Manager,Quality,Paper,1000-5000,<10K,Medium,High,Supply,Likely
+Restaurant,Tier 2,3-5,5-10L,Owner,Brand,Biodegradable,1000-5000,<10K,High,High,Quality,Very Likely
+Restaurant,Tier 3,1-3,2-5L,Owner,Quality,Paper,1000-5000,10K-50K,Medium,Low,Quality,Unlikely
+Cloud Kitchen,Tier 1,1-3,10-25L,Multiple,Brand,Paper,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+E-commerce,Tier 2,5+,5-10L,Multiple,Quality,Mixed,1000-5000,10K-50K,High,Low,Awareness,Likely
+Catering,Tier 2,<1,25L+,Owner,Compliance,Paper,10000+,1L-5L,High,Low,Awareness,Likely
+Restaurant,Tier 2,<1,<2L,Procurement,Compliance,Paper,<1000,10K-50K,Low,Low,Quality,Unlikely
+Retail,Tier 2,5+,2-5L,Owner,Quality,Plastic,<1000,<10K,Low,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,3-5,2-5L,Owner,Brand,Mixed,1000-5000,<10K,High,Low,Supply,Very Likely
+Catering,Tier 1,5+,10-25L,Owner,Customer Experience,Paper,5000-10000,1L-5L,High,Medium,Cost,Neutral
+E-commerce,Tier 1,3-5,<2L,Owner,Quality,Paper,1000-5000,10K-50K,Medium,High,Supply,Very Likely
+E-commerce,Tier 3,5+,<2L,Manager,Quality,Plastic,<1000,10K-50K,Medium,Low,Supply,Unlikely
+Cloud Kitchen,Tier 1,1-3,25L+,Owner,Compliance,Paper,5000-10000,50K-1L,Medium,High,Cost,Neutral
+Cloud Kitchen,Tier 1,3-5,<2L,Owner,Quality,Plastic,1000-5000,10K-50K,Medium,Low,Awareness,Neutral
+Restaurant,Tier 3,5+,10-25L,Procurement,Cost,Plastic,5000-10000,1L-5L,Medium,Low,Awareness,Unlikely
+Restaurant,Tier 1,3-5,2-5L,Manager,Customer Experience,Paper,1000-5000,<10K,Low,Medium,Awareness,Neutral
+E-commerce,Tier 3,<1,10-25L,Manager,Cost,Plastic,5000-10000,50K-1L,High,Medium,Quality,Likely
+E-commerce,Tier 2,1-3,5-10L,Multiple,Compliance,Plastic,<1000,10K-50K,High,Low,Cost,Unlikely
+Catering,Tier 3,<1,25L+,Owner,Compliance,Biodegradable,10000+,1L-5L,Medium,Low,Quality,Unlikely
+Catering,Tier 1,1-3,25L+,Manager,Customer Experience,Plastic,10000+,5L+,Medium,Medium,Quality,Neutral
+Retail,Tier 1,1-3,<2L,Procurement,Cost,Plastic,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+E-commerce,Tier 2,3-5,<2L,Manager,Quality,Plastic,<1000,10K-50K,Medium,Medium,Quality,Unlikely
+Catering,Tier 3,3-5,2-5L,Owner,Quality,Paper,<1000,<10K,Medium,Medium,Supply,Unlikely
+E-commerce,Tier 2,1-3,5-10L,Owner,Cost,Biodegradable,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 1,3-5,10-25L,Procurement,Cost,Biodegradable,5000-10000,1L-5L,Medium,High,Cost,Neutral
+Cloud Kitchen,Tier 3,<1,2-5L,Owner,Quality,Plastic,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 3,<1,5-10L,Procurement,Quality,Plastic,1000-5000,10K-50K,High,Medium,Supply,Likely
+Catering,Tier 2,<1,<2L,Manager,Cost,Plastic,<1000,10K-50K,Low,High,Quality,Likely
+Retail,Tier 3,1-3,10-25L,Manager,Brand,Paper,1000-5000,10K-50K,Medium,High,Cost,Unlikely
+Restaurant,Tier 3,1-3,25L+,Procurement,Compliance,Mixed,5000-10000,50K-1L,High,Medium,Awareness,Likely
+Retail,Tier 2,1-3,2-5L,Manager,Compliance,Plastic,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 1,1-3,2-5L,Owner,Customer Experience,Plastic,<1000,<10K,Medium,Low,Quality,Neutral
+Cloud Kitchen,Tier 2,5+,<2L,Manager,Quality,Plastic,1000-5000,<10K,Medium,Medium,Supply,Unlikely
+Restaurant,Tier 1,<1,5-10L,Procurement,Customer Experience,Paper,<1000,10K-50K,High,Medium,Supply,Very Likely
+Retail,Tier 2,3-5,5-10L,Owner,Customer Experience,Biodegradable,<1000,10K-50K,Low,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,3-5,<2L,Owner,Cost,Paper,<1000,<10K,Medium,High,Awareness,Likely
+E-commerce,Tier 1,3-5,2-5L,Owner,Cost,Mixed,1000-5000,10K-50K,Low,Low,Awareness,Neutral
+Cloud Kitchen,Tier 1,5+,2-5L,Multiple,Quality,Paper,<1000,10K-50K,Low,High,Quality,Very Likely
+E-commerce,Tier 1,<1,5-10L,Owner,Quality,Plastic,1000-5000,<10K,Medium,High,Quality,Very Likely
+Retail,Tier 3,<1,5-10L,Manager,Quality,Plastic,<1000,10K-50K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 3,5+,<2L,Owner,Quality,Biodegradable,<1000,10K-50K,High,Medium,Quality,Likely
+E-commerce,Tier 1,1-3,10-25L,Owner,Compliance,Paper,1000-5000,<10K,High,Low,Quality,Very Likely
+Cloud Kitchen,Tier 3,3-5,5-10L,Manager,Quality,Paper,<1000,10K-50K,Medium,High,Supply,Likely
+Restaurant,Tier 2,3-5,2-5L,Owner,Cost,Biodegradable,1000-5000,<10K,Medium,Low,Quality,Unlikely
+Restaurant,Tier 1,3-5,<2L,Manager,Customer Experience,Paper,1000-5000,<10K,Medium,Medium,Supply,Neutral
+E-commerce,Tier 1,5+,10-25L,Procurement,Cost,Mixed,5000-10000,1L-5L,High,Medium,Cost,Neutral
+Retail,Tier 2,5+,25L+,Procurement,Customer Experience,Paper,10000+,1L-5L,Medium,High,Cost,Unlikely
+Retail,Tier 3,3-5,2-5L,Owner,Cost,Biodegradable,1000-5000,10K-50K,Low,High,Cost,Unlikely
+Restaurant,Tier 2,1-3,2-5L,Procurement,Customer Experience,Plastic,1000-5000,10K-50K,High,Medium,Cost,Unlikely
+Restaurant,Tier 1,5+,<2L,Manager,Cost,Biodegradable,<1000,<10K,High,Low,Quality,Very Likely
+Restaurant,Tier 1,<1,5-10L,Procurement,Cost,Mixed,<1000,<10K,Medium,Low,Supply,Neutral
+Cloud Kitchen,Tier 2,1-3,<2L,Owner,Cost,Plastic,<1000,<10K,High,Low,Quality,Likely
+Retail,Tier 1,5+,2-5L,Manager,Compliance,Biodegradable,<1000,<10K,High,High,Quality,Very Likely
+Cloud Kitchen,Tier 1,1-3,5-10L,Multiple,Customer Experience,Biodegradable,<1000,<10K,Medium,Medium,Supply,Neutral
+Cloud Kitchen,Tier 1,1-3,5-10L,Procurement,Quality,Plastic,1000-5000,<10K,Medium,High,Cost,Neutral
+Catering,Tier 3,<1,2-5L,Owner,Customer Experience,Paper,1000-5000,10K-50K,High,Medium,Cost,Unlikely
+Restaurant,Tier 3,5+,2-5L,Owner,Quality,Plastic,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,1-3,5-10L,Owner,Brand,Mixed,1000-5000,<10K,Medium,Low,Supply,Unlikely
+E-commerce,Tier 3,3-5,<2L,Owner,Compliance,Mixed,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,1-3,<2L,Owner,Cost,Plastic,1000-5000,<10K,High,Low,Cost,Neutral
+Retail,Tier 2,3-5,10-25L,Owner,Quality,Plastic,5000-10000,50K-1L,High,Medium,Quality,Likely
+E-commerce,Tier 1,3-5,<2L,Procurement,Customer Experience,Paper,<1000,10K-50K,Low,Low,Awareness,Neutral
+Catering,Tier 2,1-3,5-10L,Owner,Customer Experience,Plastic,<1000,10K-50K,High,Medium,Quality,Likely
+Restaurant,Tier 3,1-3,25L+,Manager,Customer Experience,Plastic,10000+,1L-5L,High,Medium,Supply,Likely
+Catering,Tier 2,1-3,2-5L,Owner,Customer Experience,Paper,<1000,<10K,High,Medium,Supply,Likely
+Cloud Kitchen,Tier 1,5+,2-5L,Owner,Cost,Plastic,1000-5000,<10K,Low,Low,Quality,Neutral
+Restaurant,Tier 2,3-5,5-10L,Owner,Compliance,Plastic,<1000,10K-50K,Medium,Low,Supply,Unlikely
+Cloud Kitchen,Tier 1,5+,10-25L,Owner,Quality,Mixed,5000-10000,50K-1L,Medium,Low,Supply,Neutral
+Catering,Tier 3,1-3,25L+,Procurement,Customer Experience,Mixed,10000+,1L-5L,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,3-5,5-10L,Procurement,Quality,Biodegradable,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 2,3-5,<2L,Owner,Quality,Mixed,<1000,10K-50K,High,High,Cost,Likely
+Retail,Tier 2,3-5,5-10L,Owner,Quality,Plastic,<1000,10K-50K,Medium,High,Quality,Likely
+Restaurant,Tier 2,5+,2-5L,Owner,Cost,Plastic,<1000,<10K,High,Low,Awareness,Likely
+Restaurant,Tier 1,1-3,2-5L,Procurement,Cost,Plastic,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,<1,<2L,Procurement,Customer Experience,Biodegradable,<1000,10K-50K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,3-5,<2L,Manager,Compliance,Mixed,1000-5000,<10K,Low,Medium,Awareness,Neutral
+Restaurant,Tier 2,3-5,10-25L,Manager,Cost,Biodegradable,1000-5000,<10K,Medium,Low,Quality,Unlikely
+Restaurant,Tier 3,3-5,2-5L,Procurement,Compliance,Mixed,<1000,10K-50K,Medium,Low,Quality,Unlikely
+Retail,Tier 3,1-3,2-5L,Owner,Brand,Paper,1000-5000,10K-50K,High,Low,Awareness,Likely
+Restaurant,Tier 2,1-3,2-5L,Owner,Quality,Plastic,1000-5000,<10K,Medium,Low,Quality,Unlikely
+Restaurant,Tier 2,1-3,10-25L,Multiple,Cost,Paper,5000-10000,1L-5L,Medium,High,Supply,Likely
+E-commerce,Tier 1,1-3,5-10L,Manager,Customer Experience,Plastic,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,3-5,2-5L,Manager,Compliance,Plastic,<1000,<10K,Low,High,Cost,Unlikely
+Retail,Tier 1,3-5,<2L,Manager,Quality,Biodegradable,<1000,<10K,Low,Low,Quality,Neutral
+Restaurant,Tier 2,1-3,2-5L,Owner,Brand,Paper,1000-5000,<10K,Medium,Low,Quality,Unlikely
+Restaurant,Tier 1,1-3,25L+,Manager,Cost,Paper,5000-10000,50K-1L,Medium,Medium,Awareness,Neutral
+Restaurant,Tier 1,1-3,5-10L,Manager,Quality,Paper,<1000,<10K,High,Low,Awareness,Very Likely
+Restaurant,Tier 2,<1,5-10L,Owner,Cost,Plastic,<1000,<10K,Medium,Low,Awareness,Unlikely
+Restaurant,Tier 1,3-5,5-10L,Manager,Cost,Paper,<1000,10K-50K,High,Medium,Cost,Neutral
+Restaurant,Tier 2,5+,2-5L,Procurement,Brand,Paper,1000-5000,10K-50K,Medium,Low,Awareness,Unlikely
+Restaurant,Tier 1,1-3,10-25L,Owner,Customer Experience,Plastic,5000-10000,1L-5L,High,Medium,Supply,Very Likely
+Restaurant,Tier 1,3-5,5-10L,Owner,Quality,Mixed,1000-5000,<10K,Low,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,5+,<2L,Owner,Cost,Paper,1000-5000,<10K,Medium,Medium,Supply,Unlikely
+Restaurant,Tier 1,5+,<2L,Manager,Brand,Paper,1000-5000,<10K,Medium,High,Cost,Neutral
+Cloud Kitchen,Tier 1,<1,5-10L,Owner,Customer Experience,Mixed,1000-5000,<10K,High,Low,Cost,Neutral
+Cloud Kitchen,Tier 2,5+,25L+,Manager,Compliance,Mixed,10000+,1L-5L,Low,High,Supply,Likely
+Retail,Tier 1,1-3,2-5L,Procurement,Customer Experience,Mixed,<1000,10K-50K,Medium,Medium,Quality,Neutral
+Restaurant,Tier 3,1-3,10-25L,Owner,Quality,Plastic,5000-10000,50K-1L,Medium,High,Cost,Unlikely
+E-commerce,Tier 1,<1,10-25L,Multiple,Compliance,Plastic,1000-5000,10K-50K,Medium,Low,Quality,Neutral
+Retail,Tier 1,1-3,2-5L,Multiple,Cost,Plastic,1000-5000,<10K,Low,Medium,Awareness,Neutral
+Restaurant,Tier 2,<1,<2L,Owner,Cost,Plastic,<1000,10K-50K,Low,Medium,Quality,Unlikely
+E-commerce,Tier 1,1-3,<2L,Owner,Quality,Mixed,1000-5000,10K-50K,Medium,High,Cost,Neutral
+Catering,Tier 1,1-3,5-10L,Multiple,Quality,Paper,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,5+,<2L,Multiple,Customer Experience,Plastic,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,5+,2-5L,Owner,Customer Experience,Plastic,<1000,10K-50K,Medium,High,Awareness,Very Likely
+E-commerce,Tier 3,1-3,5-10L,Owner,Cost,Plastic,<1000,10K-50K,Low,Low,Quality,Unlikely
+Retail,Tier 1,5+,5-10L,Owner,Cost,Paper,<1000,10K-50K,High,Low,Quality,Very Likely
+Restaurant,Tier 3,5+,<2L,Multiple,Quality,Biodegradable,1000-5000,<10K,Medium,Medium,Quality,Unlikely
+Restaurant,Tier 3,3-5,2-5L,Owner,Cost,Mixed,<1000,<10K,High,Medium,Awareness,Likely
+Cloud Kitchen,Tier 2,<1,2-5L,Manager,Brand,Mixed,<1000,10K-50K,Medium,Medium,Quality,Unlikely
+Cloud Kitchen,Tier 3,3-5,5-10L,Procurement,Customer Experience,Plastic,<1000,<10K,High,Medium,Supply,Likely
+Retail,Tier 1,5+,10-25L,Owner,Customer Experience,Plastic,1000-5000,<10K,Medium,High,Cost,Neutral
+Cloud Kitchen,Tier 3,3-5,<2L,Manager,Brand,Plastic,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,1-3,10-25L,Owner,Compliance,Plastic,1000-5000,<10K,Medium,Low,Awareness,Neutral
+Retail,Tier 2,1-3,5-10L,Procurement,Quality,Mixed,1000-5000,10K-50K,High,Low,Awareness,Likely
+Restaurant,Tier 2,3-5,5-10L,Owner,Cost,Paper,1000-5000,<10K,Medium,High,Awareness,Likely
+Restaurant,Tier 1,1-3,5-10L,Manager,Quality,Biodegradable,<1000,10K-50K,Low,Medium,Awareness,Neutral
+Retail,Tier 2,<1,2-5L,Manager,Quality,Paper,<1000,<10K,Low,High,Supply,Likely
+E-commerce,Tier 2,1-3,<2L,Owner,Compliance,Plastic,1000-5000,10K-50K,Medium,Low,Supply,Unlikely
+Cloud Kitchen,Tier 1,5+,5-10L,Owner,Cost,Plastic,1000-5000,<10K,Medium,Medium,Supply,Neutral
+Cloud Kitchen,Tier 1,5+,5-10L,Owner,Quality,Paper,<1000,<10K,Low,Medium,Quality,Neutral
+Restaurant,Tier 2,<1,5-10L,Owner,Quality,Biodegradable,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,5+,2-5L,Procurement,Customer Experience,Plastic,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,1-3,25L+,Procurement,Quality,Biodegradable,5000-10000,1L-5L,High,Medium,Awareness,Likely
+Restaurant,Tier 3,3-5,5-10L,Owner,Compliance,Mixed,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,3-5,<2L,Manager,Compliance,Paper,1000-5000,<10K,Medium,High,Awareness,Likely
+Cloud Kitchen,Tier 2,5+,2-5L,Manager,Cost,Biodegradable,<1000,10K-50K,High,High,Cost,Likely
+Restaurant,Tier 1,5+,10-25L,Procurement,Quality,Paper,5000-10000,50K-1L,Medium,High,Cost,Neutral
+Restaurant,Tier 1,1-3,10-25L,Owner,Customer Experience,Biodegradable,1000-5000,<10K,Low,High,Cost,Neutral
+Restaurant,Tier 3,5+,2-5L,Owner,Quality,Biodegradable,1000-5000,10K-50K,High,Medium,Cost,Unlikely
+Restaurant,Tier 2,<1,10-25L,Owner,Customer Experience,Mixed,5000-10000,1L-5L,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 1,3-5,2-5L,Manager,Cost,Plastic,1000-5000,<10K,Medium,High,Cost,Neutral
+E-commerce,Tier 1,3-5,2-5L,Owner,Cost,Paper,<1000,10K-50K,High,Medium,Supply,Very Likely
+Retail,Tier 3,3-5,10-25L,Owner,Customer Experience,Plastic,1000-5000,<10K,High,Low,Cost,Unlikely
+Retail,Tier 2,1-3,10-25L,Owner,Compliance,Plastic,5000-10000,50K-1L,Medium,Medium,Cost,Very Unlikely
+E-commerce,Tier 2,5+,5-10L,Manager,Customer Experience,Biodegradable,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,<1,10-25L,Owner,Brand,Mixed,1000-5000,<10K,Medium,Medium,Supply,Unlikely
+Restaurant,Tier 1,<1,<2L,Owner,Customer Experience,Plastic,1000-5000,10K-50K,Low,Low,Quality,Neutral
+Cloud Kitchen,Tier 1,3-5,10-25L,Owner,Compliance,Plastic,5000-10000,1L-5L,Low,Low,Quality,Neutral
+Retail,Tier 1,1-3,2-5L,Owner,Compliance,Plastic,1000-5000,<10K,Medium,High,Cost,Neutral
+Retail,Tier 1,5+,<2L,Manager,Quality,Paper,<1000,10K-50K,High,High,Cost,Very Likely
+Cloud Kitchen,Tier 3,1-3,2-5L,Owner,Quality,Plastic,1000-5000,<10K,High,High,Supply,Very Likely
+Restaurant,Tier 2,<1,2-5L,Owner,Customer Experience,Plastic,1000-5000,10K-50K,Medium,Medium,Supply,Unlikely
+Restaurant,Tier 3,5+,2-5L,Manager,Quality,Biodegradable,1000-5000,<10K,Medium,High,Cost,Unlikely
+Cloud Kitchen,Tier 3,1-3,2-5L,Owner,Quality,Plastic,<1000,10K-50K,Low,High,Quality,Likely
+Retail,Tier 1,<1,<2L,Owner,Quality,Paper,<1000,<10K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 2,3-5,2-5L,Procurement,Quality,Biodegradable,1000-5000,<10K,Low,High,Cost,Unlikely
+Cloud Kitchen,Tier 2,1-3,5-10L,Owner,Quality,Plastic,<1000,10K-50K,High,Low,Supply,Likely
+Catering,Tier 3,3-5,2-5L,Owner,Cost,Paper,1000-5000,<10K,Low,High,Quality,Likely
+Retail,Tier 1,1-3,2-5L,Owner,Customer Experience,Biodegradable,<1000,<10K,High,Medium,Cost,Neutral
+Restaurant,Tier 2,5+,5-10L,Owner,Quality,Biodegradable,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,5+,10-25L,Manager,Quality,Paper,5000-10000,50K-1L,Low,Low,Awareness,Unlikely
+Restaurant,Tier 1,3-5,10-25L,Manager,Cost,Plastic,5000-10000,50K-1L,Low,Medium,Supply,Neutral
+Restaurant,Tier 1,<1,2-5L,Manager,Cost,Mixed,<1000,<10K,Medium,Medium,Awareness,Neutral
+Restaurant,Tier 2,5+,5-10L,Owner,Cost,Biodegradable,<1000,10K-50K,High,High,Quality,Very Likely
+Restaurant,Tier 2,3-5,<2L,Owner,Compliance,Plastic,<1000,10K-50K,High,High,Quality,Very Likely
+Restaurant,Tier 1,3-5,<2L,Procurement,Cost,Plastic,<1000,10K-50K,Medium,High,Cost,Neutral
+Restaurant,Tier 2,1-3,2-5L,Multiple,Customer Experience,Plastic,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 1,5+,10-25L,Owner,Cost,Plastic,1000-5000,<10K,Medium,High,Quality,Very Likely
+Restaurant,Tier 2,3-5,2-5L,Owner,Cost,Paper,<1000,<10K,High,Medium,Quality,Likely
+Cloud Kitchen,Tier 1,<1,<2L,Owner,Cost,Plastic,1000-5000,10K-50K,High,High,Cost,Very Likely
+Cloud Kitchen,Tier 3,1-3,<2L,Owner,Cost,Plastic,<1000,<10K,Medium,Low,Supply,Unlikely
+Catering,Tier 1,5+,10-25L,Owner,Compliance,Biodegradable,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,<1,5-10L,Owner,Customer Experience,Plastic,1000-5000,<10K,Medium,High,Cost,Neutral
+Cloud Kitchen,Tier 1,5+,2-5L,Manager,Brand,Biodegradable,1000-5000,<10K,Medium,High,Cost,Neutral
+Catering,Tier 1,3-5,5-10L,Manager,Cost,Biodegradable,1000-5000,10K-50K,Low,Medium,Quality,Neutral
+E-commerce,Tier 2,3-5,5-10L,Owner,Cost,Plastic,<1000,<10K,Medium,High,Cost,Unlikely
+E-commerce,Tier 1,1-3,5-10L,Owner,Quality,Biodegradable,1000-5000,10K-50K,High,Low,Cost,Neutral
+Restaurant,Tier 3,1-3,2-5L,Procurement,Customer Experience,Biodegradable,1000-5000,10K-50K,Medium,Medium,Quality,Unlikely
+Restaurant,Tier 1,5+,10-25L,Owner,Cost,Plastic,1000-5000,10K-50K,Low,Medium,Quality,Neutral
+Retail,Tier 1,1-3,2-5L,Manager,Compliance,Plastic,<1000,<10K,High,Low,Quality,Very Likely
+Catering,Tier 1,3-5,5-10L,Owner,Quality,Paper,1000-5000,<10K,Low,Low,Cost,Very Unlikely
+Retail,Tier 1,1-3,<2L,Manager,Cost,Mixed,<1000,10K-50K,Low,Low,Quality,Neutral
+Retail,Tier 1,<1,2-5L,Owner,Quality,Paper,<1000,<10K,Low,Medium,Quality,Neutral
+Restaurant,Tier 2,<1,2-5L,Owner,Cost,Plastic,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 2,1-3,5-10L,Owner,Compliance,Biodegradable,<1000,10K-50K,Medium,Medium,Supply,Unlikely
+Restaurant,Tier 2,5+,<2L,Owner,Cost,Paper,1000-5000,<10K,Medium,Low,Quality,Unlikely
+Restaurant,Tier 2,1-3,10-25L,Owner,Compliance,Paper,1000-5000,10K-50K,High,Medium,Cost,Unlikely
+Cloud Kitchen,Tier 2,1-3,2-5L,Manager,Cost,Biodegradable,1000-5000,<10K,Medium,Medium,Awareness,Unlikely
+Cloud Kitchen,Tier 1,1-3,5-10L,Owner,Customer Experience,Paper,1000-5000,<10K,High,Medium,Supply,Very Likely
+Restaurant,Tier 2,1-3,10-25L,Owner,Cost,Mixed,1000-5000,<10K,Low,Medium,Awareness,Unlikely
+Restaurant,Tier 3,1-3,5-10L,Manager,Customer Experience,Biodegradable,1000-5000,10K-50K,High,Medium,Supply,Likely
+Retail,Tier 2,5+,5-10L,Manager,Compliance,Paper,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 2,1-3,5-10L,Multiple,Customer Experience,Plastic,<1000,<10K,Medium,High,Cost,Unlikely
+Retail,Tier 1,1-3,2-5L,Manager,Quality,Mixed,<1000,<10K,Medium,Low,Supply,Neutral
+Restaurant,Tier 3,<1,10-25L,Owner,Compliance,Mixed,1000-5000,10K-50K,Medium,Low,Awareness,Unlikely
+Cloud Kitchen,Tier 3,5+,2-5L,Manager,Quality,Plastic,1000-5000,<10K,Low,Medium,Quality,Unlikely
+Cloud Kitchen,Tier 2,1-3,5-10L,Multiple,Cost,Paper,<1000,<10K,High,Low,Awareness,Likely
+Restaurant,Tier 3,<1,5-10L,Procurement,Quality,Plastic,1000-5000,10K-50K,Low,High,Cost,Unlikely
+Restaurant,Tier 1,3-5,2-5L,Owner,Cost,Biodegradable,<1000,10K-50K,Low,Low,Quality,Neutral
+Restaurant,Tier 1,3-5,2-5L,Owner,Customer Experience,Biodegradable,<1000,10K-50K,Medium,Medium,Awareness,Neutral
+Restaurant,Tier 3,1-3,2-5L,Owner,Cost,Plastic,1000-5000,<10K,High,Low,Supply,Likely
+Catering,Tier 3,1-3,10-25L,Manager,Quality,Mixed,1000-5000,10K-50K,Low,Low,Awareness,Unlikely
+Restaurant,Tier 1,3-5,25L+,Manager,Brand,Plastic,10000+,5L+,High,Low,Supply,Very Likely
+E-commerce,Tier 1,<1,5-10L,Manager,Quality,Biodegradable,<1000,10K-50K,High,High,Quality,Very Likely
+Restaurant,Tier 1,5+,5-10L,Owner,Brand,Paper,1000-5000,10K-50K,Medium,High,Quality,Very Likely
+Retail,Tier 1,3-5,25L+,Manager,Cost,Plastic,5000-10000,1L-5L,Medium,Medium,Awareness,Neutral
+E-commerce,Tier 3,1-3,<2L,Procurement,Quality,Plastic,<1000,10K-50K,High,High,Quality,Very Likely
+Retail,Tier 2,1-3,2-5L,Owner,Cost,Plastic,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,1-3,5-10L,Manager,Customer Experience,Biodegradable,<1000,<10K,Medium,High,Quality,Very Likely
+Cloud Kitchen,Tier 1,3-5,10-25L,Owner,Compliance,Paper,1000-5000,10K-50K,High,High,Quality,Very Likely
+Restaurant,Tier 1,1-3,10-25L,Procurement,Customer Experience,Plastic,1000-5000,<10K,High,Low,Cost,Neutral
+Catering,Tier 1,1-3,2-5L,Procurement,Cost,Plastic,1000-5000,<10K,High,Medium,Supply,Very Likely
+E-commerce,Tier 2,3-5,<2L,Manager,Cost,Plastic,<1000,10K-50K,Low,Medium,Cost,Very Unlikely
+Catering,Tier 3,5+,2-5L,Manager,Cost,Biodegradable,<1000,<10K,Low,Low,Quality,Unlikely
+Restaurant,Tier 3,1-3,2-5L,Procurement,Cost,Biodegradable,1000-5000,10K-50K,Low,Low,Supply,Unlikely
+Retail,Tier 1,5+,2-5L,Owner,Cost,Plastic,<1000,<10K,Medium,High,Quality,Very Likely
+Catering,Tier 3,1-3,10-25L,Owner,Brand,Paper,5000-10000,1L-5L,Medium,High,Supply,Likely
+Restaurant,Tier 3,<1,<2L,Procurement,Cost,Plastic,<1000,<10K,Medium,High,Cost,Unlikely
+Restaurant,Tier 3,1-3,10-25L,Owner,Quality,Mixed,5000-10000,1L-5L,Medium,High,Awareness,Likely
+Retail,Tier 2,1-3,2-5L,Owner,Customer Experience,Mixed,<1000,10K-50K,High,High,Cost,Likely
+Retail,Tier 1,1-3,5-10L,Procurement,Brand,Biodegradable,1000-5000,<10K,High,Low,Cost,Neutral
+E-commerce,Tier 1,<1,<2L,Manager,Quality,Mixed,1000-5000,<10K,High,Low,Awareness,Very Likely
+Restaurant,Tier 1,5+,2-5L,Owner,Quality,Mixed,1000-5000,10K-50K,Low,Low,Supply,Neutral
+E-commerce,Tier 1,5+,<2L,Owner,Quality,Mixed,1000-5000,<10K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 1,3-5,25L+,Owner,Cost,Paper,5000-10000,1L-5L,High,Low,Awareness,Very Likely
+Restaurant,Tier 2,<1,10-25L,Owner,Brand,Plastic,5000-10000,50K-1L,Medium,Medium,Quality,Unlikely
+Restaurant,Tier 2,<1,2-5L,Owner,Quality,Plastic,<1000,10K-50K,Medium,High,Awareness,Likely
+E-commerce,Tier 2,<1,2-5L,Manager,Customer Experience,Plastic,<1000,<10K,Low,High,Quality,Likely
+Retail,Tier 1,3-5,25L+,Owner,Compliance,Paper,5000-10000,1L-5L,Low,Medium,Quality,Neutral
+Cloud Kitchen,Tier 3,5+,2-5L,Owner,Brand,Plastic,<1000,<10K,Medium,High,Quality,Likely
+Cloud Kitchen,Tier 3,1-3,<2L,Owner,Quality,Plastic,<1000,10K-50K,High,Medium,Cost,Unlikely
+E-commerce,Tier 3,<1,5-10L,Multiple,Cost,Paper,<1000,<10K,High,High,Quality,Very Likely
+Cloud Kitchen,Tier 3,1-3,25L+,Owner,Compliance,Plastic,5000-10000,1L-5L,Medium,Medium,Quality,Unlikely
+E-commerce,Tier 2,1-3,<2L,Owner,Quality,Paper,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,1-3,2-5L,Owner,Cost,Mixed,<1000,<10K,High,High,Cost,Likely
+Cloud Kitchen,Tier 1,3-5,25L+,Manager,Cost,Biodegradable,5000-10000,1L-5L,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,3-5,<2L,Manager,Cost,Biodegradable,1000-5000,<10K,Medium,Medium,Awareness,Neutral
+Restaurant,Tier 1,<1,<2L,Owner,Compliance,Paper,<1000,<10K,High,Low,Quality,Very Likely
+Retail,Tier 1,<1,5-10L,Owner,Cost,Paper,1000-5000,10K-50K,High,Medium,Supply,Very Likely
+Cloud Kitchen,Tier 1,5+,10-25L,Owner,Quality,Plastic,5000-10000,1L-5L,High,High,Awareness,Very Likely
+Restaurant,Tier 2,1-3,2-5L,Manager,Quality,Mixed,1000-5000,10K-50K,Low,Low,Quality,Unlikely
+E-commerce,Tier 3,<1,25L+,Manager,Quality,Plastic,10000+,5L+,Medium,High,Awareness,Likely
+Cloud Kitchen,Tier 2,<1,5-10L,Owner,Customer Experience,Plastic,<1000,<10K,High,Low,Cost,Unlikely
+Cloud Kitchen,Tier 1,<1,<2L,Owner,Customer Experience,Biodegradable,1000-5000,<10K,Low,Low,Cost,Very Unlikely
+Catering,Tier 3,1-3,25L+,Owner,Quality,Plastic,5000-10000,50K-1L,High,Low,Quality,Likely
+Retail,Tier 2,5+,2-5L,Owner,Cost,Plastic,1000-5000,10K-50K,Low,High,Quality,Likely
+Restaurant,Tier 1,1-3,2-5L,Manager,Quality,Plastic,1000-5000,<10K,High,Low,Awareness,Very Likely
+Catering,Tier 2,1-3,5-10L,Owner,Brand,Plastic,<1000,<10K,Medium,Medium,Quality,Unlikely
+Retail,Tier 1,3-5,2-5L,Owner,Quality,Plastic,1000-5000,10K-50K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,<2L,Owner,Brand,Plastic,<1000,<10K,Medium,Low,Supply,Neutral
+Restaurant,Tier 3,5+,<2L,Multiple,Cost,Biodegradable,<1000,<10K,Medium,High,Quality,Likely
+E-commerce,Tier 1,5+,2-5L,Procurement,Brand,Mixed,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 2,<1,10-25L,Owner,Cost,Plastic,1000-5000,<10K,Medium,Low,Quality,Unlikely
+Cloud Kitchen,Tier 3,3-5,5-10L,Owner,Compliance,Mixed,<1000,10K-50K,High,Low,Awareness,Likely
+E-commerce,Tier 2,1-3,25L+,Owner,Cost,Plastic,10000+,5L+,Medium,Medium,Supply,Unlikely
+E-commerce,Tier 1,5+,2-5L,Owner,Compliance,Plastic,1000-5000,<10K,Medium,Medium,Quality,Neutral
+Restaurant,Tier 1,1-3,2-5L,Owner,Cost,Plastic,<1000,<10K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 1,5+,<2L,Manager,Quality,Paper,<1000,<10K,High,Low,Cost,Neutral
+Restaurant,Tier 2,3-5,<2L,Manager,Compliance,Paper,<1000,10K-50K,Low,Medium,Quality,Unlikely
+Retail,Tier 2,1-3,2-5L,Procurement,Cost,Paper,1000-5000,10K-50K,Medium,Low,Supply,Unlikely
+Restaurant,Tier 1,1-3,10-25L,Owner,Compliance,Biodegradable,5000-10000,50K-1L,High,High,Cost,Very Likely
+Retail,Tier 3,5+,25L+,Procurement,Brand,Paper,10000+,1L-5L,Low,High,Cost,Unlikely
+E-commerce,Tier 2,5+,25L+,Procurement,Quality,Paper,10000+,5L+,Medium,Medium,Awareness,Unlikely
+E-commerce,Tier 1,<1,2-5L,Owner,Quality,Mixed,1000-5000,<10K,Low,Low,Supply,Neutral
+Restaurant,Tier 2,3-5,10-25L,Owner,Quality,Plastic,1000-5000,<10K,High,Medium,Quality,Likely
+E-commerce,Tier 2,1-3,2-5L,Owner,Quality,Plastic,1000-5000,10K-50K,Medium,High,Cost,Unlikely
+Restaurant,Tier 1,<1,<2L,Owner,Quality,Biodegradable,<1000,<10K,High,Medium,Cost,Neutral
+E-commerce,Tier 1,1-3,10-25L,Owner,Brand,Paper,5000-10000,50K-1L,High,High,Cost,Very Likely
+Restaurant,Tier 3,1-3,5-10L,Manager,Quality,Plastic,<1000,<10K,Medium,Medium,Quality,Unlikely
+Cloud Kitchen,Tier 2,5+,<2L,Owner,Cost,Plastic,<1000,<10K,High,Medium,Cost,Unlikely
+E-commerce,Tier 2,1-3,2-5L,Multiple,Cost,Paper,<1000,10K-50K,Medium,Low,Supply,Unlikely
+Restaurant,Tier 2,5+,2-5L,Owner,Cost,Paper,1000-5000,10K-50K,Medium,Medium,Awareness,Unlikely
+Restaurant,Tier 1,<1,5-10L,Multiple,Cost,Plastic,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 1,1-3,2-5L,Owner,Compliance,Mixed,<1000,10K-50K,High,High,Quality,Very Likely
+Retail,Tier 2,1-3,25L+,Procurement,Compliance,Biodegradable,5000-10000,50K-1L,Medium,High,Supply,Likely
+Retail,Tier 1,1-3,<2L,Owner,Cost,Paper,1000-5000,<10K,Medium,High,Awareness,Very Likely
+Retail,Tier 1,<1,2-5L,Owner,Customer Experience,Biodegradable,<1000,<10K,Medium,Medium,Awareness,Neutral
+Cloud Kitchen,Tier 3,<1,2-5L,Procurement,Quality,Mixed,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 3,3-5,5-10L,Owner,Customer Experience,Plastic,1000-5000,10K-50K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 3,1-3,2-5L,Manager,Compliance,Plastic,1000-5000,<10K,Medium,Medium,Supply,Unlikely
+Restaurant,Tier 3,1-3,5-10L,Manager,Compliance,Paper,<1000,<10K,Medium,High,Supply,Likely
+Catering,Tier 1,1-3,10-25L,Owner,Cost,Biodegradable,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 3,5+,25L+,Owner,Cost,Plastic,10000+,5L+,Medium,Low,Quality,Unlikely
+Cloud Kitchen,Tier 1,5+,10-25L,Manager,Cost,Mixed,1000-5000,10K-50K,Medium,High,Supply,Very Likely
+Cloud Kitchen,Tier 3,1-3,10-25L,Owner,Compliance,Paper,5000-10000,50K-1L,High,High,Cost,Likely
+Catering,Tier 3,1-3,5-10L,Manager,Cost,Plastic,<1000,10K-50K,High,Medium,Awareness,Likely
+Restaurant,Tier 2,<1,10-25L,Procurement,Compliance,Plastic,5000-10000,50K-1L,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 3,5+,2-5L,Owner,Cost,Plastic,1000-5000,<10K,Low,High,Supply,Likely
+Cloud Kitchen,Tier 2,<1,2-5L,Owner,Compliance,Biodegradable,1000-5000,10K-50K,High,Medium,Quality,Likely
+Retail,Tier 1,1-3,2-5L,Manager,Cost,Mixed,1000-5000,10K-50K,High,High,Cost,Very Likely
+Restaurant,Tier 2,1-3,2-5L,Owner,Cost,Paper,<1000,10K-50K,Medium,Low,Supply,Unlikely
+E-commerce,Tier 2,1-3,2-5L,Owner,Cost,Mixed,1000-5000,<10K,Low,Medium,Supply,Unlikely
+Catering,Tier 1,<1,25L+,Owner,Quality,Mixed,5000-10000,50K-1L,Low,Medium,Awareness,Neutral
+Retail,Tier 2,3-5,2-5L,Manager,Cost,Paper,<1000,<10K,Low,High,Cost,Unlikely
+Retail,Tier 3,<1,<2L,Owner,Compliance,Biodegradable,1000-5000,10K-50K,Low,High,Supply,Likely
+Catering,Tier 1,3-5,5-10L,Owner,Cost,Paper,<1000,<10K,High,High,Quality,Very Likely
+Retail,Tier 3,<1,<2L,Procurement,Quality,Paper,1000-5000,<10K,Medium,Medium,Quality,Unlikely
+Restaurant,Tier 3,<1,<2L,Owner,Compliance,Plastic,<1000,<10K,Medium,High,Awareness,Likely
+Retail,Tier 3,5+,2-5L,Owner,Cost,Biodegradable,<1000,<10K,High,Medium,Cost,Unlikely
+Retail,Tier 3,<1,2-5L,Multiple,Customer Experience,Plastic,1000-5000,10K-50K,High,Medium,Cost,Unlikely
+Cloud Kitchen,Tier 2,5+,2-5L,Manager,Customer Experience,Mixed,<1000,<10K,High,Low,Quality,Likely
+Retail,Tier 3,1-3,10-25L,Procurement,Cost,Mixed,1000-5000,10K-50K,High,High,Cost,Likely
+Catering,Tier 3,<1,5-10L,Owner,Cost,Plastic,1000-5000,10K-50K,Medium,High,Awareness,Likely
+Catering,Tier 1,5+,2-5L,Procurement,Quality,Plastic,1000-5000,<10K,High,Low,Quality,Very Likely
+Cloud Kitchen,Tier 2,1-3,2-5L,Owner,Compliance,Paper,1000-5000,<10K,High,Low,Quality,Likely
+Restaurant,Tier 2,5+,2-5L,Owner,Quality,Paper,<1000,10K-50K,Low,High,Supply,Likely
+Catering,Tier 1,<1,10-25L,Owner,Brand,Plastic,5000-10000,50K-1L,Medium,Medium,Quality,Neutral
+E-commerce,Tier 2,5+,<2L,Owner,Compliance,Paper,<1000,10K-50K,Medium,High,Quality,Likely
+Restaurant,Tier 2,<1,<2L,Procurement,Cost,Plastic,1000-5000,<10K,High,Low,Cost,Unlikely
+Catering,Tier 1,1-3,10-25L,Owner,Compliance,Plastic,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 2,3-5,2-5L,Manager,Compliance,Plastic,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,5+,<2L,Manager,Quality,Plastic,<1000,<10K,Low,Low,Supply,Unlikely
+Retail,Tier 2,5+,2-5L,Manager,Customer Experience,Biodegradable,1000-5000,10K-50K,Medium,Low,Quality,Unlikely
+Cloud Kitchen,Tier 1,5+,25L+,Owner,Compliance,Mixed,5000-10000,1L-5L,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 1,5+,10-25L,Manager,Cost,Paper,1000-5000,<10K,Medium,Low,Quality,Neutral
+Restaurant,Tier 1,<1,5-10L,Owner,Quality,Paper,<1000,10K-50K,High,Low,Cost,Neutral
+E-commerce,Tier 3,1-3,2-5L,Owner,Quality,Plastic,1000-5000,<10K,Low,High,Awareness,Likely
+Restaurant,Tier 1,1-3,5-10L,Multiple,Cost,Paper,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 2,1-3,25L+,Owner,Customer Experience,Plastic,5000-10000,50K-1L,Low,Medium,Awareness,Unlikely
+Cloud Kitchen,Tier 1,1-3,25L+,Owner,Cost,Paper,10000+,5L+,Low,High,Quality,Very Likely
+Cloud Kitchen,Tier 1,1-3,2-5L,Procurement,Brand,Mixed,1000-5000,<10K,Medium,Medium,Quality,Neutral
+Catering,Tier 3,<1,10-25L,Owner,Quality,Plastic,5000-10000,50K-1L,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,3-5,<2L,Manager,Cost,Biodegradable,<1000,10K-50K,Medium,Medium,Awareness,Unlikely
+Restaurant,Tier 1,<1,2-5L,Owner,Customer Experience,Plastic,<1000,10K-50K,Low,High,Cost,Neutral
+Retail,Tier 2,1-3,5-10L,Owner,Customer Experience,Plastic,1000-5000,10K-50K,Low,High,Quality,Likely
+Cloud Kitchen,Tier 1,1-3,2-5L,Owner,Quality,Plastic,<1000,10K-50K,Medium,Medium,Awareness,Neutral
+Restaurant,Tier 2,3-5,25L+,Owner,Cost,Plastic,10000+,1L-5L,Medium,High,Awareness,Likely
+Cloud Kitchen,Tier 2,3-5,<2L,Owner,Cost,Plastic,1000-5000,<10K,Low,Medium,Quality,Unlikely
+Restaurant,Tier 1,3-5,5-10L,Manager,Quality,Plastic,<1000,<10K,Medium,Low,Awareness,Neutral
+Restaurant,Tier 1,<1,25L+,Manager,Cost,Paper,10000+,1L-5L,High,High,Supply,Very Likely
+Cloud Kitchen,Tier 1,1-3,25L+,Multiple,Quality,Plastic,5000-10000,1L-5L,High,Medium,Cost,Neutral
+Cloud Kitchen,Tier 3,<1,<2L,Owner,Customer Experience,Biodegradable,<1000,10K-50K,Low,High,Quality,Likely
+Catering,Tier 3,1-3,2-5L,Manager,Quality,Mixed,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,1-3,5-10L,Manager,Customer Experience,Paper,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 3,<1,<2L,Multiple,Brand,Plastic,1000-5000,10K-50K,Low,High,Supply,Likely
+Retail,Tier 1,1-3,25L+,Owner,Quality,Plastic,10000+,5L+,High,Low,Quality,Very Likely
+Restaurant,Tier 1,5+,25L+,Manager,Customer Experience,Mixed,10000+,5L+,High,High,Cost,Very Likely
+Retail,Tier 3,5+,<2L,Procurement,Quality,Paper,<1000,10K-50K,High,High,Awareness,Very Likely
+Restaurant,Tier 3,1-3,<2L,Owner,Customer Experience,Paper,1000-5000,<10K,High,High,Cost,Likely
+Catering,Tier 3,<1,<2L,Procurement,Cost,Plastic,<1000,<10K,High,Medium,Awareness,Likely
+Restaurant,Tier 2,<1,25L+,Owner,Cost,Paper,10000+,5L+,Medium,Medium,Awareness,Unlikely
+Cloud Kitchen,Tier 1,1-3,<2L,Manager,Customer Experience,Plastic,1000-5000,10K-50K,Medium,High,Awareness,Very Likely
+Restaurant,Tier 3,5+,2-5L,Multiple,Quality,Mixed,1000-5000,<10K,High,High,Supply,Very Likely
+Catering,Tier 1,<1,2-5L,Manager,Customer Experience,Mixed,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,3-5,5-10L,Owner,Customer Experience,Plastic,<1000,10K-50K,Medium,High,Quality,Likely
+Retail,Tier 1,<1,<2L,Owner,Cost,Paper,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,5+,2-5L,Multiple,Quality,Plastic,<1000,10K-50K,High,High,Cost,Likely
+Retail,Tier 1,1-3,25L+,Owner,Quality,Paper,5000-10000,50K-1L,Low,Low,Quality,Neutral
+Restaurant,Tier 1,3-5,25L+,Owner,Brand,Mixed,5000-10000,1L-5L,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 3,1-3,10-25L,Manager,Compliance,Paper,5000-10000,1L-5L,High,Medium,Awareness,Likely
+Restaurant,Tier 1,3-5,<2L,Owner,Cost,Plastic,<1000,10K-50K,High,Low,Awareness,Very Likely
+Restaurant,Tier 2,<1,2-5L,Owner,Quality,Plastic,1000-5000,10K-50K,High,High,Cost,Likely
+Restaurant,Tier 1,<1,5-10L,Owner,Compliance,Mixed,1000-5000,10K-50K,Medium,Low,Quality,Neutral
+Cloud Kitchen,Tier 1,5+,2-5L,Owner,Cost,Paper,1000-5000,10K-50K,Low,High,Quality,Very Likely
+Retail,Tier 1,5+,25L+,Manager,Compliance,Paper,10000+,5L+,High,Low,Awareness,Very Likely
+Restaurant,Tier 1,5+,5-10L,Manager,Brand,Plastic,1000-5000,10K-50K,Low,Medium,Supply,Neutral
+E-commerce,Tier 3,3-5,<2L,Manager,Customer Experience,Plastic,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,5+,25L+,Procurement,Cost,Mixed,5000-10000,50K-1L,Medium,Medium,Quality,Neutral
+Cloud Kitchen,Tier 3,<1,25L+,Procurement,Cost,Paper,5000-10000,50K-1L,Low,Low,Quality,Unlikely
+Cloud Kitchen,Tier 2,1-3,<2L,Manager,Quality,Paper,<1000,10K-50K,Medium,Low,Awareness,Unlikely
+Cloud Kitchen,Tier 2,1-3,5-10L,Owner,Cost,Paper,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 2,3-5,2-5L,Manager,Customer Experience,Biodegradable,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 2,1-3,2-5L,Owner,Cost,Plastic,<1000,<10K,High,Low,Awareness,Likely
+Restaurant,Tier 3,<1,<2L,Manager,Compliance,Plastic,1000-5000,<10K,Low,High,Awareness,Likely
+E-commerce,Tier 1,3-5,5-10L,Manager,Quality,Paper,1000-5000,<10K,Low,Low,Awareness,Neutral
+Catering,Tier 1,5+,25L+,Owner,Quality,Biodegradable,10000+,5L+,Medium,Medium,Quality,Neutral
+Cloud Kitchen,Tier 3,1-3,5-10L,Multiple,Cost,Biodegradable,1000-5000,<10K,Medium,Low,Supply,Unlikely
+Restaurant,Tier 3,<1,<2L,Owner,Brand,Mixed,<1000,10K-50K,High,Low,Quality,Likely
+Retail,Tier 3,<1,5-10L,Manager,Quality,Plastic,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,1-3,2-5L,Owner,Cost,Plastic,<1000,<10K,High,Low,Quality,Likely
+Restaurant,Tier 3,1-3,10-25L,Multiple,Customer Experience,Mixed,5000-10000,1L-5L,Medium,High,Cost,Unlikely
+Restaurant,Tier 2,3-5,2-5L,Owner,Cost,Paper,<1000,<10K,Medium,High,Cost,Unlikely
+Retail,Tier 2,3-5,<2L,Owner,Quality,Paper,1000-5000,10K-50K,Low,Low,Awareness,Unlikely
+Retail,Tier 1,3-5,<2L,Owner,Quality,Biodegradable,<1000,10K-50K,Medium,High,Cost,Neutral
+Restaurant,Tier 2,1-3,10-25L,Owner,Cost,Paper,5000-10000,50K-1L,Low,Low,Awareness,Unlikely
+Restaurant,Tier 1,5+,2-5L,Owner,Customer Experience,Plastic,1000-5000,10K-50K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,10-25L,Manager,Quality,Biodegradable,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 3,1-3,2-5L,Owner,Cost,Mixed,<1000,10K-50K,High,Medium,Quality,Likely
+Restaurant,Tier 1,5+,2-5L,Owner,Quality,Paper,<1000,10K-50K,High,Medium,Supply,Very Likely
+Restaurant,Tier 1,<1,2-5L,Owner,Brand,Paper,1000-5000,10K-50K,Medium,Low,Quality,Neutral
+E-commerce,Tier 1,<1,25L+,Procurement,Quality,Plastic,10000+,5L+,Medium,High,Awareness,Very Likely
+Restaurant,Tier 3,5+,25L+,Manager,Brand,Plastic,5000-10000,1L-5L,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 2,1-3,2-5L,Manager,Cost,Plastic,1000-5000,10K-50K,High,Low,Awareness,Likely
+Restaurant,Tier 2,3-5,2-5L,Manager,Cost,Plastic,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,<1,<2L,Owner,Compliance,Mixed,<1000,10K-50K,Low,High,Awareness,Likely
+Restaurant,Tier 3,3-5,5-10L,Owner,Cost,Biodegradable,1000-5000,<10K,Low,Low,Quality,Unlikely
+Retail,Tier 1,1-3,2-5L,Owner,Customer Experience,Biodegradable,<1000,<10K,Medium,Low,Supply,Neutral
+E-commerce,Tier 2,<1,25L+,Procurement,Cost,Paper,10000+,5L+,Medium,Medium,Supply,Unlikely
+E-commerce,Tier 3,3-5,25L+,Multiple,Compliance,Plastic,5000-10000,1L-5L,Low,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,1-3,2-5L,Owner,Quality,Mixed,1000-5000,<10K,High,Medium,Awareness,Likely
+Retail,Tier 1,1-3,2-5L,Owner,Brand,Plastic,1000-5000,<10K,High,Low,Cost,Neutral
+Restaurant,Tier 3,<1,10-25L,Owner,Cost,Plastic,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,<1,10-25L,Owner,Cost,Paper,5000-10000,1L-5L,Low,Medium,Supply,Unlikely
+E-commerce,Tier 1,1-3,<2L,Manager,Cost,Mixed,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,<1,2-5L,Owner,Cost,Mixed,1000-5000,10K-50K,High,Low,Cost,Unlikely
+Restaurant,Tier 1,5+,2-5L,Multiple,Cost,Plastic,<1000,<10K,High,Medium,Quality,Very Likely
+Restaurant,Tier 1,<1,2-5L,Owner,Quality,Mixed,1000-5000,10K-50K,Low,Low,Supply,Neutral
+Restaurant,Tier 3,1-3,<2L,Multiple,Quality,Plastic,<1000,10K-50K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,<1,<2L,Procurement,Compliance,Plastic,<1000,10K-50K,Medium,High,Quality,Very Likely
+Retail,Tier 2,1-3,5-10L,Procurement,Brand,Mixed,<1000,10K-50K,Medium,Medium,Supply,Unlikely
+Cloud Kitchen,Tier 2,5+,2-5L,Manager,Brand,Mixed,1000-5000,<10K,Medium,Low,Awareness,Unlikely
+E-commerce,Tier 1,<1,<2L,Manager,Quality,Paper,<1000,10K-50K,High,Medium,Awareness,Very Likely
+E-commerce,Tier 3,5+,2-5L,Manager,Quality,Paper,<1000,10K-50K,Medium,High,Supply,Likely
+Restaurant,Tier 1,1-3,10-25L,Manager,Quality,Mixed,5000-10000,50K-1L,Low,High,Supply,Very Likely
+Restaurant,Tier 1,3-5,10-25L,Manager,Compliance,Biodegradable,5000-10000,1L-5L,High,Medium,Quality,Very Likely
+Cloud Kitchen,Tier 1,1-3,2-5L,Multiple,Cost,Mixed,1000-5000,<10K,Low,Low,Cost,Very Unlikely
+Retail,Tier 1,5+,2-5L,Manager,Cost,Paper,<1000,<10K,High,Medium,Supply,Very Likely
+Restaurant,Tier 1,3-5,25L+,Procurement,Brand,Mixed,5000-10000,1L-5L,Medium,Medium,Awareness,Neutral
+Retail,Tier 2,1-3,2-5L,Procurement,Cost,Mixed,1000-5000,<10K,High,High,Supply,Very Likely
+Cloud Kitchen,Tier 3,<1,2-5L,Owner,Customer Experience,Plastic,<1000,10K-50K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 1,<1,2-5L,Owner,Customer Experience,Mixed,<1000,<10K,Low,Medium,Quality,Neutral
+Cloud Kitchen,Tier 2,5+,<2L,Owner,Cost,Paper,1000-5000,<10K,Medium,Medium,Quality,Unlikely
+Restaurant,Tier 2,1-3,2-5L,Manager,Cost,Plastic,1000-5000,10K-50K,Medium,Low,Supply,Unlikely
+Catering,Tier 3,1-3,25L+,Procurement,Quality,Paper,5000-10000,50K-1L,Medium,High,Supply,Likely
+E-commerce,Tier 2,3-5,5-10L,Owner,Brand,Plastic,<1000,10K-50K,High,Medium,Quality,Likely
+Restaurant,Tier 1,1-3,2-5L,Manager,Cost,Paper,<1000,10K-50K,High,High,Cost,Very Likely
+E-commerce,Tier 1,5+,25L+,Manager,Compliance,Mixed,5000-10000,1L-5L,Medium,Medium,Awareness,Neutral
+Cloud Kitchen,Tier 2,3-5,<2L,Owner,Quality,Plastic,1000-5000,10K-50K,Low,Low,Supply,Unlikely
+E-commerce,Tier 3,3-5,2-5L,Manager,Cost,Paper,1000-5000,<10K,High,Medium,Cost,Unlikely
+E-commerce,Tier 1,5+,5-10L,Procurement,Cost,Mixed,<1000,10K-50K,High,Low,Cost,Neutral
+Cloud Kitchen,Tier 1,<1,5-10L,Owner,Compliance,Paper,<1000,<10K,Medium,Low,Awareness,Neutral
+Restaurant,Tier 3,1-3,<2L,Manager,Cost,Plastic,1000-5000,10K-50K,High,Low,Awareness,Likely
+Restaurant,Tier 3,1-3,2-5L,Manager,Compliance,Paper,<1000,<10K,Low,Medium,Quality,Unlikely
+Cloud Kitchen,Tier 3,1-3,5-10L,Owner,Quality,Paper,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 3,3-5,5-10L,Owner,Quality,Paper,<1000,<10K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 1,5+,5-10L,Multiple,Customer Experience,Mixed,1000-5000,<10K,High,Medium,Cost,Neutral
+Restaurant,Tier 2,1-3,2-5L,Owner,Customer Experience,Paper,<1000,10K-50K,Medium,Medium,Quality,Unlikely
+E-commerce,Tier 2,1-3,<2L,Owner,Quality,Mixed,<1000,10K-50K,Medium,High,Quality,Likely
+Catering,Tier 1,5+,2-5L,Owner,Cost,Paper,<1000,<10K,Low,Medium,Quality,Neutral
+Cloud Kitchen,Tier 2,1-3,<2L,Manager,Compliance,Plastic,<1000,<10K,Low,Medium,Supply,Unlikely
+Restaurant,Tier 2,1-3,25L+,Manager,Quality,Biodegradable,10000+,5L+,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,2-5L,Manager,Cost,Biodegradable,<1000,<10K,Medium,High,Cost,Neutral
+Restaurant,Tier 3,5+,2-5L,Owner,Customer Experience,Paper,<1000,<10K,Low,Medium,Cost,Very Unlikely
+Catering,Tier 2,3-5,10-25L,Procurement,Cost,Plastic,1000-5000,10K-50K,Low,High,Cost,Unlikely
+Restaurant,Tier 3,3-5,2-5L,Owner,Cost,Plastic,1000-5000,<10K,High,Low,Cost,Unlikely
+Retail,Tier 1,5+,2-5L,Owner,Cost,Plastic,1000-5000,<10K,Medium,Medium,Quality,Neutral
+Restaurant,Tier 1,1-3,10-25L,Owner,Brand,Plastic,5000-10000,1L-5L,High,Medium,Supply,Very Likely
+Retail,Tier 2,1-3,10-25L,Owner,Brand,Biodegradable,5000-10000,50K-1L,Low,Low,Supply,Unlikely
+Retail,Tier 1,5+,5-10L,Procurement,Cost,Plastic,<1000,10K-50K,Medium,Medium,Supply,Neutral
+E-commerce,Tier 2,1-3,<2L,Multiple,Cost,Biodegradable,1000-5000,10K-50K,Medium,High,Supply,Likely
+Restaurant,Tier 3,3-5,5-10L,Owner,Cost,Plastic,1000-5000,10K-50K,Low,Medium,Supply,Unlikely
+Restaurant,Tier 1,5+,10-25L,Procurement,Brand,Plastic,1000-5000,10K-50K,Low,High,Cost,Neutral
+Restaurant,Tier 2,3-5,<2L,Procurement,Cost,Paper,1000-5000,<10K,High,Low,Awareness,Likely
+Catering,Tier 2,3-5,2-5L,Multiple,Customer Experience,Plastic,1000-5000,10K-50K,High,Medium,Cost,Unlikely
+E-commerce,Tier 1,5+,10-25L,Owner,Cost,Mixed,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 3,5+,<2L,Manager,Customer Experience,Plastic,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 3,1-3,10-25L,Owner,Cost,Paper,1000-5000,10K-50K,High,High,Awareness,Very Likely
+Retail,Tier 2,<1,2-5L,Procurement,Compliance,Mixed,<1000,<10K,Low,Low,Awareness,Unlikely
+Restaurant,Tier 2,1-3,2-5L,Owner,Cost,Paper,1000-5000,10K-50K,Medium,High,Supply,Likely
+Catering,Tier 2,3-5,<2L,Manager,Cost,Plastic,1000-5000,10K-50K,High,Medium,Quality,Likely
+Cloud Kitchen,Tier 3,1-3,10-25L,Owner,Customer Experience,Paper,5000-10000,1L-5L,High,Low,Quality,Likely
+Cloud Kitchen,Tier 2,3-5,2-5L,Owner,Customer Experience,Biodegradable,<1000,10K-50K,Medium,High,Awareness,Likely
+Cloud Kitchen,Tier 2,1-3,5-10L,Manager,Quality,Mixed,<1000,<10K,Low,Medium,Supply,Unlikely
+Restaurant,Tier 3,3-5,5-10L,Procurement,Compliance,Mixed,1000-5000,<10K,Low,High,Awareness,Likely
+Restaurant,Tier 1,<1,5-10L,Manager,Quality,Plastic,1000-5000,<10K,High,Low,Cost,Neutral
+Retail,Tier 3,3-5,25L+,Procurement,Customer Experience,Mixed,10000+,5L+,High,High,Cost,Likely
+Restaurant,Tier 1,1-3,5-10L,Owner,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Awareness,Neutral
+Retail,Tier 1,1-3,2-5L,Manager,Quality,Plastic,<1000,10K-50K,High,Low,Cost,Neutral
+Restaurant,Tier 1,1-3,25L+,Owner,Quality,Mixed,5000-10000,50K-1L,High,Medium,Awareness,Very Likely
+Cloud Kitchen,Tier 3,3-5,5-10L,Owner,Quality,Plastic,1000-5000,10K-50K,Medium,Low,Quality,Unlikely
+Restaurant,Tier 3,1-3,2-5L,Manager,Customer Experience,Plastic,1000-5000,<10K,High,Medium,Awareness,Likely
+Cloud Kitchen,Tier 2,1-3,<2L,Manager,Cost,Plastic,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 2,5+,10-25L,Manager,Cost,Paper,1000-5000,<10K,Medium,Low,Supply,Unlikely
+Restaurant,Tier 2,3-5,2-5L,Manager,Quality,Biodegradable,<1000,10K-50K,Low,Low,Quality,Unlikely
+Retail,Tier 3,5+,5-10L,Manager,Brand,Paper,<1000,10K-50K,High,Medium,Quality,Likely
+Cloud Kitchen,Tier 2,1-3,2-5L,Owner,Cost,Plastic,<1000,10K-50K,Medium,Medium,Quality,Unlikely
+Retail,Tier 1,1-3,<2L,Owner,Quality,Paper,<1000,10K-50K,Low,Medium,Awareness,Neutral
+Catering,Tier 1,5+,5-10L,Manager,Customer Experience,Mixed,<1000,<10K,High,Low,Supply,Very Likely
+Retail,Tier 3,1-3,<2L,Owner,Cost,Mixed,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,3-5,2-5L,Owner,Brand,Plastic,<1000,10K-50K,High,Medium,Awareness,Likely
+Restaurant,Tier 1,1-3,5-10L,Owner,Compliance,Mixed,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,2-5L,Manager,Quality,Biodegradable,<1000,10K-50K,Medium,High,Cost,Neutral
+Retail,Tier 3,<1,5-10L,Owner,Customer Experience,Plastic,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,10-25L,Manager,Compliance,Plastic,5000-10000,1L-5L,High,Medium,Awareness,Very Likely
+Cloud Kitchen,Tier 2,<1,10-25L,Manager,Quality,Plastic,1000-5000,<10K,Low,Low,Cost,Very Unlikely
+Retail,Tier 3,<1,<2L,Owner,Quality,Biodegradable,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 2,5+,<2L,Procurement,Brand,Plastic,1000-5000,<10K,High,High,Awareness,Very Likely
+E-commerce,Tier 1,1-3,5-10L,Manager,Quality,Paper,1000-5000,<10K,Medium,High,Supply,Very Likely
+Restaurant,Tier 2,3-5,25L+,Manager,Customer Experience,Plastic,5000-10000,50K-1L,High,Low,Cost,Unlikely
+Restaurant,Tier 3,5+,10-25L,Manager,Quality,Mixed,1000-5000,<10K,High,Low,Supply,Likely
+Retail,Tier 2,3-5,10-25L,Owner,Cost,Plastic,1000-5000,<10K,Low,Medium,Awareness,Unlikely
+Cloud Kitchen,Tier 3,<1,2-5L,Manager,Cost,Mixed,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 1,3-5,2-5L,Owner,Cost,Mixed,<1000,10K-50K,Low,High,Supply,Very Likely
+Cloud Kitchen,Tier 2,3-5,2-5L,Multiple,Cost,Plastic,<1000,10K-50K,Low,Low,Quality,Unlikely
+Restaurant,Tier 2,3-5,<2L,Procurement,Customer Experience,Paper,<1000,<10K,High,Medium,Supply,Likely
+E-commerce,Tier 3,3-5,<2L,Manager,Brand,Plastic,<1000,<10K,High,Low,Quality,Likely
+E-commerce,Tier 1,5+,25L+,Owner,Brand,Mixed,10000+,5L+,Low,Low,Supply,Neutral
+Retail,Tier 3,3-5,2-5L,Owner,Brand,Paper,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 2,1-3,2-5L,Owner,Compliance,Plastic,1000-5000,<10K,Medium,High,Supply,Likely
+Retail,Tier 1,3-5,<2L,Owner,Quality,Plastic,<1000,<10K,Low,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,<1,25L+,Owner,Customer Experience,Plastic,5000-10000,50K-1L,Medium,High,Quality,Very Likely
+Restaurant,Tier 3,5+,5-10L,Manager,Quality,Mixed,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Catering,Tier 1,<1,5-10L,Owner,Customer Experience,Biodegradable,1000-5000,<10K,Medium,Low,Supply,Neutral
+Restaurant,Tier 1,1-3,25L+,Multiple,Brand,Mixed,5000-10000,50K-1L,Medium,Low,Cost,Very Unlikely
+Catering,Tier 1,5+,2-5L,Owner,Cost,Plastic,1000-5000,<10K,High,Low,Quality,Very Likely
+Cloud Kitchen,Tier 3,3-5,5-10L,Multiple,Quality,Plastic,1000-5000,<10K,Low,High,Quality,Likely
+Restaurant,Tier 2,1-3,<2L,Multiple,Quality,Mixed,<1000,<10K,High,Low,Supply,Likely
+Cloud Kitchen,Tier 3,1-3,<2L,Manager,Cost,Plastic,1000-5000,<10K,Medium,Low,Quality,Unlikely
+E-commerce,Tier 1,5+,10-25L,Manager,Quality,Mixed,1000-5000,<10K,High,Low,Supply,Very Likely
+Retail,Tier 2,1-3,10-25L,Owner,Cost,Plastic,5000-10000,1L-5L,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 2,5+,2-5L,Manager,Cost,Plastic,<1000,<10K,High,High,Cost,Likely
+Retail,Tier 3,<1,2-5L,Owner,Customer Experience,Biodegradable,<1000,<10K,High,Medium,Quality,Likely
+Retail,Tier 3,3-5,5-10L,Owner,Brand,Mixed,<1000,10K-50K,Medium,Medium,Awareness,Unlikely
+E-commerce,Tier 1,5+,<2L,Manager,Customer Experience,Mixed,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,<1,2-5L,Owner,Brand,Plastic,<1000,10K-50K,High,Low,Cost,Unlikely
+Cloud Kitchen,Tier 1,1-3,2-5L,Manager,Quality,Plastic,<1000,<10K,High,Low,Cost,Neutral
+Restaurant,Tier 2,<1,2-5L,Owner,Quality,Paper,1000-5000,<10K,High,High,Quality,Very Likely
+Catering,Tier 1,3-5,10-25L,Owner,Brand,Paper,5000-10000,1L-5L,High,Medium,Cost,Neutral
+Catering,Tier 1,1-3,2-5L,Owner,Customer Experience,Biodegradable,1000-5000,10K-50K,Medium,Low,Supply,Neutral
+Restaurant,Tier 1,3-5,<2L,Owner,Cost,Plastic,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+Retail,Tier 2,<1,5-10L,Owner,Customer Experience,Mixed,<1000,<10K,Low,Low,Cost,Very Unlikely
+Catering,Tier 1,1-3,10-25L,Owner,Customer Experience,Paper,1000-5000,<10K,High,Low,Cost,Neutral
+Restaurant,Tier 2,<1,2-5L,Owner,Brand,Mixed,<1000,10K-50K,Medium,Low,Quality,Unlikely
+Retail,Tier 2,1-3,<2L,Procurement,Customer Experience,Paper,<1000,<10K,Low,Low,Supply,Unlikely
+Catering,Tier 1,3-5,2-5L,Owner,Quality,Paper,<1000,<10K,High,Medium,Cost,Neutral
+Restaurant,Tier 3,5+,5-10L,Manager,Customer Experience,Mixed,<1000,10K-50K,High,Low,Awareness,Likely
+Retail,Tier 1,3-5,5-10L,Owner,Compliance,Paper,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 2,1-3,10-25L,Procurement,Cost,Mixed,5000-10000,1L-5L,Low,High,Supply,Likely
+Catering,Tier 2,5+,25L+,Owner,Customer Experience,Mixed,10000+,1L-5L,Medium,Medium,Quality,Unlikely
+Catering,Tier 1,3-5,10-25L,Owner,Quality,Biodegradable,1000-5000,<10K,Low,High,Cost,Neutral
+Catering,Tier 1,5+,5-10L,Manager,Quality,Paper,<1000,<10K,High,Low,Supply,Very Likely
+Cloud Kitchen,Tier 1,1-3,2-5L,Owner,Quality,Plastic,1000-5000,<10K,Medium,Medium,Supply,Neutral
+E-commerce,Tier 3,1-3,<2L,Manager,Cost,Plastic,1000-5000,<10K,High,Low,Cost,Unlikely
+E-commerce,Tier 2,<1,25L+,Owner,Quality,Plastic,5000-10000,1L-5L,High,Medium,Quality,Likely
+Restaurant,Tier 2,3-5,2-5L,Multiple,Compliance,Plastic,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 2,<1,<2L,Owner,Cost,Plastic,1000-5000,<10K,Medium,Low,Supply,Unlikely
+Restaurant,Tier 1,1-3,5-10L,Owner,Cost,Plastic,1000-5000,10K-50K,Medium,High,Cost,Neutral
+Retail,Tier 2,1-3,2-5L,Manager,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Supply,Unlikely
+Restaurant,Tier 3,3-5,5-10L,Owner,Quality,Paper,<1000,10K-50K,Medium,High,Cost,Unlikely
+Restaurant,Tier 1,3-5,5-10L,Procurement,Compliance,Plastic,<1000,10K-50K,High,Low,Cost,Neutral
+Restaurant,Tier 1,<1,2-5L,Owner,Compliance,Plastic,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 1,1-3,10-25L,Manager,Customer Experience,Biodegradable,1000-5000,<10K,High,Medium,Cost,Neutral
+Restaurant,Tier 2,3-5,2-5L,Owner,Brand,Paper,<1000,10K-50K,Low,Medium,Quality,Unlikely
+Retail,Tier 3,5+,2-5L,Procurement,Cost,Paper,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,3-5,5-10L,Manager,Customer Experience,Paper,1000-5000,10K-50K,High,High,Supply,Very Likely
+Restaurant,Tier 2,5+,5-10L,Owner,Compliance,Mixed,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,3-5,10-25L,Owner,Quality,Paper,1000-5000,<10K,Medium,Medium,Supply,Neutral
+E-commerce,Tier 3,3-5,2-5L,Owner,Brand,Paper,1000-5000,<10K,Medium,Low,Quality,Unlikely
+Restaurant,Tier 1,<1,5-10L,Multiple,Customer Experience,Mixed,<1000,10K-50K,Low,Low,Awareness,Neutral
+Retail,Tier 2,3-5,<2L,Owner,Compliance,Mixed,1000-5000,10K-50K,High,Medium,Awareness,Likely
+E-commerce,Tier 2,3-5,25L+,Owner,Quality,Paper,10000+,1L-5L,Low,Medium,Awareness,Unlikely
+Retail,Tier 2,3-5,2-5L,Owner,Compliance,Paper,1000-5000,<10K,Medium,Low,Supply,Unlikely
+Restaurant,Tier 2,1-3,5-10L,Owner,Cost,Plastic,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,<2L,Manager,Quality,Paper,<1000,10K-50K,High,Medium,Supply,Very Likely
+E-commerce,Tier 1,1-3,2-5L,Multiple,Quality,Mixed,<1000,<10K,Medium,Medium,Awareness,Neutral
+Restaurant,Tier 1,1-3,2-5L,Manager,Cost,Paper,<1000,<10K,Low,Low,Cost,Very Unlikely
+E-commerce,Tier 1,<1,10-25L,Procurement,Cost,Mixed,1000-5000,10K-50K,Medium,Low,Quality,Neutral
+Cloud Kitchen,Tier 2,5+,5-10L,Manager,Cost,Paper,1000-5000,<10K,Low,Low,Cost,Very Unlikely
+Catering,Tier 1,<1,25L+,Owner,Brand,Mixed,10000+,5L+,Low,High,Quality,Very Likely
+E-commerce,Tier 1,<1,2-5L,Owner,Compliance,Paper,<1000,10K-50K,Low,High,Quality,Very Likely
+Catering,Tier 2,1-3,2-5L,Manager,Customer Experience,Plastic,<1000,<10K,Medium,Medium,Quality,Unlikely
+Cloud Kitchen,Tier 3,3-5,<2L,Multiple,Cost,Paper,1000-5000,<10K,Low,High,Quality,Likely
+E-commerce,Tier 2,1-3,10-25L,Procurement,Quality,Plastic,1000-5000,<10K,Medium,Medium,Awareness,Unlikely
+Cloud Kitchen,Tier 1,1-3,2-5L,Owner,Customer Experience,Plastic,<1000,10K-50K,High,Low,Quality,Very Likely
+Cloud Kitchen,Tier 1,3-5,10-25L,Owner,Cost,Mixed,5000-10000,1L-5L,High,Low,Supply,Very Likely
+Retail,Tier 3,1-3,25L+,Owner,Compliance,Plastic,10000+,5L+,Low,High,Cost,Unlikely
+E-commerce,Tier 1,5+,25L+,Multiple,Compliance,Biodegradable,5000-10000,50K-1L,Low,Medium,Quality,Neutral
+Catering,Tier 1,5+,5-10L,Procurement,Cost,Plastic,<1000,<10K,Medium,High,Quality,Very Likely
+E-commerce,Tier 2,1-3,5-10L,Procurement,Customer Experience,Plastic,<1000,10K-50K,High,High,Cost,Likely
+Cloud Kitchen,Tier 2,1-3,10-25L,Owner,Compliance,Mixed,5000-10000,1L-5L,Low,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,3-5,<2L,Manager,Cost,Plastic,1000-5000,<10K,High,Low,Quality,Likely
+Retail,Tier 1,<1,5-10L,Owner,Cost,Paper,1000-5000,10K-50K,Medium,Low,Quality,Neutral
+Restaurant,Tier 1,1-3,<2L,Owner,Cost,Paper,<1000,<10K,Medium,Low,Quality,Neutral
+Restaurant,Tier 3,1-3,2-5L,Manager,Cost,Paper,1000-5000,<10K,High,Low,Cost,Unlikely
+Cloud Kitchen,Tier 1,5+,<2L,Owner,Quality,Mixed,<1000,10K-50K,High,Medium,Cost,Neutral
+Restaurant,Tier 2,<1,<2L,Owner,Quality,Biodegradable,<1000,10K-50K,High,Low,Quality,Likely
+Restaurant,Tier 2,3-5,2-5L,Procurement,Cost,Paper,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 2,3-5,2-5L,Procurement,Customer Experience,Mixed,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,5-10L,Owner,Quality,Plastic,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 1,<1,<2L,Manager,Cost,Paper,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+Catering,Tier 2,5+,5-10L,Owner,Cost,Mixed,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,1-3,<2L,Manager,Quality,Paper,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,3-5,5-10L,Procurement,Quality,Mixed,<1000,10K-50K,Low,High,Cost,Unlikely
+Retail,Tier 1,1-3,5-10L,Procurement,Cost,Biodegradable,1000-5000,10K-50K,Medium,Low,Supply,Neutral
+Restaurant,Tier 1,1-3,5-10L,Manager,Cost,Mixed,<1000,10K-50K,High,Low,Cost,Neutral
+Catering,Tier 3,1-3,5-10L,Owner,Compliance,Mixed,<1000,10K-50K,High,High,Quality,Very Likely
+E-commerce,Tier 2,<1,2-5L,Owner,Customer Experience,Plastic,<1000,10K-50K,Medium,Medium,Awareness,Unlikely
+Restaurant,Tier 3,<1,10-25L,Owner,Cost,Plastic,5000-10000,1L-5L,Medium,High,Supply,Likely
+Cloud Kitchen,Tier 1,5+,2-5L,Owner,Quality,Paper,1000-5000,<10K,Low,Low,Cost,Very Unlikely
+E-commerce,Tier 2,1-3,2-5L,Procurement,Brand,Biodegradable,<1000,10K-50K,High,High,Awareness,Very Likely
+Catering,Tier 2,<1,5-10L,Owner,Compliance,Plastic,1000-5000,10K-50K,Medium,High,Cost,Unlikely
+Cloud Kitchen,Tier 2,1-3,<2L,Owner,Quality,Plastic,1000-5000,10K-50K,High,Medium,Cost,Unlikely
+Retail,Tier 2,3-5,5-10L,Owner,Customer Experience,Plastic,1000-5000,10K-50K,High,Low,Awareness,Likely
+Restaurant,Tier 1,<1,5-10L,Multiple,Quality,Mixed,<1000,<10K,Low,High,Awareness,Very Likely
+Catering,Tier 2,3-5,2-5L,Owner,Quality,Biodegradable,1000-5000,<10K,Medium,High,Quality,Likely
+Restaurant,Tier 1,<1,<2L,Manager,Brand,Paper,1000-5000,<10K,High,High,Supply,Very Likely
+Catering,Tier 2,<1,<2L,Owner,Customer Experience,Plastic,1000-5000,<10K,Low,Low,Supply,Unlikely
+Retail,Tier 3,<1,25L+,Owner,Compliance,Plastic,10000+,1L-5L,Medium,High,Cost,Unlikely
+Retail,Tier 1,5+,5-10L,Owner,Cost,Plastic,<1000,<10K,High,Low,Cost,Neutral
+Cloud Kitchen,Tier 3,<1,<2L,Manager,Cost,Plastic,1000-5000,10K-50K,Medium,Low,Quality,Unlikely
+Restaurant,Tier 1,<1,2-5L,Manager,Quality,Mixed,1000-5000,10K-50K,High,Medium,Awareness,Very Likely
+Restaurant,Tier 2,1-3,5-10L,Procurement,Cost,Mixed,<1000,<10K,High,Low,Cost,Unlikely
+Restaurant,Tier 3,5+,10-25L,Owner,Compliance,Plastic,1000-5000,10K-50K,High,Medium,Supply,Likely
+Restaurant,Tier 1,1-3,<2L,Owner,Compliance,Plastic,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+E-commerce,Tier 1,1-3,2-5L,Multiple,Compliance,Plastic,1000-5000,10K-50K,Medium,Low,Quality,Neutral
+Cloud Kitchen,Tier 2,<1,10-25L,Owner,Customer Experience,Paper,5000-10000,1L-5L,Low,Medium,Quality,Unlikely
+Restaurant,Tier 1,1-3,<2L,Manager,Cost,Plastic,1000-5000,10K-50K,High,High,Supply,Very Likely
+Catering,Tier 2,3-5,2-5L,Procurement,Customer Experience,Plastic,1000-5000,<10K,High,Low,Cost,Unlikely
+E-commerce,Tier 3,3-5,25L+,Owner,Compliance,Plastic,10000+,1L-5L,Medium,Medium,Quality,Unlikely
+Catering,Tier 2,1-3,5-10L,Manager,Quality,Biodegradable,1000-5000,<10K,Medium,Low,Quality,Unlikely
+Catering,Tier 1,1-3,2-5L,Owner,Compliance,Biodegradable,<1000,<10K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,<1,<2L,Owner,Cost,Paper,<1000,<10K,High,Low,Cost,Unlikely
+Cloud Kitchen,Tier 2,1-3,<2L,Owner,Compliance,Plastic,<1000,<10K,High,Low,Supply,Likely
+E-commerce,Tier 1,<1,2-5L,Procurement,Quality,Mixed,1000-5000,10K-50K,High,Low,Quality,Very Likely
+Retail,Tier 2,3-5,10-25L,Owner,Cost,Mixed,1000-5000,<10K,High,High,Cost,Likely
+Restaurant,Tier 2,5+,2-5L,Manager,Brand,Plastic,1000-5000,10K-50K,High,Medium,Quality,Likely
+E-commerce,Tier 2,5+,5-10L,Multiple,Brand,Plastic,1000-5000,10K-50K,High,Medium,Awareness,Likely
+Restaurant,Tier 1,5+,25L+,Manager,Cost,Paper,5000-10000,50K-1L,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 2,3-5,2-5L,Manager,Cost,Plastic,1000-5000,<10K,Medium,Medium,Quality,Unlikely
+Cloud Kitchen,Tier 1,3-5,<2L,Owner,Quality,Paper,1000-5000,<10K,High,Low,Cost,Neutral
+Retail,Tier 1,1-3,5-10L,Owner,Quality,Paper,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 3,3-5,25L+,Owner,Customer Experience,Paper,10000+,1L-5L,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,1-3,10-25L,Manager,Customer Experience,Plastic,1000-5000,<10K,Low,Low,Quality,Unlikely
+E-commerce,Tier 1,1-3,<2L,Multiple,Quality,Paper,1000-5000,<10K,Low,Low,Supply,Neutral
+Restaurant,Tier 1,3-5,5-10L,Multiple,Compliance,Mixed,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,5-10L,Procurement,Quality,Plastic,1000-5000,<10K,Low,High,Quality,Very Likely
+E-commerce,Tier 1,1-3,25L+,Procurement,Compliance,Biodegradable,10000+,1L-5L,Low,Low,Quality,Neutral
+Catering,Tier 1,5+,<2L,Owner,Cost,Plastic,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 1,<1,5-10L,Manager,Quality,Plastic,1000-5000,10K-50K,Low,Low,Quality,Neutral
+E-commerce,Tier 2,1-3,10-25L,Procurement,Brand,Paper,5000-10000,1L-5L,High,High,Supply,Very Likely
+Retail,Tier 2,5+,2-5L,Owner,Cost,Plastic,<1000,<10K,Medium,High,Supply,Likely
+Retail,Tier 2,3-5,2-5L,Multiple,Compliance,Plastic,1000-5000,<10K,Medium,Medium,Supply,Unlikely
+Restaurant,Tier 2,1-3,<2L,Owner,Compliance,Plastic,<1000,10K-50K,Low,High,Cost,Unlikely
+Cloud Kitchen,Tier 1,1-3,2-5L,Manager,Quality,Paper,1000-5000,<10K,Medium,Medium,Supply,Neutral
+Cloud Kitchen,Tier 3,1-3,2-5L,Manager,Quality,Biodegradable,1000-5000,10K-50K,Medium,High,Cost,Unlikely
+Restaurant,Tier 3,5+,25L+,Multiple,Customer Experience,Plastic,5000-10000,1L-5L,High,Low,Supply,Likely
+Retail,Tier 3,3-5,2-5L,Owner,Compliance,Biodegradable,1000-5000,10K-50K,High,Low,Awareness,Likely
+Cloud Kitchen,Tier 3,1-3,2-5L,Manager,Cost,Plastic,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,<1,5-10L,Manager,Cost,Paper,1000-5000,10K-50K,Medium,Low,Quality,Unlikely
+Restaurant,Tier 2,<1,<2L,Owner,Brand,Paper,<1000,<10K,Low,Medium,Quality,Unlikely
+Retail,Tier 1,5+,2-5L,Procurement,Quality,Biodegradable,<1000,<10K,High,Low,Supply,Very Likely
+Restaurant,Tier 2,1-3,5-10L,Manager,Cost,Mixed,<1000,<10K,High,Medium,Cost,Unlikely
+E-commerce,Tier 2,3-5,10-25L,Manager,Cost,Mixed,1000-5000,<10K,Medium,Low,Awareness,Unlikely
+Cloud Kitchen,Tier 2,<1,5-10L,Owner,Customer Experience,Plastic,<1000,10K-50K,Medium,Low,Quality,Unlikely
+Cloud Kitchen,Tier 2,3-5,5-10L,Owner,Brand,Mixed,1000-5000,<10K,High,High,Cost,Likely
+Retail,Tier 1,5+,<2L,Manager,Customer Experience,Plastic,<1000,10K-50K,High,High,Cost,Very Likely
+E-commerce,Tier 1,3-5,25L+,Owner,Compliance,Mixed,5000-10000,1L-5L,Medium,High,Supply,Very Likely
+Restaurant,Tier 3,<1,<2L,Owner,Customer Experience,Plastic,1000-5000,<10K,High,Medium,Cost,Unlikely
+Retail,Tier 2,3-5,10-25L,Multiple,Cost,Plastic,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 2,3-5,2-5L,Manager,Compliance,Plastic,1000-5000,10K-50K,Medium,Medium,Quality,Unlikely
+Restaurant,Tier 1,1-3,25L+,Manager,Cost,Plastic,5000-10000,50K-1L,High,Low,Quality,Very Likely
+E-commerce,Tier 1,5+,5-10L,Owner,Brand,Biodegradable,<1000,<10K,Medium,Low,Supply,Neutral
+E-commerce,Tier 3,3-5,10-25L,Owner,Quality,Mixed,1000-5000,<10K,High,Low,Cost,Unlikely
+Retail,Tier 2,5+,2-5L,Owner,Cost,Paper,<1000,<10K,Low,High,Supply,Likely
+E-commerce,Tier 3,3-5,2-5L,Owner,Customer Experience,Biodegradable,1000-5000,10K-50K,Medium,Low,Awareness,Unlikely
+E-commerce,Tier 2,<1,5-10L,Manager,Customer Experience,Biodegradable,1000-5000,10K-50K,Low,High,Cost,Unlikely
+Retail,Tier 2,1-3,10-25L,Manager,Cost,Plastic,1000-5000,<10K,Medium,Medium,Supply,Unlikely
+E-commerce,Tier 1,1-3,<2L,Owner,Brand,Plastic,<1000,10K-50K,Medium,Medium,Awareness,Neutral
+Retail,Tier 2,5+,25L+,Owner,Quality,Plastic,5000-10000,1L-5L,High,Low,Supply,Likely
+Retail,Tier 2,3-5,10-25L,Owner,Quality,Plastic,5000-10000,50K-1L,Medium,Low,Supply,Unlikely
+Retail,Tier 2,3-5,2-5L,Owner,Compliance,Plastic,1000-5000,<10K,High,High,Cost,Likely
+E-commerce,Tier 2,1-3,10-25L,Owner,Cost,Plastic,5000-10000,1L-5L,Medium,Low,Quality,Unlikely
+Restaurant,Tier 3,<1,5-10L,Multiple,Customer Experience,Plastic,<1000,10K-50K,High,Low,Quality,Likely
+E-commerce,Tier 1,3-5,2-5L,Manager,Cost,Plastic,<1000,10K-50K,Medium,Low,Supply,Neutral
+E-commerce,Tier 3,1-3,2-5L,Manager,Brand,Mixed,1000-5000,<10K,Medium,Low,Awareness,Unlikely
+Restaurant,Tier 1,1-3,5-10L,Owner,Brand,Plastic,1000-5000,10K-50K,Low,Low,Cost,Very Unlikely
+E-commerce,Tier 2,3-5,5-10L,Multiple,Cost,Paper,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,<1,2-5L,Manager,Cost,Paper,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,5-10L,Procurement,Compliance,Paper,1000-5000,10K-50K,Medium,Medium,Supply,Neutral
+Retail,Tier 2,1-3,5-10L,Owner,Compliance,Plastic,1000-5000,<10K,High,Low,Cost,Unlikely
+Restaurant,Tier 1,<1,5-10L,Multiple,Cost,Plastic,<1000,<10K,High,High,Quality,Very Likely
+E-commerce,Tier 2,5+,<2L,Procurement,Quality,Plastic,<1000,10K-50K,High,High,Cost,Likely
+E-commerce,Tier 3,1-3,10-25L,Procurement,Cost,Plastic,1000-5000,<10K,Medium,Low,Quality,Unlikely
+Cloud Kitchen,Tier 1,<1,2-5L,Owner,Cost,Plastic,<1000,<10K,High,Low,Cost,Neutral
+Restaurant,Tier 3,1-3,2-5L,Owner,Quality,Paper,1000-5000,10K-50K,High,Low,Awareness,Likely
+Restaurant,Tier 2,3-5,2-5L,Owner,Cost,Biodegradable,1000-5000,<10K,Low,High,Quality,Likely
+Retail,Tier 2,1-3,2-5L,Owner,Compliance,Paper,<1000,10K-50K,Medium,Medium,Awareness,Unlikely
+Catering,Tier 1,3-5,10-25L,Procurement,Compliance,Paper,5000-10000,50K-1L,Low,High,Quality,Very Likely
+Retail,Tier 1,<1,2-5L,Owner,Customer Experience,Plastic,1000-5000,<10K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 1,<1,5-10L,Owner,Brand,Mixed,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 1,1-3,<2L,Owner,Customer Experience,Plastic,1000-5000,10K-50K,Low,Low,Awareness,Neutral
+Cloud Kitchen,Tier 1,5+,2-5L,Owner,Quality,Biodegradable,<1000,10K-50K,High,Low,Supply,Very Likely
+E-commerce,Tier 2,5+,25L+,Owner,Brand,Biodegradable,10000+,1L-5L,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,<1,10-25L,Procurement,Customer Experience,Paper,1000-5000,10K-50K,Medium,Low,Supply,Unlikely
+E-commerce,Tier 3,1-3,2-5L,Manager,Brand,Plastic,1000-5000,<10K,High,Medium,Quality,Likely
+Cloud Kitchen,Tier 2,5+,5-10L,Owner,Cost,Paper,<1000,10K-50K,High,Medium,Cost,Unlikely
+Catering,Tier 1,1-3,2-5L,Owner,Compliance,Plastic,1000-5000,<10K,High,High,Cost,Very Likely
+Restaurant,Tier 1,5+,2-5L,Owner,Customer Experience,Plastic,<1000,10K-50K,Medium,Low,Supply,Neutral
+Retail,Tier 1,<1,10-25L,Owner,Compliance,Plastic,5000-10000,50K-1L,Medium,High,Cost,Neutral
+Catering,Tier 1,5+,10-25L,Manager,Quality,Plastic,1000-5000,10K-50K,Medium,High,Cost,Neutral
+Restaurant,Tier 2,3-5,2-5L,Manager,Brand,Paper,1000-5000,<10K,Low,High,Cost,Unlikely
+Catering,Tier 2,5+,25L+,Manager,Customer Experience,Mixed,10000+,1L-5L,Low,High,Cost,Unlikely
+Retail,Tier 1,3-5,5-10L,Manager,Cost,Plastic,1000-5000,<10K,Medium,High,Quality,Very Likely
+Restaurant,Tier 1,1-3,2-5L,Owner,Brand,Mixed,<1000,<10K,High,Medium,Cost,Neutral
+Restaurant,Tier 3,5+,5-10L,Multiple,Cost,Mixed,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+Retail,Tier 3,1-3,5-10L,Procurement,Brand,Mixed,<1000,<10K,Low,Medium,Awareness,Unlikely
+Restaurant,Tier 1,1-3,5-10L,Multiple,Brand,Mixed,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 3,3-5,2-5L,Owner,Cost,Plastic,1000-5000,<10K,High,High,Cost,Likely
+Restaurant,Tier 3,3-5,5-10L,Multiple,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Quality,Unlikely
+Retail,Tier 1,5+,<2L,Procurement,Brand,Paper,<1000,<10K,Medium,Low,Quality,Neutral
+Restaurant,Tier 1,1-3,10-25L,Procurement,Cost,Paper,5000-10000,50K-1L,Low,Medium,Supply,Neutral
+E-commerce,Tier 2,3-5,5-10L,Owner,Cost,Mixed,<1000,10K-50K,Medium,High,Cost,Unlikely
+Catering,Tier 3,3-5,<2L,Manager,Compliance,Mixed,<1000,10K-50K,Low,Low,Awareness,Unlikely
+Catering,Tier 3,<1,10-25L,Multiple,Cost,Paper,1000-5000,<10K,Medium,Low,Supply,Unlikely
+Retail,Tier 1,1-3,25L+,Manager,Quality,Plastic,5000-10000,1L-5L,Low,Medium,Supply,Neutral
+Restaurant,Tier 1,1-3,25L+,Manager,Customer Experience,Plastic,5000-10000,1L-5L,High,Low,Cost,Neutral
+E-commerce,Tier 2,1-3,2-5L,Multiple,Cost,Plastic,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 2,5+,<2L,Owner,Quality,Paper,<1000,<10K,High,Low,Quality,Likely
+Restaurant,Tier 1,3-5,5-10L,Manager,Brand,Paper,1000-5000,10K-50K,Medium,High,Awareness,Very Likely
+Restaurant,Tier 3,3-5,<2L,Owner,Compliance,Mixed,<1000,<10K,Medium,Low,Quality,Unlikely
+Cloud Kitchen,Tier 2,5+,25L+,Multiple,Customer Experience,Paper,5000-10000,1L-5L,Low,Medium,Cost,Very Unlikely
+E-commerce,Tier 3,1-3,<2L,Owner,Customer Experience,Mixed,<1000,10K-50K,Medium,High,Cost,Unlikely
+Retail,Tier 3,5+,2-5L,Manager,Compliance,Paper,<1000,<10K,Medium,High,Supply,Likely
+Cloud Kitchen,Tier 2,1-3,2-5L,Manager,Cost,Mixed,<1000,10K-50K,Medium,High,Supply,Likely
+Restaurant,Tier 2,5+,2-5L,Procurement,Cost,Plastic,<1000,10K-50K,High,Medium,Cost,Unlikely
+Catering,Tier 2,<1,10-25L,Manager,Quality,Mixed,5000-10000,1L-5L,High,High,Cost,Likely
+Cloud Kitchen,Tier 1,5+,2-5L,Multiple,Cost,Biodegradable,1000-5000,10K-50K,High,Low,Quality,Very Likely
+Cloud Kitchen,Tier 2,1-3,<2L,Multiple,Compliance,Plastic,1000-5000,10K-50K,Low,Medium,Quality,Unlikely
+Restaurant,Tier 1,1-3,2-5L,Owner,Brand,Plastic,1000-5000,10K-50K,Medium,Medium,Supply,Neutral
+E-commerce,Tier 2,3-5,5-10L,Owner,Cost,Mixed,<1000,10K-50K,Low,Low,Supply,Unlikely
+Retail,Tier 1,1-3,<2L,Owner,Compliance,Plastic,1000-5000,<10K,Medium,Medium,Quality,Neutral
+Restaurant,Tier 1,3-5,5-10L,Owner,Cost,Paper,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,5-10L,Manager,Quality,Plastic,<1000,<10K,Low,High,Supply,Very Likely
+Retail,Tier 1,3-5,5-10L,Multiple,Brand,Biodegradable,<1000,<10K,High,Low,Awareness,Very Likely
+Retail,Tier 2,1-3,25L+,Procurement,Quality,Mixed,5000-10000,50K-1L,Medium,Medium,Awareness,Unlikely
+Restaurant,Tier 2,<1,25L+,Owner,Quality,Plastic,5000-10000,1L-5L,Medium,Low,Awareness,Unlikely
+Catering,Tier 2,1-3,25L+,Owner,Cost,Paper,5000-10000,50K-1L,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,2-5L,Manager,Quality,Mixed,1000-5000,<10K,Medium,High,Supply,Very Likely
+Cloud Kitchen,Tier 1,<1,<2L,Manager,Compliance,Biodegradable,1000-5000,10K-50K,High,High,Awareness,Very Likely
+Catering,Tier 1,1-3,2-5L,Owner,Customer Experience,Mixed,<1000,<10K,Medium,High,Supply,Very Likely
+Cloud Kitchen,Tier 1,1-3,10-25L,Procurement,Quality,Paper,1000-5000,10K-50K,High,Low,Cost,Neutral
+Retail,Tier 3,<1,25L+,Multiple,Quality,Plastic,5000-10000,1L-5L,Low,Low,Awareness,Unlikely
+Cloud Kitchen,Tier 1,3-5,10-25L,Owner,Compliance,Paper,1000-5000,<10K,Medium,Medium,Quality,Neutral
+Restaurant,Tier 1,5+,<2L,Procurement,Customer Experience,Biodegradable,1000-5000,<10K,High,Medium,Cost,Neutral
+Catering,Tier 1,<1,25L+,Owner,Cost,Plastic,5000-10000,1L-5L,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,3-5,2-5L,Manager,Quality,Plastic,1000-5000,10K-50K,Low,Medium,Quality,Neutral
+E-commerce,Tier 2,3-5,<2L,Owner,Compliance,Plastic,<1000,<10K,Medium,Low,Quality,Unlikely
+Restaurant,Tier 2,1-3,2-5L,Owner,Brand,Paper,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 1,3-5,<2L,Multiple,Cost,Mixed,<1000,<10K,High,Low,Supply,Very Likely
+Restaurant,Tier 1,1-3,5-10L,Owner,Brand,Plastic,1000-5000,<10K,High,Medium,Supply,Very Likely
+Retail,Tier 1,1-3,2-5L,Manager,Cost,Biodegradable,1000-5000,<10K,High,Medium,Supply,Very Likely
+Cloud Kitchen,Tier 1,<1,2-5L,Owner,Quality,Mixed,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+E-commerce,Tier 1,3-5,5-10L,Owner,Quality,Plastic,1000-5000,10K-50K,Low,Medium,Supply,Neutral
+Cloud Kitchen,Tier 3,3-5,10-25L,Owner,Customer Experience,Biodegradable,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+Catering,Tier 2,<1,5-10L,Owner,Quality,Mixed,1000-5000,<10K,High,High,Cost,Likely
+Restaurant,Tier 2,1-3,2-5L,Manager,Cost,Mixed,<1000,<10K,High,High,Cost,Likely
+E-commerce,Tier 2,5+,10-25L,Owner,Cost,Plastic,5000-10000,1L-5L,Low,Medium,Supply,Unlikely
+E-commerce,Tier 2,1-3,25L+,Manager,Customer Experience,Plastic,10000+,5L+,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 2,1-3,<2L,Manager,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+E-commerce,Tier 2,5+,5-10L,Manager,Quality,Biodegradable,<1000,10K-50K,Low,Medium,Cost,Very Unlikely
+E-commerce,Tier 2,3-5,2-5L,Owner,Cost,Biodegradable,<1000,10K-50K,Medium,High,Quality,Likely
+Retail,Tier 1,3-5,<2L,Multiple,Compliance,Biodegradable,<1000,<10K,Medium,High,Awareness,Very Likely
+Restaurant,Tier 2,3-5,5-10L,Owner,Quality,Plastic,1000-5000,<10K,Low,High,Awareness,Likely
+Restaurant,Tier 2,5+,10-25L,Owner,Quality,Plastic,5000-10000,50K-1L,High,Low,Cost,Unlikely
+Catering,Tier 3,1-3,<2L,Owner,Quality,Paper,<1000,<10K,High,High,Cost,Likely
+Retail,Tier 2,1-3,10-25L,Owner,Customer Experience,Paper,1000-5000,10K-50K,High,Medium,Cost,Unlikely
+E-commerce,Tier 2,1-3,10-25L,Owner,Quality,Biodegradable,5000-10000,1L-5L,Low,High,Supply,Likely
+Cloud Kitchen,Tier 1,5+,25L+,Manager,Compliance,Paper,5000-10000,50K-1L,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,3-5,2-5L,Owner,Customer Experience,Plastic,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 1,<1,25L+,Owner,Customer Experience,Plastic,10000+,5L+,Medium,Medium,Quality,Neutral
+Retail,Tier 1,5+,2-5L,Procurement,Cost,Plastic,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,1-3,5-10L,Owner,Customer Experience,Plastic,<1000,<10K,High,Low,Cost,Neutral
+Restaurant,Tier 2,<1,<2L,Owner,Cost,Plastic,1000-5000,10K-50K,Low,High,Cost,Unlikely
+Cloud Kitchen,Tier 1,1-3,<2L,Owner,Quality,Plastic,<1000,10K-50K,High,Low,Cost,Neutral
+Restaurant,Tier 1,1-3,5-10L,Procurement,Customer Experience,Plastic,<1000,10K-50K,High,Low,Quality,Very Likely
+Retail,Tier 3,5+,2-5L,Owner,Cost,Plastic,<1000,<10K,High,Low,Awareness,Likely
+Restaurant,Tier 1,1-3,2-5L,Owner,Cost,Biodegradable,1000-5000,10K-50K,High,Medium,Cost,Neutral
+E-commerce,Tier 2,5+,<2L,Manager,Cost,Plastic,1000-5000,10K-50K,Medium,High,Cost,Unlikely
+Restaurant,Tier 2,3-5,5-10L,Manager,Brand,Biodegradable,1000-5000,<10K,High,Low,Awareness,Likely
+Cloud Kitchen,Tier 1,<1,<2L,Manager,Quality,Biodegradable,<1000,10K-50K,Medium,Low,Awareness,Neutral
+Restaurant,Tier 3,5+,10-25L,Procurement,Compliance,Paper,5000-10000,50K-1L,High,High,Cost,Likely
+Restaurant,Tier 1,1-3,<2L,Owner,Customer Experience,Mixed,1000-5000,<10K,Low,High,Supply,Very Likely
+Cloud Kitchen,Tier 2,1-3,<2L,Owner,Brand,Plastic,<1000,<10K,Low,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,1-3,2-5L,Owner,Cost,Biodegradable,<1000,<10K,Medium,High,Supply,Likely
+Retail,Tier 2,5+,2-5L,Owner,Customer Experience,Mixed,1000-5000,10K-50K,Medium,Medium,Awareness,Unlikely
+Restaurant,Tier 2,1-3,2-5L,Owner,Cost,Mixed,1000-5000,<10K,Medium,High,Quality,Likely
+Retail,Tier 1,<1,2-5L,Owner,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Quality,Neutral
+E-commerce,Tier 1,<1,25L+,Manager,Cost,Plastic,10000+,5L+,High,High,Cost,Very Likely
+E-commerce,Tier 2,1-3,5-10L,Manager,Quality,Plastic,<1000,10K-50K,Medium,Low,Quality,Unlikely
+Restaurant,Tier 2,3-5,<2L,Owner,Cost,Paper,<1000,10K-50K,Medium,Low,Quality,Unlikely
+Cloud Kitchen,Tier 3,1-3,2-5L,Manager,Cost,Biodegradable,1000-5000,10K-50K,Low,Low,Supply,Unlikely
+Restaurant,Tier 3,1-3,10-25L,Owner,Cost,Plastic,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,<1,2-5L,Owner,Cost,Paper,<1000,10K-50K,Medium,High,Quality,Likely
+Catering,Tier 2,1-3,<2L,Manager,Brand,Biodegradable,1000-5000,<10K,High,Medium,Quality,Likely
+Restaurant,Tier 1,5+,10-25L,Owner,Compliance,Paper,1000-5000,<10K,Low,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,1-3,5-10L,Owner,Compliance,Mixed,<1000,<10K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 2,5+,5-10L,Owner,Cost,Biodegradable,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 1,1-3,<2L,Multiple,Cost,Plastic,<1000,10K-50K,Medium,High,Supply,Very Likely
+Retail,Tier 3,<1,<2L,Manager,Customer Experience,Paper,1000-5000,10K-50K,Medium,Medium,Quality,Unlikely
+Restaurant,Tier 3,5+,5-10L,Owner,Cost,Plastic,<1000,10K-50K,High,Medium,Supply,Likely
+Restaurant,Tier 2,1-3,2-5L,Procurement,Customer Experience,Paper,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,3-5,5-10L,Manager,Cost,Mixed,<1000,10K-50K,Medium,High,Awareness,Very Likely
+Restaurant,Tier 1,5+,5-10L,Manager,Customer Experience,Mixed,1000-5000,10K-50K,Medium,Medium,Supply,Neutral
+Cloud Kitchen,Tier 3,<1,2-5L,Procurement,Cost,Paper,1000-5000,<10K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 3,<1,25L+,Owner,Quality,Plastic,5000-10000,50K-1L,High,High,Cost,Likely
+Restaurant,Tier 1,3-5,10-25L,Owner,Compliance,Plastic,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,1-3,5-10L,Manager,Quality,Paper,1000-5000,<10K,Medium,Medium,Awareness,Neutral
+Restaurant,Tier 3,<1,<2L,Manager,Cost,Plastic,<1000,<10K,High,High,Cost,Likely
+Retail,Tier 1,<1,<2L,Manager,Quality,Paper,<1000,<10K,Low,High,Cost,Neutral
+Retail,Tier 2,<1,2-5L,Manager,Compliance,Plastic,<1000,<10K,High,High,Cost,Likely
+E-commerce,Tier 3,3-5,<2L,Multiple,Cost,Plastic,1000-5000,10K-50K,Medium,High,Supply,Likely
+Restaurant,Tier 1,<1,25L+,Multiple,Cost,Plastic,10000+,5L+,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 2,1-3,<2L,Procurement,Quality,Mixed,1000-5000,<10K,High,Medium,Cost,Unlikely
+Restaurant,Tier 1,3-5,2-5L,Procurement,Cost,Biodegradable,1000-5000,<10K,High,Medium,Quality,Very Likely
+Retail,Tier 1,1-3,2-5L,Multiple,Brand,Plastic,<1000,10K-50K,Medium,Low,Quality,Neutral
+Retail,Tier 3,<1,5-10L,Owner,Cost,Plastic,<1000,<10K,High,High,Quality,Very Likely
+Restaurant,Tier 2,3-5,<2L,Owner,Quality,Paper,1000-5000,<10K,Medium,High,Quality,Likely
+Catering,Tier 3,<1,2-5L,Owner,Cost,Plastic,1000-5000,<10K,Medium,Medium,Supply,Unlikely
+Restaurant,Tier 2,3-5,2-5L,Procurement,Quality,Paper,<1000,<10K,Low,High,Supply,Likely
+Cloud Kitchen,Tier 1,5+,10-25L,Manager,Cost,Mixed,5000-10000,50K-1L,Low,Low,Supply,Neutral
+Retail,Tier 1,1-3,<2L,Manager,Cost,Paper,1000-5000,10K-50K,High,Medium,Cost,Neutral
+E-commerce,Tier 1,1-3,25L+,Owner,Cost,Paper,5000-10000,50K-1L,Low,Medium,Supply,Neutral
+Retail,Tier 1,1-3,10-25L,Owner,Customer Experience,Paper,5000-10000,50K-1L,Low,Low,Cost,Very Unlikely
+E-commerce,Tier 1,1-3,2-5L,Manager,Cost,Mixed,1000-5000,<10K,High,Low,Cost,Neutral
+Restaurant,Tier 1,5+,10-25L,Owner,Compliance,Mixed,1000-5000,10K-50K,Low,High,Awareness,Very Likely
+E-commerce,Tier 2,5+,<2L,Owner,Cost,Paper,<1000,10K-50K,Low,Medium,Supply,Unlikely
+Restaurant,Tier 2,1-3,25L+,Owner,Cost,Plastic,10000+,1L-5L,Medium,High,Quality,Likely
+E-commerce,Tier 2,3-5,5-10L,Owner,Quality,Paper,1000-5000,<10K,Medium,Medium,Awareness,Unlikely
+Cloud Kitchen,Tier 2,5+,2-5L,Manager,Quality,Plastic,1000-5000,<10K,High,Low,Awareness,Likely
+E-commerce,Tier 1,5+,2-5L,Owner,Customer Experience,Paper,<1000,<10K,Medium,Low,Quality,Neutral
+Cloud Kitchen,Tier 1,1-3,<2L,Manager,Customer Experience,Paper,1000-5000,10K-50K,Medium,Low,Quality,Neutral
+Retail,Tier 2,1-3,25L+,Owner,Compliance,Plastic,10000+,5L+,High,High,Supply,Very Likely
+Cloud Kitchen,Tier 2,1-3,<2L,Procurement,Brand,Plastic,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 1,5+,5-10L,Owner,Quality,Paper,<1000,<10K,Medium,High,Cost,Neutral
+Restaurant,Tier 3,<1,2-5L,Manager,Quality,Mixed,1000-5000,10K-50K,High,High,Supply,Very Likely
+Restaurant,Tier 3,3-5,25L+,Manager,Customer Experience,Paper,5000-10000,1L-5L,Medium,High,Cost,Unlikely
+Restaurant,Tier 2,1-3,2-5L,Owner,Brand,Biodegradable,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,5-10L,Procurement,Quality,Plastic,<1000,<10K,Low,High,Cost,Neutral
+E-commerce,Tier 3,1-3,2-5L,Manager,Cost,Paper,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 2,5+,5-10L,Owner,Cost,Paper,<1000,10K-50K,Low,Low,Awareness,Unlikely
+Catering,Tier 3,<1,<2L,Owner,Customer Experience,Biodegradable,1000-5000,10K-50K,Medium,Low,Supply,Unlikely
+Restaurant,Tier 3,3-5,<2L,Multiple,Cost,Plastic,1000-5000,10K-50K,High,High,Quality,Very Likely
+Restaurant,Tier 3,<1,2-5L,Procurement,Quality,Paper,<1000,10K-50K,Medium,Low,Awareness,Unlikely
+E-commerce,Tier 2,<1,5-10L,Owner,Cost,Plastic,<1000,<10K,Low,Medium,Awareness,Unlikely
+Retail,Tier 1,1-3,<2L,Owner,Compliance,Plastic,1000-5000,10K-50K,High,Low,Quality,Very Likely
+Cloud Kitchen,Tier 2,1-3,5-10L,Procurement,Cost,Mixed,1000-5000,10K-50K,Low,Low,Awareness,Unlikely
+Retail,Tier 2,1-3,2-5L,Manager,Compliance,Plastic,1000-5000,10K-50K,High,Low,Quality,Likely
+Retail,Tier 2,1-3,10-25L,Procurement,Cost,Plastic,1000-5000,<10K,Medium,High,Cost,Unlikely
+Restaurant,Tier 1,<1,25L+,Owner,Customer Experience,Paper,10000+,5L+,Low,Medium,Cost,Very Unlikely
+Catering,Tier 1,1-3,5-10L,Manager,Compliance,Mixed,<1000,10K-50K,High,High,Supply,Very Likely
+Catering,Tier 3,5+,2-5L,Owner,Cost,Paper,1000-5000,10K-50K,Low,Medium,Quality,Unlikely
+Retail,Tier 2,5+,2-5L,Owner,Quality,Biodegradable,1000-5000,<10K,High,High,Supply,Very Likely
+Restaurant,Tier 3,1-3,<2L,Manager,Cost,Mixed,1000-5000,10K-50K,Low,Medium,Supply,Unlikely
+Retail,Tier 3,3-5,2-5L,Multiple,Cost,Plastic,<1000,<10K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,5+,5-10L,Owner,Customer Experience,Plastic,<1000,<10K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,<1,5-10L,Owner,Quality,Plastic,1000-5000,10K-50K,Low,Medium,Quality,Unlikely
+Restaurant,Tier 3,5+,25L+,Manager,Quality,Mixed,5000-10000,50K-1L,High,High,Cost,Likely
+Cloud Kitchen,Tier 2,5+,2-5L,Manager,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Quality,Unlikely
+E-commerce,Tier 2,<1,5-10L,Procurement,Quality,Plastic,1000-5000,<10K,High,High,Quality,Very Likely
+Retail,Tier 1,<1,2-5L,Procurement,Customer Experience,Biodegradable,1000-5000,<10K,Low,High,Quality,Very Likely
+Retail,Tier 2,5+,5-10L,Owner,Quality,Paper,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,1-3,2-5L,Multiple,Customer Experience,Paper,<1000,10K-50K,Medium,Medium,Quality,Unlikely
+Restaurant,Tier 1,<1,2-5L,Procurement,Customer Experience,Paper,<1000,<10K,Medium,Low,Supply,Neutral
+Cloud Kitchen,Tier 1,1-3,2-5L,Procurement,Cost,Plastic,<1000,<10K,Medium,Medium,Awareness,Neutral
+Catering,Tier 1,1-3,5-10L,Manager,Cost,Paper,1000-5000,<10K,Medium,Medium,Supply,Neutral
+Restaurant,Tier 1,3-5,25L+,Procurement,Customer Experience,Paper,5000-10000,50K-1L,Low,High,Quality,Very Likely
+E-commerce,Tier 1,3-5,2-5L,Owner,Quality,Mixed,1000-5000,10K-50K,High,Low,Cost,Neutral
+Retail,Tier 2,5+,<2L,Owner,Cost,Plastic,<1000,<10K,High,Low,Supply,Likely
+Cloud Kitchen,Tier 3,1-3,2-5L,Procurement,Cost,Mixed,1000-5000,<10K,Medium,Low,Awareness,Unlikely
+Retail,Tier 2,1-3,5-10L,Owner,Quality,Paper,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,1-3,<2L,Owner,Compliance,Plastic,1000-5000,<10K,Low,High,Cost,Neutral
+E-commerce,Tier 1,1-3,10-25L,Procurement,Cost,Biodegradable,1000-5000,10K-50K,Medium,High,Cost,Neutral
+Catering,Tier 2,<1,25L+,Procurement,Cost,Plastic,5000-10000,1L-5L,Low,Medium,Supply,Unlikely
+Cloud Kitchen,Tier 1,5+,25L+,Owner,Customer Experience,Mixed,10000+,5L+,Low,High,Quality,Very Likely
+Restaurant,Tier 3,5+,<2L,Procurement,Compliance,Mixed,<1000,<10K,High,Low,Cost,Unlikely
+Retail,Tier 2,1-3,10-25L,Manager,Quality,Plastic,5000-10000,1L-5L,Medium,Low,Awareness,Unlikely
+Catering,Tier 3,3-5,5-10L,Manager,Compliance,Plastic,1000-5000,10K-50K,Medium,Low,Quality,Unlikely
+Restaurant,Tier 1,1-3,2-5L,Procurement,Quality,Plastic,<1000,10K-50K,Low,High,Cost,Neutral
+Retail,Tier 2,1-3,5-10L,Owner,Compliance,Plastic,1000-5000,<10K,High,Medium,Cost,Unlikely
+Retail,Tier 1,3-5,10-25L,Owner,Quality,Plastic,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 3,1-3,2-5L,Owner,Cost,Plastic,<1000,<10K,High,Low,Quality,Likely
+Restaurant,Tier 2,5+,2-5L,Manager,Compliance,Paper,<1000,<10K,High,Low,Cost,Unlikely
+Retail,Tier 1,3-5,2-5L,Manager,Quality,Plastic,1000-5000,10K-50K,High,High,Quality,Very Likely
+Catering,Tier 1,1-3,5-10L,Procurement,Customer Experience,Mixed,1000-5000,10K-50K,High,Low,Supply,Very Likely
+Restaurant,Tier 1,3-5,<2L,Procurement,Cost,Mixed,1000-5000,10K-50K,Medium,High,Supply,Very Likely
+Restaurant,Tier 2,<1,25L+,Manager,Customer Experience,Paper,5000-10000,50K-1L,Low,Low,Cost,Very Unlikely
+Catering,Tier 1,1-3,5-10L,Procurement,Customer Experience,Mixed,<1000,10K-50K,Low,Low,Quality,Neutral
+Restaurant,Tier 2,1-3,5-10L,Owner,Cost,Plastic,<1000,<10K,Medium,Medium,Supply,Unlikely
+E-commerce,Tier 1,1-3,<2L,Owner,Compliance,Plastic,<1000,<10K,Low,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,3-5,5-10L,Procurement,Quality,Paper,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,1-3,<2L,Owner,Customer Experience,Paper,1000-5000,10K-50K,Low,Medium,Quality,Unlikely
+E-commerce,Tier 3,3-5,<2L,Owner,Quality,Paper,1000-5000,10K-50K,High,Medium,Quality,Likely
+Cloud Kitchen,Tier 3,3-5,5-10L,Manager,Compliance,Mixed,<1000,<10K,Medium,High,Cost,Unlikely
+Cloud Kitchen,Tier 1,1-3,2-5L,Owner,Quality,Mixed,1000-5000,10K-50K,Medium,Medium,Supply,Neutral
+Cloud Kitchen,Tier 1,5+,5-10L,Procurement,Cost,Paper,1000-5000,<10K,High,Low,Quality,Very Likely
+Retail,Tier 2,1-3,<2L,Owner,Cost,Biodegradable,<1000,10K-50K,Low,Medium,Awareness,Unlikely
+Restaurant,Tier 1,1-3,2-5L,Owner,Quality,Plastic,<1000,<10K,High,Medium,Cost,Neutral
+Cloud Kitchen,Tier 2,1-3,<2L,Owner,Compliance,Plastic,1000-5000,<10K,High,Low,Supply,Likely
+Catering,Tier 1,1-3,25L+,Manager,Brand,Biodegradable,10000+,1L-5L,Low,High,Cost,Neutral
+Restaurant,Tier 1,<1,5-10L,Owner,Brand,Paper,1000-5000,10K-50K,Medium,Medium,Quality,Neutral
+Retail,Tier 1,3-5,5-10L,Manager,Cost,Paper,<1000,10K-50K,Medium,High,Quality,Very Likely
+Restaurant,Tier 3,1-3,2-5L,Procurement,Quality,Plastic,1000-5000,10K-50K,High,High,Cost,Likely
+E-commerce,Tier 1,1-3,<2L,Multiple,Cost,Paper,<1000,10K-50K,Medium,Medium,Supply,Neutral
+Restaurant,Tier 2,5+,25L+,Owner,Compliance,Plastic,10000+,5L+,Medium,Medium,Cost,Very Unlikely
+Catering,Tier 1,3-5,2-5L,Owner,Customer Experience,Paper,<1000,<10K,High,Medium,Quality,Very Likely
+Cloud Kitchen,Tier 2,5+,2-5L,Manager,Quality,Plastic,<1000,10K-50K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,<1,5-10L,Multiple,Cost,Plastic,1000-5000,<10K,High,High,Supply,Very Likely
+Restaurant,Tier 3,3-5,<2L,Multiple,Cost,Plastic,1000-5000,10K-50K,High,High,Cost,Likely
+Restaurant,Tier 3,5+,10-25L,Owner,Brand,Plastic,5000-10000,1L-5L,High,Low,Supply,Likely
+Cloud Kitchen,Tier 1,3-5,5-10L,Manager,Brand,Mixed,1000-5000,10K-50K,High,Medium,Supply,Very Likely
+Restaurant,Tier 3,3-5,2-5L,Owner,Compliance,Plastic,<1000,<10K,Medium,High,Supply,Likely
+E-commerce,Tier 3,1-3,<2L,Owner,Cost,Plastic,<1000,10K-50K,High,Medium,Cost,Unlikely
+Cloud Kitchen,Tier 3,<1,<2L,Owner,Compliance,Paper,1000-5000,<10K,Medium,High,Quality,Likely
+Restaurant,Tier 3,1-3,10-25L,Owner,Brand,Paper,1000-5000,10K-50K,Medium,High,Cost,Unlikely
+Retail,Tier 1,1-3,5-10L,Owner,Cost,Plastic,1000-5000,<10K,Low,Low,Supply,Neutral
+Retail,Tier 2,5+,2-5L,Owner,Quality,Plastic,1000-5000,<10K,High,Low,Supply,Likely
+Restaurant,Tier 1,1-3,<2L,Manager,Cost,Mixed,1000-5000,<10K,High,Medium,Quality,Very Likely
+Restaurant,Tier 1,5+,5-10L,Owner,Quality,Biodegradable,1000-5000,<10K,High,Medium,Supply,Very Likely
+Restaurant,Tier 3,5+,5-10L,Manager,Customer Experience,Plastic,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 1,1-3,2-5L,Owner,Quality,Paper,<1000,10K-50K,High,Medium,Quality,Very Likely
+Retail,Tier 2,1-3,2-5L,Owner,Compliance,Plastic,1000-5000,<10K,High,High,Cost,Likely
+Cloud Kitchen,Tier 3,5+,2-5L,Owner,Quality,Plastic,<1000,10K-50K,Medium,Low,Awareness,Unlikely
+E-commerce,Tier 3,5+,5-10L,Owner,Cost,Paper,1000-5000,<10K,Low,Low,Awareness,Unlikely
+E-commerce,Tier 3,1-3,25L+,Manager,Quality,Mixed,5000-10000,1L-5L,Medium,Low,Supply,Unlikely
+Retail,Tier 1,1-3,<2L,Owner,Quality,Plastic,<1000,10K-50K,Low,Medium,Awareness,Neutral
+E-commerce,Tier 1,1-3,5-10L,Manager,Quality,Mixed,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 2,3-5,2-5L,Owner,Cost,Plastic,<1000,<10K,Low,Medium,Awareness,Unlikely
+Restaurant,Tier 1,1-3,2-5L,Manager,Quality,Plastic,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 1,3-5,2-5L,Procurement,Cost,Plastic,1000-5000,<10K,Low,Medium,Supply,Neutral
+Restaurant,Tier 1,<1,10-25L,Owner,Cost,Plastic,1000-5000,10K-50K,Low,Low,Supply,Neutral
+Cloud Kitchen,Tier 3,<1,2-5L,Owner,Quality,Mixed,<1000,<10K,Low,Medium,Cost,Very Unlikely
+Catering,Tier 2,1-3,5-10L,Owner,Cost,Paper,<1000,10K-50K,High,Medium,Cost,Unlikely
+Restaurant,Tier 1,1-3,2-5L,Manager,Customer Experience,Plastic,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 2,1-3,<2L,Owner,Quality,Mixed,1000-5000,<10K,Medium,High,Awareness,Likely
+Cloud Kitchen,Tier 1,1-3,<2L,Manager,Compliance,Mixed,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Catering,Tier 1,1-3,5-10L,Manager,Quality,Biodegradable,1000-5000,10K-50K,Medium,Medium,Quality,Neutral
+Restaurant,Tier 3,<1,<2L,Multiple,Compliance,Mixed,1000-5000,<10K,High,High,Supply,Very Likely
+Cloud Kitchen,Tier 2,1-3,5-10L,Manager,Cost,Plastic,<1000,10K-50K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,5+,2-5L,Manager,Customer Experience,Mixed,<1000,<10K,Low,High,Quality,Likely
+Restaurant,Tier 1,1-3,2-5L,Owner,Quality,Biodegradable,<1000,<10K,High,Low,Quality,Very Likely
+Catering,Tier 3,1-3,2-5L,Multiple,Compliance,Mixed,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+Catering,Tier 2,3-5,2-5L,Procurement,Quality,Biodegradable,1000-5000,10K-50K,Low,Medium,Supply,Unlikely
+Restaurant,Tier 2,5+,<2L,Owner,Cost,Plastic,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+Catering,Tier 2,1-3,2-5L,Procurement,Brand,Biodegradable,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 3,3-5,5-10L,Owner,Cost,Plastic,1000-5000,10K-50K,High,Low,Quality,Likely
+E-commerce,Tier 2,3-5,5-10L,Procurement,Quality,Plastic,1000-5000,10K-50K,Low,Medium,Quality,Unlikely
+Cloud Kitchen,Tier 2,3-5,2-5L,Procurement,Cost,Plastic,1000-5000,10K-50K,High,High,Awareness,Very Likely
+Cloud Kitchen,Tier 3,<1,2-5L,Owner,Brand,Mixed,<1000,10K-50K,High,Low,Awareness,Likely
+Cloud Kitchen,Tier 3,3-5,<2L,Manager,Customer Experience,Plastic,1000-5000,<10K,Medium,Low,Quality,Unlikely
+Retail,Tier 2,<1,2-5L,Owner,Quality,Paper,<1000,<10K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,3-5,<2L,Owner,Compliance,Plastic,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,3-5,10-25L,Owner,Quality,Mixed,5000-10000,1L-5L,Medium,High,Cost,Neutral
+Restaurant,Tier 1,1-3,2-5L,Manager,Quality,Plastic,1000-5000,10K-50K,Medium,Medium,Quality,Neutral
+Retail,Tier 2,5+,2-5L,Owner,Customer Experience,Biodegradable,1000-5000,10K-50K,Medium,Low,Supply,Unlikely
+Restaurant,Tier 3,<1,2-5L,Owner,Customer Experience,Mixed,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 3,5+,<2L,Manager,Compliance,Paper,<1000,<10K,High,High,Cost,Likely
+Catering,Tier 1,1-3,5-10L,Owner,Cost,Plastic,<1000,10K-50K,Medium,Medium,Quality,Neutral
+Restaurant,Tier 2,1-3,<2L,Owner,Quality,Biodegradable,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 1,<1,<2L,Owner,Cost,Mixed,1000-5000,10K-50K,High,Low,Supply,Very Likely
+Cloud Kitchen,Tier 3,5+,5-10L,Owner,Quality,Biodegradable,1000-5000,<10K,Low,Low,Quality,Unlikely
+E-commerce,Tier 3,<1,2-5L,Owner,Quality,Plastic,1000-5000,<10K,Low,Low,Quality,Unlikely
+Restaurant,Tier 2,<1,5-10L,Owner,Compliance,Mixed,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 3,1-3,5-10L,Multiple,Customer Experience,Plastic,1000-5000,<10K,Low,High,Awareness,Likely
+E-commerce,Tier 2,3-5,2-5L,Manager,Quality,Paper,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Catering,Tier 2,1-3,5-10L,Owner,Cost,Mixed,<1000,<10K,Medium,Low,Awareness,Unlikely
+Retail,Tier 1,<1,<2L,Owner,Customer Experience,Plastic,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,1-3,5-10L,Owner,Cost,Biodegradable,<1000,<10K,High,Low,Awareness,Likely
+Retail,Tier 2,1-3,2-5L,Manager,Brand,Paper,1000-5000,<10K,Low,Medium,Supply,Unlikely
+E-commerce,Tier 2,1-3,2-5L,Owner,Cost,Mixed,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 1,1-3,5-10L,Owner,Quality,Plastic,<1000,10K-50K,Low,Low,Supply,Neutral
+Restaurant,Tier 3,3-5,10-25L,Procurement,Customer Experience,Paper,1000-5000,<10K,Medium,Medium,Supply,Unlikely
+Catering,Tier 1,1-3,25L+,Owner,Cost,Mixed,10000+,1L-5L,Medium,Low,Cost,Very Unlikely
+Retail,Tier 2,1-3,5-10L,Owner,Quality,Plastic,1000-5000,<10K,High,Low,Cost,Unlikely
+Retail,Tier 2,1-3,2-5L,Procurement,Cost,Plastic,<1000,10K-50K,Medium,Low,Quality,Unlikely
+Restaurant,Tier 2,5+,2-5L,Manager,Customer Experience,Mixed,1000-5000,10K-50K,Low,Low,Supply,Unlikely
+Retail,Tier 2,5+,2-5L,Owner,Customer Experience,Plastic,1000-5000,10K-50K,Medium,Low,Supply,Unlikely
+Cloud Kitchen,Tier 1,5+,2-5L,Manager,Cost,Mixed,<1000,10K-50K,Low,Low,Supply,Neutral
+Retail,Tier 1,1-3,2-5L,Owner,Cost,Plastic,1000-5000,10K-50K,Low,High,Supply,Very Likely
+Restaurant,Tier 2,<1,25L+,Manager,Brand,Plastic,5000-10000,1L-5L,Medium,Medium,Supply,Unlikely
+Retail,Tier 2,1-3,2-5L,Owner,Cost,Biodegradable,<1000,10K-50K,Low,Medium,Quality,Unlikely
+Catering,Tier 1,1-3,2-5L,Procurement,Brand,Biodegradable,<1000,10K-50K,Medium,High,Cost,Neutral
+Restaurant,Tier 2,1-3,2-5L,Multiple,Cost,Paper,<1000,<10K,Medium,Low,Awareness,Unlikely
+Catering,Tier 2,3-5,10-25L,Multiple,Cost,Paper,1000-5000,<10K,Medium,High,Cost,Unlikely
+Cloud Kitchen,Tier 2,5+,5-10L,Multiple,Brand,Mixed,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+E-commerce,Tier 3,5+,5-10L,Manager,Cost,Plastic,<1000,<10K,High,Medium,Supply,Likely
+E-commerce,Tier 1,1-3,2-5L,Owner,Customer Experience,Paper,<1000,10K-50K,Medium,Medium,Quality,Neutral
+Retail,Tier 1,3-5,10-25L,Owner,Cost,Plastic,1000-5000,<10K,High,Low,Cost,Neutral
+Retail,Tier 3,1-3,<2L,Manager,Cost,Paper,<1000,<10K,Medium,High,Cost,Unlikely
+E-commerce,Tier 2,<1,10-25L,Procurement,Customer Experience,Plastic,1000-5000,10K-50K,Medium,Low,Quality,Unlikely
+Cloud Kitchen,Tier 2,3-5,5-10L,Owner,Quality,Plastic,1000-5000,<10K,Medium,Low,Awareness,Unlikely
+Restaurant,Tier 3,<1,2-5L,Multiple,Compliance,Paper,<1000,10K-50K,Medium,Low,Quality,Unlikely
+Retail,Tier 3,1-3,2-5L,Procurement,Cost,Plastic,1000-5000,10K-50K,Low,Low,Quality,Unlikely
+E-commerce,Tier 3,1-3,5-10L,Multiple,Brand,Plastic,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 2,3-5,<2L,Procurement,Compliance,Biodegradable,1000-5000,10K-50K,High,Low,Cost,Unlikely
+E-commerce,Tier 2,3-5,10-25L,Owner,Cost,Paper,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,1-3,2-5L,Owner,Compliance,Mixed,1000-5000,<10K,Low,High,Cost,Unlikely
+E-commerce,Tier 1,5+,2-5L,Owner,Brand,Biodegradable,<1000,10K-50K,Medium,Low,Quality,Neutral
+Restaurant,Tier 2,1-3,<2L,Owner,Quality,Plastic,<1000,10K-50K,High,Low,Cost,Unlikely
+Cloud Kitchen,Tier 1,1-3,2-5L,Manager,Quality,Paper,<1000,10K-50K,High,Medium,Cost,Neutral
+Restaurant,Tier 3,3-5,2-5L,Procurement,Quality,Plastic,1000-5000,10K-50K,Low,High,Supply,Likely
+Restaurant,Tier 2,3-5,2-5L,Procurement,Cost,Biodegradable,<1000,10K-50K,High,Low,Awareness,Likely
+Cloud Kitchen,Tier 2,5+,5-10L,Manager,Quality,Mixed,1000-5000,<10K,Medium,Low,Awareness,Unlikely
+Cloud Kitchen,Tier 1,1-3,2-5L,Owner,Cost,Paper,1000-5000,10K-50K,Medium,High,Quality,Very Likely
+Retail,Tier 1,3-5,25L+,Owner,Quality,Biodegradable,5000-10000,50K-1L,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,3-5,5-10L,Owner,Compliance,Plastic,1000-5000,10K-50K,High,Medium,Supply,Very Likely
+Cloud Kitchen,Tier 2,5+,10-25L,Owner,Quality,Paper,5000-10000,50K-1L,High,Low,Cost,Unlikely
+Restaurant,Tier 1,<1,<2L,Manager,Customer Experience,Mixed,1000-5000,<10K,High,High,Supply,Very Likely
+Cloud Kitchen,Tier 2,3-5,2-5L,Owner,Cost,Plastic,<1000,<10K,Low,High,Supply,Likely
+Restaurant,Tier 3,3-5,2-5L,Owner,Quality,Plastic,<1000,<10K,High,High,Supply,Very Likely
+Restaurant,Tier 3,1-3,5-10L,Owner,Compliance,Paper,1000-5000,<10K,Low,Low,Awareness,Unlikely
+Retail,Tier 2,1-3,10-25L,Manager,Quality,Biodegradable,5000-10000,1L-5L,Low,Medium,Supply,Unlikely
+Retail,Tier 1,1-3,<2L,Owner,Quality,Plastic,<1000,<10K,Medium,Low,Supply,Neutral
+Retail,Tier 3,3-5,<2L,Owner,Cost,Mixed,<1000,10K-50K,Medium,High,Cost,Unlikely
+Cloud Kitchen,Tier 3,5+,10-25L,Owner,Quality,Plastic,1000-5000,<10K,Medium,High,Awareness,Likely
+Cloud Kitchen,Tier 1,3-5,2-5L,Multiple,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+E-commerce,Tier 2,3-5,5-10L,Owner,Customer Experience,Biodegradable,1000-5000,<10K,High,Medium,Awareness,Likely
+Cloud Kitchen,Tier 1,1-3,5-10L,Manager,Cost,Plastic,<1000,<10K,Low,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,<1,10-25L,Manager,Customer Experience,Biodegradable,5000-10000,1L-5L,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,1-3,<2L,Manager,Brand,Plastic,1000-5000,10K-50K,High,Medium,Supply,Likely
+Restaurant,Tier 1,1-3,<2L,Multiple,Cost,Plastic,1000-5000,<10K,Low,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,1-3,5-10L,Owner,Quality,Plastic,<1000,<10K,Medium,Low,Supply,Unlikely
+Cloud Kitchen,Tier 2,<1,25L+,Owner,Compliance,Mixed,5000-10000,1L-5L,Medium,Low,Cost,Very Unlikely
+Retail,Tier 3,1-3,2-5L,Owner,Customer Experience,Paper,1000-5000,<10K,Medium,High,Awareness,Likely
+Cloud Kitchen,Tier 2,1-3,2-5L,Manager,Cost,Biodegradable,<1000,<10K,Medium,High,Supply,Likely
+Retail,Tier 3,1-3,5-10L,Owner,Cost,Plastic,<1000,10K-50K,Low,High,Supply,Likely
+E-commerce,Tier 1,1-3,25L+,Owner,Cost,Paper,5000-10000,50K-1L,High,Medium,Cost,Neutral
+E-commerce,Tier 1,<1,10-25L,Manager,Cost,Paper,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 1,5+,25L+,Manager,Quality,Mixed,5000-10000,1L-5L,Medium,Low,Supply,Neutral
+Catering,Tier 3,5+,<2L,Owner,Customer Experience,Biodegradable,1000-5000,<10K,Low,High,Cost,Unlikely
+Restaurant,Tier 3,3-5,<2L,Manager,Quality,Biodegradable,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,<1,5-10L,Manager,Compliance,Plastic,1000-5000,10K-50K,Medium,Medium,Quality,Unlikely
+Restaurant,Tier 3,3-5,10-25L,Owner,Brand,Paper,1000-5000,<10K,High,Medium,Quality,Likely
+Retail,Tier 1,5+,2-5L,Owner,Quality,Paper,<1000,<10K,High,High,Cost,Very Likely
+E-commerce,Tier 1,3-5,2-5L,Manager,Cost,Mixed,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 1,<1,10-25L,Manager,Compliance,Plastic,5000-10000,1L-5L,High,Low,Cost,Neutral
+Catering,Tier 1,3-5,<2L,Owner,Customer Experience,Plastic,<1000,<10K,Medium,Medium,Awareness,Neutral
+Restaurant,Tier 1,5+,2-5L,Owner,Brand,Paper,<1000,10K-50K,Medium,High,Cost,Neutral
+Catering,Tier 2,3-5,5-10L,Manager,Cost,Plastic,<1000,<10K,Medium,Medium,Awareness,Unlikely
+Cloud Kitchen,Tier 1,3-5,5-10L,Multiple,Cost,Plastic,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,5-10L,Manager,Cost,Mixed,1000-5000,10K-50K,High,Low,Cost,Neutral
+Cloud Kitchen,Tier 1,1-3,2-5L,Owner,Quality,Paper,1000-5000,10K-50K,Low,Medium,Quality,Neutral
+Restaurant,Tier 1,<1,5-10L,Owner,Compliance,Mixed,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,3-5,5-10L,Procurement,Cost,Mixed,1000-5000,10K-50K,High,Medium,Quality,Likely
+Restaurant,Tier 3,<1,5-10L,Owner,Compliance,Plastic,1000-5000,10K-50K,High,Low,Awareness,Likely
+E-commerce,Tier 3,1-3,5-10L,Multiple,Quality,Paper,<1000,10K-50K,High,High,Cost,Likely
+Cloud Kitchen,Tier 2,1-3,2-5L,Multiple,Brand,Plastic,<1000,10K-50K,Medium,Medium,Supply,Unlikely
+Restaurant,Tier 1,1-3,<2L,Owner,Customer Experience,Mixed,<1000,<10K,Medium,High,Cost,Neutral
+Retail,Tier 3,<1,<2L,Multiple,Cost,Paper,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 1,3-5,2-5L,Owner,Customer Experience,Plastic,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 1,3-5,5-10L,Procurement,Cost,Plastic,1000-5000,10K-50K,High,High,Awareness,Very Likely
+Cloud Kitchen,Tier 1,<1,10-25L,Owner,Quality,Paper,1000-5000,10K-50K,High,Low,Cost,Neutral
+Restaurant,Tier 1,<1,5-10L,Owner,Customer Experience,Plastic,<1000,<10K,High,Medium,Awareness,Very Likely
+Restaurant,Tier 1,<1,10-25L,Manager,Customer Experience,Plastic,5000-10000,50K-1L,Low,Medium,Quality,Neutral
+Retail,Tier 1,5+,2-5L,Procurement,Quality,Biodegradable,1000-5000,10K-50K,High,High,Cost,Very Likely
+Restaurant,Tier 2,1-3,2-5L,Owner,Quality,Mixed,1000-5000,10K-50K,High,Low,Quality,Likely
+Cloud Kitchen,Tier 1,1-3,2-5L,Manager,Compliance,Plastic,1000-5000,10K-50K,Medium,Low,Supply,Neutral
+Retail,Tier 1,<1,<2L,Owner,Compliance,Paper,<1000,<10K,Medium,High,Supply,Very Likely
+Restaurant,Tier 3,3-5,<2L,Owner,Cost,Mixed,<1000,10K-50K,High,Medium,Quality,Likely
+Retail,Tier 1,5+,5-10L,Owner,Compliance,Plastic,1000-5000,<10K,Medium,Low,Awareness,Neutral
+Restaurant,Tier 1,5+,25L+,Owner,Quality,Mixed,10000+,5L+,High,Low,Cost,Neutral
+Catering,Tier 3,3-5,<2L,Owner,Quality,Plastic,1000-5000,<10K,Medium,High,Awareness,Likely
+Cloud Kitchen,Tier 1,<1,<2L,Owner,Quality,Biodegradable,<1000,<10K,High,Low,Supply,Very Likely
+E-commerce,Tier 1,<1,10-25L,Owner,Quality,Paper,5000-10000,50K-1L,High,Medium,Supply,Very Likely
+Retail,Tier 2,<1,2-5L,Owner,Customer Experience,Paper,1000-5000,10K-50K,Medium,Medium,Supply,Unlikely
+Restaurant,Tier 1,1-3,10-25L,Owner,Quality,Mixed,1000-5000,10K-50K,High,High,Quality,Very Likely
+Retail,Tier 2,<1,5-10L,Multiple,Customer Experience,Plastic,<1000,<10K,Medium,High,Supply,Likely
+Catering,Tier 3,1-3,25L+,Owner,Cost,Plastic,5000-10000,50K-1L,Medium,Medium,Quality,Unlikely
+Retail,Tier 1,1-3,2-5L,Multiple,Compliance,Paper,<1000,<10K,Low,Low,Cost,Very Unlikely
+E-commerce,Tier 2,5+,5-10L,Manager,Compliance,Mixed,1000-5000,10K-50K,Medium,High,Quality,Likely
+E-commerce,Tier 2,3-5,2-5L,Manager,Brand,Plastic,1000-5000,10K-50K,High,Medium,Cost,Unlikely
+Restaurant,Tier 1,5+,5-10L,Manager,Brand,Mixed,<1000,10K-50K,High,High,Quality,Very Likely
+Restaurant,Tier 2,3-5,2-5L,Procurement,Quality,Plastic,<1000,<10K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 1,<1,<2L,Owner,Customer Experience,Plastic,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,3-5,5-10L,Manager,Compliance,Biodegradable,1000-5000,10K-50K,Low,Low,Cost,Very Unlikely
+E-commerce,Tier 1,1-3,5-10L,Manager,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Awareness,Neutral
+Catering,Tier 2,3-5,10-25L,Manager,Compliance,Paper,5000-10000,50K-1L,High,Low,Cost,Unlikely
+Cloud Kitchen,Tier 1,1-3,5-10L,Procurement,Quality,Plastic,1000-5000,10K-50K,Medium,Low,Supply,Neutral
+Restaurant,Tier 3,5+,5-10L,Owner,Cost,Plastic,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 1,1-3,<2L,Manager,Customer Experience,Paper,<1000,10K-50K,Medium,Low,Quality,Neutral
+Restaurant,Tier 2,1-3,5-10L,Manager,Quality,Paper,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+E-commerce,Tier 2,5+,5-10L,Owner,Compliance,Paper,<1000,10K-50K,High,Low,Cost,Unlikely
+Cloud Kitchen,Tier 2,<1,10-25L,Owner,Cost,Paper,5000-10000,50K-1L,Medium,High,Quality,Likely
+Retail,Tier 2,3-5,25L+,Manager,Cost,Plastic,5000-10000,50K-1L,Medium,Low,Quality,Unlikely
+Restaurant,Tier 2,3-5,<2L,Procurement,Quality,Paper,1000-5000,<10K,High,Medium,Cost,Unlikely
+Retail,Tier 3,5+,10-25L,Owner,Cost,Mixed,5000-10000,50K-1L,High,Low,Quality,Likely
+Cloud Kitchen,Tier 3,5+,<2L,Procurement,Compliance,Mixed,1000-5000,10K-50K,High,Medium,Awareness,Likely
+Retail,Tier 1,5+,2-5L,Owner,Cost,Plastic,<1000,10K-50K,High,Medium,Cost,Neutral
+Restaurant,Tier 2,<1,5-10L,Owner,Quality,Plastic,1000-5000,<10K,High,High,Cost,Likely
+Retail,Tier 3,5+,<2L,Owner,Cost,Mixed,1000-5000,<10K,Medium,High,Supply,Likely
+E-commerce,Tier 3,3-5,5-10L,Owner,Cost,Paper,<1000,<10K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,3-5,<2L,Owner,Compliance,Paper,1000-5000,10K-50K,Medium,High,Awareness,Likely
+Restaurant,Tier 1,<1,<2L,Owner,Cost,Biodegradable,<1000,10K-50K,High,Low,Quality,Very Likely
+Restaurant,Tier 1,3-5,5-10L,Manager,Brand,Plastic,1000-5000,10K-50K,Low,Medium,Quality,Neutral
+Retail,Tier 2,5+,5-10L,Manager,Customer Experience,Paper,<1000,<10K,Low,Low,Quality,Unlikely
+Retail,Tier 2,5+,25L+,Owner,Brand,Mixed,10000+,1L-5L,Low,Low,Quality,Unlikely
+Cloud Kitchen,Tier 2,1-3,5-10L,Owner,Compliance,Biodegradable,<1000,<10K,High,Low,Cost,Unlikely
+Restaurant,Tier 2,<1,5-10L,Owner,Cost,Plastic,<1000,10K-50K,Medium,Medium,Awareness,Unlikely
+Cloud Kitchen,Tier 3,1-3,2-5L,Manager,Cost,Plastic,<1000,10K-50K,Medium,Medium,Quality,Unlikely
+Retail,Tier 1,5+,<2L,Owner,Customer Experience,Plastic,<1000,<10K,Low,High,Cost,Neutral
+Cloud Kitchen,Tier 3,3-5,<2L,Owner,Compliance,Biodegradable,1000-5000,<10K,High,Medium,Quality,Likely
+Catering,Tier 2,1-3,5-10L,Multiple,Brand,Plastic,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 1,<1,5-10L,Procurement,Brand,Plastic,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 2,1-3,2-5L,Owner,Quality,Mixed,<1000,<10K,Medium,High,Quality,Likely
+Cloud Kitchen,Tier 3,1-3,5-10L,Owner,Cost,Plastic,1000-5000,<10K,Medium,High,Quality,Likely
+Cloud Kitchen,Tier 1,5+,5-10L,Owner,Compliance,Plastic,<1000,10K-50K,Medium,Medium,Quality,Neutral
+Retail,Tier 1,3-5,<2L,Procurement,Brand,Plastic,<1000,<10K,Medium,High,Cost,Neutral
+Retail,Tier 3,1-3,<2L,Manager,Quality,Plastic,1000-5000,<10K,Low,High,Quality,Likely
+Catering,Tier 1,1-3,10-25L,Owner,Customer Experience,Paper,5000-10000,1L-5L,High,Low,Cost,Neutral
+Restaurant,Tier 2,<1,5-10L,Manager,Cost,Mixed,<1000,<10K,Low,Low,Quality,Unlikely
+Restaurant,Tier 2,5+,10-25L,Owner,Cost,Mixed,5000-10000,1L-5L,Low,Low,Quality,Unlikely
+Retail,Tier 2,1-3,<2L,Owner,Customer Experience,Paper,<1000,<10K,High,Low,Supply,Likely
+Retail,Tier 2,1-3,25L+,Owner,Compliance,Paper,5000-10000,1L-5L,High,Medium,Awareness,Likely
+Restaurant,Tier 1,1-3,2-5L,Owner,Quality,Paper,<1000,<10K,Low,High,Awareness,Very Likely
+Restaurant,Tier 2,3-5,<2L,Owner,Cost,Plastic,1000-5000,<10K,Low,Medium,Awareness,Unlikely
+Restaurant,Tier 1,3-5,25L+,Owner,Cost,Plastic,10000+,1L-5L,High,Medium,Awareness,Very Likely
+E-commerce,Tier 2,3-5,2-5L,Owner,Brand,Mixed,<1000,10K-50K,High,Medium,Supply,Likely
+Restaurant,Tier 1,1-3,5-10L,Owner,Quality,Plastic,<1000,<10K,Medium,Low,Awareness,Neutral
+Restaurant,Tier 2,1-3,<2L,Procurement,Compliance,Plastic,<1000,<10K,Medium,Low,Awareness,Unlikely
+Restaurant,Tier 1,<1,5-10L,Owner,Customer Experience,Paper,1000-5000,10K-50K,Low,Medium,Supply,Neutral
+Cloud Kitchen,Tier 1,3-5,25L+,Owner,Compliance,Paper,10000+,1L-5L,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,<1,2-5L,Manager,Quality,Plastic,<1000,10K-50K,Low,High,Cost,Neutral
+Cloud Kitchen,Tier 1,3-5,5-10L,Procurement,Compliance,Plastic,<1000,10K-50K,Medium,Low,Supply,Neutral
+Restaurant,Tier 3,5+,<2L,Procurement,Quality,Plastic,1000-5000,10K-50K,Low,High,Quality,Likely
+E-commerce,Tier 1,5+,5-10L,Owner,Cost,Biodegradable,1000-5000,<10K,Medium,Low,Supply,Neutral
+Restaurant,Tier 3,1-3,2-5L,Owner,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,1-3,2-5L,Manager,Quality,Paper,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+E-commerce,Tier 2,<1,2-5L,Manager,Customer Experience,Paper,<1000,10K-50K,Low,Low,Supply,Unlikely
+Retail,Tier 1,3-5,<2L,Owner,Cost,Mixed,<1000,<10K,Medium,Low,Awareness,Neutral
+Cloud Kitchen,Tier 1,5+,25L+,Multiple,Cost,Plastic,5000-10000,1L-5L,High,Low,Cost,Neutral
+Restaurant,Tier 3,1-3,2-5L,Owner,Customer Experience,Plastic,<1000,10K-50K,Medium,Low,Awareness,Unlikely
+Restaurant,Tier 1,1-3,2-5L,Multiple,Cost,Paper,<1000,<10K,High,Medium,Supply,Very Likely
+Retail,Tier 1,5+,2-5L,Procurement,Compliance,Biodegradable,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+Catering,Tier 2,5+,2-5L,Manager,Cost,Plastic,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 3,1-3,5-10L,Multiple,Cost,Paper,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 3,3-5,25L+,Manager,Customer Experience,Plastic,5000-10000,50K-1L,High,High,Cost,Likely
+Retail,Tier 1,<1,2-5L,Owner,Cost,Plastic,1000-5000,10K-50K,Low,High,Quality,Very Likely
+Cloud Kitchen,Tier 2,<1,10-25L,Owner,Quality,Paper,1000-5000,10K-50K,Low,High,Cost,Unlikely
+Restaurant,Tier 1,5+,5-10L,Owner,Cost,Plastic,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 1,5+,<2L,Owner,Cost,Mixed,1000-5000,10K-50K,High,Low,Supply,Very Likely
+Catering,Tier 3,3-5,5-10L,Manager,Cost,Paper,<1000,<10K,High,High,Quality,Very Likely
+Restaurant,Tier 1,<1,5-10L,Owner,Cost,Paper,<1000,<10K,Medium,Low,Quality,Neutral
+Retail,Tier 1,5+,5-10L,Owner,Cost,Paper,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,10-25L,Manager,Compliance,Paper,1000-5000,10K-50K,Medium,Low,Supply,Neutral
+Cloud Kitchen,Tier 3,1-3,2-5L,Procurement,Quality,Plastic,1000-5000,10K-50K,Medium,Medium,Awareness,Unlikely
+Restaurant,Tier 3,1-3,25L+,Owner,Cost,Mixed,5000-10000,50K-1L,Medium,Medium,Quality,Unlikely
+Cloud Kitchen,Tier 2,<1,10-25L,Owner,Quality,Mixed,5000-10000,50K-1L,High,Medium,Awareness,Likely
+E-commerce,Tier 3,3-5,2-5L,Owner,Customer Experience,Plastic,<1000,10K-50K,High,Medium,Supply,Likely
+Restaurant,Tier 1,3-5,5-10L,Manager,Customer Experience,Plastic,1000-5000,<10K,Medium,Low,Supply,Neutral
+Retail,Tier 2,<1,2-5L,Owner,Compliance,Plastic,1000-5000,10K-50K,Medium,High,Supply,Likely
+E-commerce,Tier 1,<1,25L+,Manager,Customer Experience,Biodegradable,5000-10000,1L-5L,Medium,Medium,Cost,Very Unlikely
+Catering,Tier 1,<1,5-10L,Owner,Cost,Biodegradable,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,<1,<2L,Owner,Quality,Mixed,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,3-5,2-5L,Multiple,Brand,Biodegradable,<1000,<10K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 1,5+,5-10L,Owner,Brand,Paper,1000-5000,10K-50K,Low,Low,Cost,Very Unlikely
+Catering,Tier 1,<1,<2L,Owner,Quality,Paper,1000-5000,<10K,Medium,Medium,Awareness,Neutral
+Catering,Tier 1,<1,<2L,Owner,Quality,Biodegradable,1000-5000,10K-50K,High,Low,Cost,Neutral
+Cloud Kitchen,Tier 1,3-5,2-5L,Owner,Customer Experience,Paper,1000-5000,10K-50K,Low,Low,Awareness,Neutral
+E-commerce,Tier 3,5+,2-5L,Manager,Compliance,Paper,<1000,<10K,Medium,High,Quality,Likely
+Cloud Kitchen,Tier 2,1-3,2-5L,Owner,Quality,Paper,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 2,1-3,2-5L,Owner,Compliance,Paper,1000-5000,10K-50K,Low,Medium,Quality,Unlikely
+Restaurant,Tier 3,3-5,<2L,Owner,Cost,Paper,1000-5000,10K-50K,High,Medium,Cost,Unlikely
+E-commerce,Tier 1,1-3,5-10L,Manager,Cost,Paper,<1000,10K-50K,High,High,Awareness,Very Likely
+Restaurant,Tier 2,<1,5-10L,Procurement,Quality,Biodegradable,1000-5000,10K-50K,Low,Low,Supply,Unlikely
+E-commerce,Tier 2,3-5,2-5L,Manager,Quality,Paper,<1000,<10K,High,High,Cost,Likely
+E-commerce,Tier 2,3-5,2-5L,Manager,Cost,Paper,1000-5000,<10K,Medium,Medium,Awareness,Unlikely
+Retail,Tier 3,3-5,5-10L,Owner,Compliance,Biodegradable,1000-5000,10K-50K,High,Low,Supply,Likely
+Restaurant,Tier 3,3-5,<2L,Owner,Quality,Paper,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 1,3-5,<2L,Owner,Quality,Plastic,1000-5000,10K-50K,Low,Medium,Supply,Neutral
+Restaurant,Tier 3,1-3,<2L,Owner,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Quality,Unlikely
+Cloud Kitchen,Tier 1,1-3,10-25L,Owner,Cost,Paper,1000-5000,10K-50K,High,Low,Cost,Neutral
+Restaurant,Tier 1,<1,10-25L,Manager,Customer Experience,Paper,1000-5000,10K-50K,Low,Medium,Supply,Neutral
+Catering,Tier 1,<1,10-25L,Manager,Brand,Mixed,1000-5000,<10K,High,Medium,Cost,Neutral
+Retail,Tier 1,3-5,5-10L,Multiple,Customer Experience,Plastic,1000-5000,<10K,Low,Medium,Quality,Neutral
+Restaurant,Tier 2,5+,5-10L,Owner,Customer Experience,Plastic,<1000,10K-50K,High,High,Cost,Likely
+Cloud Kitchen,Tier 2,5+,2-5L,Manager,Quality,Plastic,<1000,<10K,Low,High,Awareness,Likely
+Cloud Kitchen,Tier 3,3-5,5-10L,Procurement,Cost,Plastic,<1000,10K-50K,High,Medium,Supply,Likely
+Retail,Tier 2,<1,<2L,Manager,Customer Experience,Biodegradable,<1000,<10K,Medium,High,Cost,Unlikely
+Cloud Kitchen,Tier 2,<1,5-10L,Owner,Customer Experience,Plastic,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+Catering,Tier 1,5+,10-25L,Owner,Brand,Paper,1000-5000,10K-50K,High,Low,Cost,Neutral
+Cloud Kitchen,Tier 1,3-5,5-10L,Owner,Compliance,Biodegradable,<1000,10K-50K,High,Low,Supply,Very Likely
+Catering,Tier 2,3-5,2-5L,Owner,Compliance,Paper,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+E-commerce,Tier 2,3-5,2-5L,Manager,Quality,Mixed,<1000,<10K,Low,Medium,Supply,Unlikely
+Restaurant,Tier 3,3-5,5-10L,Owner,Quality,Paper,<1000,10K-50K,Medium,Medium,Awareness,Unlikely
+Catering,Tier 1,5+,5-10L,Owner,Compliance,Plastic,1000-5000,<10K,Medium,Low,Supply,Neutral
+Restaurant,Tier 1,<1,10-25L,Manager,Brand,Mixed,5000-10000,50K-1L,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 2,3-5,2-5L,Procurement,Cost,Mixed,1000-5000,<10K,Medium,High,Cost,Unlikely
+Cloud Kitchen,Tier 1,5+,10-25L,Owner,Cost,Plastic,1000-5000,<10K,Low,High,Quality,Very Likely
+E-commerce,Tier 1,1-3,5-10L,Manager,Cost,Plastic,1000-5000,<10K,High,Medium,Quality,Very Likely
+E-commerce,Tier 2,3-5,10-25L,Owner,Cost,Plastic,5000-10000,50K-1L,High,Medium,Supply,Likely
+E-commerce,Tier 1,1-3,5-10L,Owner,Customer Experience,Plastic,<1000,<10K,Low,Medium,Quality,Neutral
+E-commerce,Tier 2,5+,5-10L,Owner,Cost,Mixed,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 1,<1,5-10L,Manager,Cost,Paper,<1000,<10K,Medium,Medium,Awareness,Neutral
+Restaurant,Tier 1,3-5,5-10L,Multiple,Cost,Plastic,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,<1,25L+,Owner,Brand,Mixed,5000-10000,50K-1L,Low,Medium,Quality,Neutral
+Restaurant,Tier 3,3-5,<2L,Manager,Quality,Paper,1000-5000,<10K,Medium,Low,Supply,Unlikely
+Retail,Tier 1,<1,<2L,Owner,Cost,Plastic,<1000,<10K,Low,High,Cost,Neutral
+Restaurant,Tier 3,1-3,25L+,Manager,Cost,Mixed,5000-10000,1L-5L,Medium,High,Supply,Likely
+Catering,Tier 1,1-3,5-10L,Owner,Cost,Mixed,<1000,10K-50K,High,Low,Supply,Very Likely
+Retail,Tier 3,5+,5-10L,Owner,Quality,Mixed,<1000,<10K,High,Medium,Supply,Likely
+E-commerce,Tier 1,1-3,2-5L,Procurement,Cost,Paper,1000-5000,<10K,Low,High,Cost,Neutral
+Restaurant,Tier 2,<1,<2L,Manager,Customer Experience,Biodegradable,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 2,3-5,10-25L,Owner,Quality,Plastic,5000-10000,1L-5L,High,Medium,Cost,Unlikely
+Catering,Tier 3,1-3,5-10L,Owner,Cost,Paper,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,5+,2-5L,Owner,Compliance,Mixed,<1000,<10K,High,Medium,Awareness,Very Likely
+Retail,Tier 1,<1,2-5L,Owner,Cost,Plastic,1000-5000,<10K,High,High,Supply,Very Likely
+E-commerce,Tier 1,3-5,10-25L,Procurement,Brand,Biodegradable,5000-10000,50K-1L,High,Low,Cost,Neutral
+Restaurant,Tier 3,1-3,<2L,Multiple,Cost,Paper,1000-5000,<10K,Low,Low,Awareness,Unlikely
+Cloud Kitchen,Tier 2,<1,10-25L,Owner,Quality,Plastic,5000-10000,50K-1L,Low,Low,Supply,Unlikely
+Cloud Kitchen,Tier 3,3-5,2-5L,Owner,Compliance,Biodegradable,<1000,10K-50K,High,Low,Cost,Unlikely
+Restaurant,Tier 1,3-5,5-10L,Procurement,Customer Experience,Plastic,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,3-5,25L+,Owner,Cost,Paper,10000+,5L+,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,5-10L,Manager,Cost,Plastic,<1000,<10K,Medium,Low,Awareness,Neutral
+Restaurant,Tier 3,1-3,2-5L,Owner,Quality,Mixed,<1000,<10K,Low,Medium,Quality,Unlikely
+Restaurant,Tier 2,1-3,5-10L,Manager,Customer Experience,Plastic,<1000,10K-50K,High,Medium,Awareness,Likely
+Catering,Tier 3,5+,2-5L,Manager,Customer Experience,Plastic,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,1-3,2-5L,Procurement,Cost,Plastic,1000-5000,<10K,High,Medium,Awareness,Very Likely
+Catering,Tier 2,1-3,25L+,Procurement,Cost,Mixed,10000+,5L+,High,Medium,Cost,Unlikely
+Cloud Kitchen,Tier 2,1-3,10-25L,Owner,Quality,Biodegradable,5000-10000,50K-1L,Low,Medium,Awareness,Unlikely
+Restaurant,Tier 1,3-5,5-10L,Manager,Cost,Biodegradable,<1000,10K-50K,Medium,Low,Awareness,Neutral
+Cloud Kitchen,Tier 3,1-3,2-5L,Procurement,Cost,Paper,1000-5000,10K-50K,High,Medium,Cost,Unlikely
+Cloud Kitchen,Tier 3,5+,<2L,Owner,Cost,Paper,1000-5000,<10K,Medium,High,Supply,Likely
+Restaurant,Tier 3,1-3,<2L,Owner,Brand,Plastic,<1000,<10K,High,Medium,Supply,Likely
+Retail,Tier 2,5+,5-10L,Owner,Customer Experience,Paper,<1000,10K-50K,High,Low,Awareness,Likely
+Restaurant,Tier 1,<1,10-25L,Owner,Customer Experience,Plastic,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 1,3-5,5-10L,Owner,Quality,Mixed,1000-5000,10K-50K,High,Low,Quality,Very Likely
+Retail,Tier 3,5+,10-25L,Manager,Quality,Biodegradable,5000-10000,1L-5L,Low,Medium,Awareness,Unlikely
+Restaurant,Tier 1,<1,<2L,Owner,Customer Experience,Paper,1000-5000,<10K,Low,Low,Supply,Neutral
+Restaurant,Tier 2,5+,2-5L,Procurement,Cost,Plastic,<1000,10K-50K,High,Low,Cost,Unlikely
+E-commerce,Tier 2,1-3,2-5L,Owner,Brand,Biodegradable,<1000,<10K,High,Medium,Supply,Likely
+Cloud Kitchen,Tier 2,5+,2-5L,Owner,Quality,Plastic,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 3,3-5,<2L,Owner,Cost,Plastic,1000-5000,10K-50K,Low,Medium,Supply,Unlikely
+Catering,Tier 1,1-3,25L+,Owner,Quality,Plastic,10000+,1L-5L,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 1,<1,2-5L,Owner,Cost,Paper,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 1,1-3,25L+,Owner,Brand,Biodegradable,5000-10000,1L-5L,Medium,High,Quality,Very Likely
+Catering,Tier 2,<1,2-5L,Owner,Cost,Plastic,<1000,<10K,Low,High,Quality,Likely
+Restaurant,Tier 1,<1,25L+,Manager,Cost,Plastic,10000+,1L-5L,Medium,Low,Quality,Neutral
+Restaurant,Tier 1,<1,5-10L,Procurement,Cost,Paper,<1000,10K-50K,High,Medium,Quality,Very Likely
+Restaurant,Tier 3,1-3,25L+,Owner,Customer Experience,Biodegradable,5000-10000,50K-1L,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 3,3-5,<2L,Manager,Quality,Plastic,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,<1,5-10L,Manager,Quality,Plastic,<1000,10K-50K,High,Medium,Supply,Very Likely
+Retail,Tier 1,<1,25L+,Owner,Quality,Mixed,5000-10000,1L-5L,High,Low,Cost,Neutral
+Restaurant,Tier 3,3-5,<2L,Multiple,Quality,Mixed,<1000,10K-50K,High,Medium,Quality,Likely
+Cloud Kitchen,Tier 1,<1,<2L,Procurement,Cost,Mixed,<1000,10K-50K,Low,Low,Quality,Neutral
+Catering,Tier 1,<1,2-5L,Owner,Compliance,Mixed,1000-5000,<10K,Low,Low,Awareness,Neutral
+E-commerce,Tier 1,<1,25L+,Owner,Cost,Plastic,5000-10000,1L-5L,Medium,High,Supply,Very Likely
+Retail,Tier 2,5+,5-10L,Owner,Cost,Plastic,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,5+,5-10L,Owner,Compliance,Plastic,1000-5000,10K-50K,Medium,Medium,Supply,Neutral
+Retail,Tier 3,1-3,<2L,Manager,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Awareness,Unlikely
+Cloud Kitchen,Tier 2,3-5,<2L,Owner,Cost,Mixed,1000-5000,10K-50K,Low,Medium,Quality,Unlikely
+Cloud Kitchen,Tier 2,1-3,10-25L,Procurement,Quality,Biodegradable,5000-10000,1L-5L,Medium,Medium,Awareness,Unlikely
+Restaurant,Tier 1,3-5,<2L,Manager,Quality,Biodegradable,<1000,<10K,Medium,Low,Quality,Neutral
+E-commerce,Tier 2,3-5,5-10L,Manager,Compliance,Plastic,1000-5000,<10K,Medium,Medium,Quality,Unlikely
+Cloud Kitchen,Tier 2,3-5,25L+,Manager,Brand,Mixed,10000+,5L+,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 3,1-3,2-5L,Owner,Brand,Mixed,<1000,10K-50K,Medium,Medium,Supply,Unlikely
+Cloud Kitchen,Tier 3,<1,5-10L,Owner,Compliance,Plastic,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,1-3,<2L,Manager,Cost,Mixed,<1000,<10K,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 3,5+,5-10L,Owner,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 3,3-5,<2L,Owner,Quality,Plastic,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+E-commerce,Tier 3,5+,5-10L,Procurement,Cost,Biodegradable,<1000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,5+,2-5L,Manager,Customer Experience,Biodegradable,1000-5000,10K-50K,High,Medium,Quality,Very Likely
+Cloud Kitchen,Tier 1,<1,2-5L,Owner,Compliance,Plastic,<1000,10K-50K,Medium,High,Cost,Neutral
+Cloud Kitchen,Tier 1,3-5,5-10L,Manager,Cost,Plastic,1000-5000,10K-50K,Low,Medium,Awareness,Neutral
+Restaurant,Tier 2,3-5,<2L,Procurement,Cost,Mixed,<1000,<10K,High,High,Cost,Likely
+Restaurant,Tier 2,5+,5-10L,Owner,Cost,Biodegradable,<1000,10K-50K,Low,Medium,Quality,Unlikely
+E-commerce,Tier 2,5+,2-5L,Owner,Cost,Biodegradable,<1000,10K-50K,Low,High,Cost,Unlikely
+Restaurant,Tier 3,3-5,5-10L,Multiple,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,1-3,<2L,Owner,Quality,Plastic,<1000,10K-50K,High,High,Cost,Likely
+Restaurant,Tier 3,3-5,5-10L,Owner,Customer Experience,Plastic,<1000,10K-50K,Low,Low,Quality,Unlikely
+Restaurant,Tier 1,<1,<2L,Owner,Compliance,Plastic,1000-5000,10K-50K,Medium,Low,Supply,Neutral
+Restaurant,Tier 2,3-5,2-5L,Procurement,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Catering,Tier 1,5+,2-5L,Owner,Quality,Plastic,<1000,10K-50K,Low,High,Cost,Neutral
+E-commerce,Tier 1,1-3,5-10L,Owner,Quality,Paper,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Catering,Tier 1,3-5,2-5L,Owner,Compliance,Plastic,1000-5000,<10K,High,Low,Supply,Very Likely
+Cloud Kitchen,Tier 1,1-3,10-25L,Multiple,Compliance,Mixed,1000-5000,<10K,Medium,Medium,Supply,Neutral
+Restaurant,Tier 2,1-3,10-25L,Owner,Customer Experience,Plastic,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,1-3,<2L,Manager,Quality,Paper,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,3-5,5-10L,Multiple,Brand,Plastic,1000-5000,<10K,Medium,Medium,Awareness,Neutral
+E-commerce,Tier 2,5+,<2L,Owner,Cost,Paper,<1000,<10K,High,High,Cost,Likely
+Restaurant,Tier 2,5+,2-5L,Multiple,Quality,Plastic,<1000,<10K,Medium,High,Quality,Likely
+Cloud Kitchen,Tier 1,<1,5-10L,Multiple,Cost,Mixed,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 2,5+,5-10L,Procurement,Quality,Biodegradable,1000-5000,10K-50K,Low,Low,Quality,Unlikely
+Restaurant,Tier 1,3-5,5-10L,Owner,Brand,Paper,1000-5000,<10K,Medium,Low,Awareness,Neutral
+Retail,Tier 2,1-3,2-5L,Manager,Cost,Plastic,<1000,<10K,Low,Low,Awareness,Unlikely
+Cloud Kitchen,Tier 2,<1,2-5L,Procurement,Cost,Paper,<1000,10K-50K,High,Low,Supply,Likely
+Cloud Kitchen,Tier 1,1-3,<2L,Multiple,Cost,Biodegradable,1000-5000,<10K,Medium,High,Quality,Very Likely
+Cloud Kitchen,Tier 1,5+,5-10L,Owner,Cost,Plastic,1000-5000,10K-50K,High,Low,Quality,Very Likely
+Cloud Kitchen,Tier 2,3-5,5-10L,Procurement,Cost,Paper,<1000,<10K,High,High,Cost,Likely
+E-commerce,Tier 3,3-5,5-10L,Owner,Cost,Mixed,1000-5000,<10K,High,High,Awareness,Very Likely
+E-commerce,Tier 1,1-3,2-5L,Owner,Cost,Biodegradable,1000-5000,<10K,Low,Low,Supply,Neutral
+Catering,Tier 2,3-5,2-5L,Owner,Cost,Mixed,<1000,10K-50K,Low,High,Quality,Likely
+E-commerce,Tier 2,<1,2-5L,Procurement,Customer Experience,Mixed,1000-5000,<10K,High,Medium,Cost,Unlikely
+Restaurant,Tier 3,1-3,<2L,Owner,Cost,Mixed,1000-5000,<10K,High,Medium,Quality,Likely
+Retail,Tier 3,3-5,2-5L,Manager,Cost,Paper,<1000,10K-50K,High,Low,Awareness,Likely
+Cloud Kitchen,Tier 2,<1,10-25L,Multiple,Quality,Paper,1000-5000,<10K,Low,Medium,Quality,Unlikely
+Restaurant,Tier 2,5+,10-25L,Owner,Customer Experience,Biodegradable,5000-10000,50K-1L,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 3,1-3,5-10L,Manager,Brand,Biodegradable,1000-5000,<10K,High,Medium,Cost,Unlikely
+Restaurant,Tier 1,3-5,2-5L,Owner,Cost,Mixed,<1000,<10K,Low,Low,Cost,Very Unlikely
+Catering,Tier 1,1-3,<2L,Owner,Quality,Plastic,1000-5000,<10K,Medium,Medium,Awareness,Neutral
+Cloud Kitchen,Tier 1,3-5,10-25L,Manager,Compliance,Plastic,5000-10000,1L-5L,Medium,Low,Awareness,Neutral
+Retail,Tier 3,<1,<2L,Multiple,Compliance,Plastic,1000-5000,10K-50K,Low,Low,Awareness,Unlikely
+Retail,Tier 3,<1,25L+,Manager,Brand,Plastic,5000-10000,1L-5L,Low,Medium,Supply,Unlikely
+E-commerce,Tier 1,5+,2-5L,Procurement,Customer Experience,Plastic,1000-5000,<10K,Low,Medium,Quality,Neutral
+Retail,Tier 2,1-3,2-5L,Owner,Customer Experience,Biodegradable,<1000,<10K,Low,Medium,Quality,Unlikely
+Retail,Tier 2,5+,25L+,Owner,Quality,Plastic,5000-10000,50K-1L,Medium,Low,Quality,Unlikely
+Restaurant,Tier 1,5+,<2L,Manager,Quality,Biodegradable,<1000,<10K,Low,High,Supply,Very Likely
+Cloud Kitchen,Tier 3,1-3,5-10L,Owner,Brand,Biodegradable,1000-5000,<10K,Low,Medium,Quality,Unlikely
+Restaurant,Tier 1,1-3,5-10L,Owner,Compliance,Plastic,1000-5000,10K-50K,High,Low,Supply,Very Likely
+Retail,Tier 1,3-5,2-5L,Manager,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,5+,2-5L,Owner,Customer Experience,Paper,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 2,5+,5-10L,Owner,Cost,Biodegradable,1000-5000,<10K,High,Low,Supply,Likely
+Restaurant,Tier 1,1-3,5-10L,Manager,Quality,Mixed,1000-5000,10K-50K,High,Medium,Awareness,Very Likely
+Restaurant,Tier 2,3-5,<2L,Manager,Customer Experience,Mixed,<1000,10K-50K,Low,High,Quality,Likely
+Retail,Tier 2,<1,25L+,Multiple,Cost,Mixed,10000+,5L+,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,5+,<2L,Manager,Quality,Paper,1000-5000,10K-50K,Medium,Low,Awareness,Neutral
+Restaurant,Tier 1,5+,2-5L,Owner,Cost,Mixed,1000-5000,<10K,Medium,High,Supply,Very Likely
+Restaurant,Tier 2,<1,2-5L,Multiple,Quality,Mixed,1000-5000,<10K,High,Low,Quality,Likely
+Catering,Tier 1,1-3,<2L,Procurement,Cost,Mixed,1000-5000,10K-50K,High,High,Quality,Very Likely
+Retail,Tier 3,<1,<2L,Owner,Quality,Plastic,1000-5000,10K-50K,High,Low,Quality,Likely
+Cloud Kitchen,Tier 3,1-3,25L+,Owner,Quality,Mixed,10000+,5L+,Low,Medium,Quality,Unlikely
+Restaurant,Tier 3,5+,2-5L,Manager,Customer Experience,Paper,1000-5000,10K-50K,Low,Medium,Awareness,Unlikely
+Restaurant,Tier 1,1-3,<2L,Manager,Customer Experience,Biodegradable,1000-5000,10K-50K,High,Low,Cost,Neutral
+E-commerce,Tier 3,<1,<2L,Procurement,Cost,Plastic,<1000,10K-50K,Medium,High,Cost,Unlikely
+Retail,Tier 2,1-3,5-10L,Manager,Compliance,Plastic,<1000,10K-50K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,5+,10-25L,Manager,Cost,Plastic,5000-10000,1L-5L,High,Low,Cost,Neutral
+Restaurant,Tier 1,3-5,2-5L,Multiple,Cost,Plastic,1000-5000,10K-50K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 1,1-3,<2L,Manager,Cost,Plastic,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 2,<1,2-5L,Owner,Customer Experience,Mixed,1000-5000,10K-50K,High,Low,Cost,Unlikely
+E-commerce,Tier 2,5+,<2L,Procurement,Customer Experience,Plastic,1000-5000,<10K,Low,High,Cost,Unlikely
+Restaurant,Tier 1,5+,<2L,Owner,Cost,Plastic,1000-5000,<10K,Low,High,Cost,Neutral
+Restaurant,Tier 2,1-3,2-5L,Procurement,Cost,Plastic,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 1,<1,2-5L,Multiple,Cost,Paper,1000-5000,10K-50K,Medium,Medium,Quality,Neutral
+Catering,Tier 2,<1,5-10L,Manager,Quality,Plastic,1000-5000,<10K,Low,Low,Quality,Unlikely
+Restaurant,Tier 1,<1,2-5L,Manager,Quality,Plastic,1000-5000,<10K,Medium,High,Cost,Neutral
+E-commerce,Tier 3,3-5,25L+,Owner,Cost,Paper,10000+,5L+,Medium,High,Quality,Likely
+Retail,Tier 3,5+,25L+,Owner,Compliance,Biodegradable,5000-10000,50K-1L,High,Low,Awareness,Likely
+Cloud Kitchen,Tier 2,1-3,5-10L,Owner,Cost,Plastic,1000-5000,10K-50K,Low,High,Awareness,Likely
+Restaurant,Tier 1,5+,2-5L,Manager,Customer Experience,Plastic,1000-5000,10K-50K,High,Medium,Cost,Neutral
+Restaurant,Tier 1,1-3,2-5L,Procurement,Brand,Plastic,1000-5000,<10K,Low,Low,Supply,Neutral
+Retail,Tier 3,3-5,2-5L,Manager,Quality,Mixed,<1000,10K-50K,Medium,High,Cost,Unlikely
+E-commerce,Tier 1,3-5,5-10L,Owner,Compliance,Plastic,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+Retail,Tier 1,<1,2-5L,Owner,Compliance,Paper,<1000,10K-50K,Low,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,1-3,10-25L,Procurement,Cost,Plastic,1000-5000,10K-50K,High,Medium,Cost,Neutral
+Restaurant,Tier 2,3-5,25L+,Owner,Cost,Paper,10000+,1L-5L,Low,Low,Quality,Unlikely
+Catering,Tier 2,<1,2-5L,Manager,Customer Experience,Plastic,<1000,<10K,Low,Low,Supply,Unlikely
+E-commerce,Tier 3,1-3,5-10L,Procurement,Cost,Plastic,1000-5000,10K-50K,Medium,High,Supply,Likely
+Restaurant,Tier 1,1-3,<2L,Manager,Cost,Paper,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Catering,Tier 1,5+,2-5L,Owner,Quality,Plastic,<1000,<10K,Low,High,Cost,Neutral
+Retail,Tier 3,1-3,2-5L,Procurement,Compliance,Plastic,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+Retail,Tier 3,5+,2-5L,Owner,Compliance,Biodegradable,<1000,<10K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 1,1-3,10-25L,Multiple,Customer Experience,Mixed,5000-10000,50K-1L,Medium,High,Awareness,Very Likely
+E-commerce,Tier 2,3-5,<2L,Owner,Quality,Plastic,1000-5000,<10K,Medium,Low,Supply,Unlikely
+Retail,Tier 1,3-5,2-5L,Owner,Cost,Paper,1000-5000,10K-50K,Low,Low,Awareness,Neutral
+Restaurant,Tier 3,5+,5-10L,Procurement,Quality,Mixed,<1000,<10K,Low,Medium,Supply,Unlikely
+Restaurant,Tier 1,1-3,5-10L,Owner,Compliance,Mixed,<1000,10K-50K,Medium,Low,Quality,Neutral
+Catering,Tier 3,3-5,2-5L,Manager,Cost,Paper,<1000,<10K,High,Low,Cost,Unlikely
+Restaurant,Tier 2,3-5,10-25L,Procurement,Cost,Biodegradable,1000-5000,10K-50K,High,High,Quality,Very Likely
+Cloud Kitchen,Tier 2,1-3,5-10L,Procurement,Cost,Plastic,1000-5000,10K-50K,High,High,Quality,Very Likely
+Cloud Kitchen,Tier 1,<1,2-5L,Multiple,Quality,Paper,1000-5000,<10K,Low,Medium,Supply,Neutral
+Cloud Kitchen,Tier 2,<1,<2L,Owner,Customer Experience,Plastic,<1000,<10K,High,High,Quality,Very Likely
+Retail,Tier 2,<1,2-5L,Manager,Brand,Plastic,1000-5000,<10K,Medium,High,Cost,Unlikely
+Catering,Tier 1,5+,10-25L,Owner,Customer Experience,Paper,5000-10000,1L-5L,High,Medium,Supply,Very Likely
+Restaurant,Tier 2,1-3,5-10L,Owner,Cost,Plastic,<1000,10K-50K,Low,Low,Awareness,Unlikely
+Restaurant,Tier 3,1-3,10-25L,Procurement,Customer Experience,Biodegradable,1000-5000,10K-50K,Medium,Low,Quality,Unlikely
+Restaurant,Tier 2,3-5,2-5L,Owner,Compliance,Paper,<1000,<10K,Medium,Low,Supply,Unlikely
+E-commerce,Tier 2,1-3,<2L,Manager,Cost,Paper,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 1,1-3,<2L,Manager,Customer Experience,Plastic,1000-5000,<10K,High,Low,Quality,Very Likely
+Restaurant,Tier 2,<1,2-5L,Manager,Cost,Plastic,<1000,<10K,High,Low,Cost,Unlikely
+E-commerce,Tier 1,5+,5-10L,Multiple,Customer Experience,Paper,<1000,<10K,High,Low,Cost,Neutral
+E-commerce,Tier 2,5+,10-25L,Owner,Customer Experience,Mixed,1000-5000,10K-50K,Medium,Low,Quality,Unlikely
+E-commerce,Tier 3,5+,2-5L,Manager,Compliance,Plastic,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+Catering,Tier 2,1-3,2-5L,Procurement,Quality,Plastic,1000-5000,10K-50K,Low,Low,Supply,Unlikely
+Restaurant,Tier 1,3-5,2-5L,Owner,Cost,Mixed,1000-5000,<10K,High,High,Awareness,Very Likely
+E-commerce,Tier 1,<1,2-5L,Owner,Quality,Plastic,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,<1,2-5L,Manager,Quality,Mixed,1000-5000,<10K,High,High,Supply,Very Likely
+E-commerce,Tier 2,<1,<2L,Owner,Compliance,Paper,1000-5000,<10K,Medium,High,Quality,Likely
+Retail,Tier 3,3-5,<2L,Owner,Compliance,Paper,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+E-commerce,Tier 3,1-3,<2L,Procurement,Customer Experience,Plastic,1000-5000,10K-50K,High,Medium,Supply,Likely
+Retail,Tier 2,1-3,<2L,Manager,Cost,Plastic,<1000,<10K,Low,High,Quality,Likely
+Restaurant,Tier 1,<1,<2L,Multiple,Compliance,Plastic,<1000,10K-50K,Low,Low,Quality,Neutral
+Cloud Kitchen,Tier 1,1-3,5-10L,Procurement,Customer Experience,Mixed,1000-5000,10K-50K,Low,High,Awareness,Very Likely
+Catering,Tier 1,3-5,2-5L,Manager,Compliance,Biodegradable,1000-5000,10K-50K,High,High,Quality,Very Likely
+Catering,Tier 1,1-3,25L+,Owner,Cost,Biodegradable,5000-10000,1L-5L,Low,Medium,Awareness,Neutral
+Restaurant,Tier 2,3-5,<2L,Owner,Cost,Biodegradable,1000-5000,<10K,Low,Low,Quality,Unlikely
+Restaurant,Tier 2,1-3,2-5L,Owner,Cost,Plastic,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,5+,2-5L,Multiple,Brand,Paper,<1000,<10K,Medium,Medium,Quality,Unlikely
+Retail,Tier 1,3-5,<2L,Owner,Brand,Paper,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+E-commerce,Tier 1,1-3,10-25L,Owner,Customer Experience,Biodegradable,1000-5000,<10K,Low,Medium,Quality,Neutral
+Restaurant,Tier 1,1-3,<2L,Manager,Quality,Plastic,1000-5000,10K-50K,High,Low,Supply,Very Likely
+Cloud Kitchen,Tier 1,3-5,25L+,Owner,Cost,Paper,5000-10000,50K-1L,High,Low,Quality,Very Likely
+E-commerce,Tier 3,5+,10-25L,Owner,Brand,Mixed,1000-5000,<10K,Low,Medium,Cost,Very Unlikely
+Retail,Tier 1,1-3,5-10L,Manager,Compliance,Paper,<1000,10K-50K,High,Low,Quality,Very Likely
+Cloud Kitchen,Tier 2,1-3,5-10L,Owner,Customer Experience,Plastic,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 1,5+,5-10L,Owner,Compliance,Paper,<1000,<10K,Low,Low,Supply,Neutral
+Cloud Kitchen,Tier 3,3-5,2-5L,Owner,Quality,Plastic,1000-5000,10K-50K,Low,Low,Supply,Unlikely
+Restaurant,Tier 2,1-3,5-10L,Manager,Brand,Biodegradable,1000-5000,<10K,Medium,Medium,Awareness,Unlikely
+Retail,Tier 1,1-3,<2L,Manager,Customer Experience,Mixed,1000-5000,10K-50K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 2,1-3,<2L,Owner,Quality,Paper,<1000,10K-50K,Low,High,Quality,Likely
+E-commerce,Tier 2,3-5,2-5L,Manager,Cost,Paper,<1000,<10K,High,High,Quality,Very Likely
+Retail,Tier 3,1-3,5-10L,Owner,Cost,Biodegradable,<1000,10K-50K,Medium,Medium,Awareness,Unlikely
+E-commerce,Tier 1,5+,10-25L,Multiple,Cost,Plastic,1000-5000,<10K,Medium,Low,Quality,Neutral
+Restaurant,Tier 3,1-3,<2L,Owner,Compliance,Plastic,<1000,<10K,Low,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 3,1-3,10-25L,Manager,Cost,Mixed,1000-5000,<10K,Medium,Medium,Quality,Unlikely
+Restaurant,Tier 3,3-5,2-5L,Procurement,Cost,Biodegradable,<1000,10K-50K,Medium,High,Supply,Likely
+Restaurant,Tier 2,5+,2-5L,Procurement,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Supply,Unlikely
+Retail,Tier 2,5+,2-5L,Owner,Quality,Plastic,1000-5000,10K-50K,High,Medium,Awareness,Likely
+Catering,Tier 2,1-3,2-5L,Owner,Quality,Biodegradable,1000-5000,10K-50K,High,High,Cost,Likely
+Restaurant,Tier 3,3-5,<2L,Manager,Brand,Biodegradable,1000-5000,10K-50K,Medium,Low,Awareness,Unlikely
+Cloud Kitchen,Tier 2,3-5,5-10L,Owner,Cost,Mixed,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 2,1-3,10-25L,Procurement,Cost,Plastic,5000-10000,1L-5L,High,Medium,Awareness,Likely
+Restaurant,Tier 2,<1,2-5L,Manager,Quality,Mixed,<1000,10K-50K,Medium,Low,Awareness,Unlikely
+Retail,Tier 2,1-3,2-5L,Manager,Cost,Paper,1000-5000,10K-50K,Low,Low,Supply,Unlikely
+Retail,Tier 3,1-3,10-25L,Owner,Cost,Biodegradable,5000-10000,1L-5L,Medium,Medium,Supply,Unlikely
+Retail,Tier 1,5+,5-10L,Manager,Cost,Paper,1000-5000,10K-50K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 3,1-3,2-5L,Manager,Customer Experience,Plastic,<1000,<10K,High,Medium,Cost,Unlikely
+Cloud Kitchen,Tier 2,5+,2-5L,Procurement,Brand,Mixed,<1000,10K-50K,Medium,High,Cost,Unlikely
+E-commerce,Tier 3,1-3,10-25L,Owner,Cost,Plastic,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 2,3-5,5-10L,Owner,Cost,Plastic,1000-5000,<10K,Low,Low,Quality,Unlikely
+Restaurant,Tier 1,1-3,2-5L,Owner,Customer Experience,Mixed,1000-5000,<10K,Medium,Low,Cost,Very Unlikely
+E-commerce,Tier 3,<1,2-5L,Owner,Brand,Paper,<1000,<10K,High,Low,Awareness,Likely
+Restaurant,Tier 1,1-3,10-25L,Manager,Quality,Mixed,1000-5000,10K-50K,Low,Low,Quality,Neutral
+Retail,Tier 3,<1,<2L,Multiple,Compliance,Paper,<1000,<10K,Medium,Low,Supply,Unlikely
+Restaurant,Tier 2,3-5,25L+,Owner,Compliance,Plastic,10000+,1L-5L,High,Medium,Supply,Likely
+Catering,Tier 2,1-3,<2L,Procurement,Compliance,Mixed,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,3-5,10-25L,Owner,Quality,Plastic,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Restaurant,Tier 2,1-3,2-5L,Owner,Quality,Mixed,<1000,<10K,Medium,High,Cost,Unlikely
+Restaurant,Tier 1,<1,2-5L,Owner,Cost,Plastic,1000-5000,<10K,Medium,High,Supply,Very Likely
+Restaurant,Tier 1,1-3,10-25L,Owner,Customer Experience,Mixed,1000-5000,10K-50K,Low,Medium,Quality,Neutral
+E-commerce,Tier 1,5+,2-5L,Multiple,Brand,Plastic,<1000,10K-50K,Low,Low,Cost,Very Unlikely
+Catering,Tier 1,3-5,5-10L,Owner,Cost,Paper,<1000,10K-50K,Medium,Medium,Supply,Neutral
+Cloud Kitchen,Tier 3,1-3,<2L,Manager,Customer Experience,Mixed,<1000,10K-50K,High,Low,Cost,Unlikely
+Cloud Kitchen,Tier 3,1-3,<2L,Owner,Customer Experience,Paper,<1000,10K-50K,Low,Low,Supply,Unlikely
+Retail,Tier 1,<1,2-5L,Multiple,Customer Experience,Biodegradable,1000-5000,10K-50K,Low,High,Quality,Very Likely
+E-commerce,Tier 2,5+,5-10L,Owner,Customer Experience,Mixed,1000-5000,10K-50K,Medium,Low,Supply,Unlikely
+Retail,Tier 1,3-5,<2L,Owner,Customer Experience,Biodegradable,1000-5000,10K-50K,High,Low,Awareness,Very Likely
+Cloud Kitchen,Tier 2,1-3,<2L,Owner,Cost,Mixed,1000-5000,10K-50K,Low,High,Supply,Likely
+Cloud Kitchen,Tier 3,3-5,2-5L,Owner,Compliance,Paper,1000-5000,<10K,High,High,Quality,Very Likely
+Retail,Tier 3,<1,5-10L,Owner,Compliance,Plastic,1000-5000,10K-50K,Low,Low,Cost,Very Unlikely
+Restaurant,Tier 2,5+,5-10L,Procurement,Cost,Plastic,1000-5000,<10K,High,Low,Supply,Likely
+Retail,Tier 3,<1,<2L,Manager,Cost,Plastic,1000-5000,<10K,Medium,Medium,Quality,Unlikely
+Cloud Kitchen,Tier 1,3-5,<2L,Manager,Customer Experience,Plastic,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+E-commerce,Tier 3,1-3,25L+,Manager,Cost,Paper,10000+,5L+,Medium,Low,Supply,Unlikely
+Restaurant,Tier 1,3-5,2-5L,Owner,Customer Experience,Plastic,<1000,10K-50K,High,Medium,Cost,Neutral
+Retail,Tier 2,3-5,10-25L,Owner,Cost,Plastic,1000-5000,10K-50K,Low,High,Cost,Unlikely
+Cloud Kitchen,Tier 2,3-5,10-25L,Multiple,Cost,Plastic,1000-5000,<10K,Low,Low,Awareness,Unlikely
+Retail,Tier 2,3-5,10-25L,Procurement,Quality,Mixed,5000-10000,50K-1L,Medium,High,Quality,Likely
+Restaurant,Tier 1,5+,<2L,Procurement,Cost,Paper,<1000,10K-50K,High,High,Cost,Very Likely
+Retail,Tier 3,<1,10-25L,Procurement,Brand,Plastic,5000-10000,50K-1L,High,Low,Supply,Likely
+Retail,Tier 1,1-3,10-25L,Owner,Quality,Mixed,1000-5000,10K-50K,Medium,High,Awareness,Very Likely
+Retail,Tier 2,1-3,5-10L,Owner,Cost,Plastic,<1000,<10K,Medium,Low,Cost,Very Unlikely
+Retail,Tier 1,5+,2-5L,Owner,Cost,Mixed,<1000,<10K,Low,Medium,Supply,Neutral
+Retail,Tier 1,1-3,2-5L,Owner,Quality,Paper,<1000,10K-50K,High,High,Supply,Very Likely
+E-commerce,Tier 2,3-5,<2L,Owner,Cost,Plastic,<1000,10K-50K,High,Low,Cost,Unlikely
+Restaurant,Tier 2,3-5,5-10L,Owner,Compliance,Biodegradable,<1000,<10K,Medium,Medium,Quality,Unlikely
+E-commerce,Tier 1,1-3,5-10L,Manager,Quality,Biodegradable,1000-5000,10K-50K,Medium,High,Cost,Neutral
+Cloud Kitchen,Tier 1,1-3,2-5L,Procurement,Cost,Paper,<1000,<10K,High,Low,Supply,Very Likely
+Restaurant,Tier 2,1-3,2-5L,Manager,Quality,Mixed,1000-5000,10K-50K,High,Low,Supply,Likely
+Restaurant,Tier 3,1-3,2-5L,Multiple,Cost,Plastic,<1000,10K-50K,Medium,Low,Cost,Very Unlikely
+Restaurant,Tier 3,1-3,5-10L,Owner,Cost,Plastic,<1000,10K-50K,Medium,Medium,Supply,Unlikely
+E-commerce,Tier 1,<1,25L+,Owner,Cost,Plastic,10000+,5L+,Medium,High,Supply,Very Likely
+Retail,Tier 1,5+,<2L,Manager,Customer Experience,Plastic,<1000,10K-50K,Medium,High,Cost,Neutral
+E-commerce,Tier 1,5+,2-5L,Owner,Customer Experience,Plastic,<1000,10K-50K,Medium,Medium,Supply,Neutral
+Cloud Kitchen,Tier 1,1-3,<2L,Owner,Compliance,Mixed,1000-5000,10K-50K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,1-3,5-10L,Owner,Cost,Plastic,1000-5000,<10K,Medium,Low,Awareness,Unlikely
+Restaurant,Tier 2,<1,5-10L,Owner,Cost,Paper,1000-5000,10K-50K,Medium,Low,Quality,Unlikely
+Restaurant,Tier 1,3-5,25L+,Manager,Quality,Paper,5000-10000,50K-1L,Medium,Medium,Quality,Neutral
+Cloud Kitchen,Tier 1,5+,2-5L,Owner,Compliance,Mixed,1000-5000,10K-50K,Low,Medium,Supply,Neutral
+Restaurant,Tier 1,<1,25L+,Manager,Customer Experience,Mixed,5000-10000,50K-1L,High,Medium,Quality,Very Likely
+Restaurant,Tier 3,<1,<2L,Manager,Cost,Biodegradable,1000-5000,10K-50K,Medium,High,Awareness,Likely
+Retail,Tier 3,3-5,5-10L,Owner,Cost,Mixed,<1000,10K-50K,Low,Medium,Quality,Unlikely
+Retail,Tier 1,3-5,<2L,Owner,Brand,Biodegradable,1000-5000,<10K,Medium,Medium,Awareness,Neutral
+Catering,Tier 1,<1,10-25L,Owner,Compliance,Mixed,5000-10000,1L-5L,High,Low,Quality,Very Likely
+Catering,Tier 3,3-5,5-10L,Owner,Compliance,Biodegradable,<1000,10K-50K,High,High,Cost,Likely
+Retail,Tier 3,1-3,5-10L,Manager,Brand,Plastic,1000-5000,10K-50K,Medium,High,Awareness,Likely
+Cloud Kitchen,Tier 2,1-3,10-25L,Procurement,Customer Experience,Paper,5000-10000,1L-5L,High,High,Supply,Very Likely
+Retail,Tier 1,3-5,<2L,Manager,Quality,Paper,<1000,10K-50K,Low,Medium,Supply,Neutral
+E-commerce,Tier 1,5+,<2L,Owner,Customer Experience,Plastic,1000-5000,<10K,High,Medium,Awareness,Very Likely
+Restaurant,Tier 2,1-3,10-25L,Manager,Customer Experience,Plastic,5000-10000,1L-5L,Low,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 1,5+,2-5L,Manager,Compliance,Paper,1000-5000,<10K,Low,Low,Quality,Neutral
+E-commerce,Tier 1,1-3,<2L,Owner,Cost,Mixed,<1000,<10K,Medium,Medium,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,3-5,2-5L,Manager,Cost,Plastic,1000-5000,<10K,Medium,High,Quality,Likely
+Retail,Tier 1,1-3,5-10L,Owner,Quality,Biodegradable,<1000,<10K,Medium,Low,Supply,Neutral
+Retail,Tier 3,5+,<2L,Manager,Quality,Biodegradable,1000-5000,<10K,High,Low,Awareness,Likely
+Restaurant,Tier 1,5+,2-5L,Manager,Customer Experience,Mixed,<1000,<10K,High,Medium,Quality,Very Likely
+Cloud Kitchen,Tier 1,<1,<2L,Owner,Cost,Mixed,1000-5000,<10K,Medium,Low,Supply,Neutral
+Restaurant,Tier 2,5+,2-5L,Manager,Cost,Biodegradable,<1000,<10K,Medium,Medium,Awareness,Unlikely
+Restaurant,Tier 1,5+,10-25L,Owner,Compliance,Paper,5000-10000,1L-5L,Low,Medium,Supply,Neutral
+Restaurant,Tier 3,3-5,25L+,Owner,Cost,Plastic,5000-10000,50K-1L,Low,Low,Cost,Very Unlikely
+E-commerce,Tier 2,1-3,5-10L,Multiple,Cost,Paper,<1000,10K-50K,Medium,High,Quality,Likely
+Restaurant,Tier 1,5+,<2L,Multiple,Quality,Biodegradable,1000-5000,<10K,Low,Medium,Awareness,Neutral
+Cloud Kitchen,Tier 2,5+,25L+,Owner,Brand,Mixed,10000+,1L-5L,High,High,Awareness,Very Likely
+Restaurant,Tier 1,1-3,5-10L,Owner,Cost,Biodegradable,<1000,10K-50K,Medium,High,Quality,Very Likely
+Catering,Tier 3,5+,<2L,Owner,Customer Experience,Plastic,1000-5000,<10K,Low,High,Awareness,Likely
+Restaurant,Tier 1,<1,25L+,Owner,Quality,Paper,10000+,5L+,Medium,Low,Cost,Very Unlikely
+Cloud Kitchen,Tier 2,<1,10-25L,Procurement,Customer Experience,Plastic,1000-5000,<10K,Low,Low,Cost,Very Unlikely
+E-commerce,Tier 1,1-3,5-10L,Multiple,Quality,Plastic,<1000,10K-50K,Medium,Low,Awareness,Neutral
+E-commerce,Tier 2,3-5,5-10L,Manager,Cost,Plastic,<1000,10K-50K,High,Medium,Cost,Unlikely
+Restaurant,Tier 3,3-5,2-5L,Owner,Cost,Plastic,<1000,<10K,Medium,High,Cost,Unlikely
+E-commerce,Tier 3,<1,2-5L,Manager,Cost,Mixed,<1000,<10K,Low,Medium,Quality,Unlikely
+Cloud Kitchen,Tier 1,5+,5-10L,Owner,Quality,Plastic,1000-5000,<10K,High,High,Quality,Very Likely
+Cloud Kitchen,Tier 1,<1,2-5L,Multiple,Cost,Plastic,1000-5000,<10K,Low,Low,Quality,Neutral
+Restaurant,Tier 3,<1,2-5L,Procurement,Quality,Mixed,<1000,10K-50K,High,Low,Cost,Unlikely
+Restaurant,Tier 3,<1,10-25L,Manager,Quality,Plastic,5000-10000,1L-5L,Medium,High,Awareness,Likely
+Retail,Tier 1,3-5,10-25L,Owner,Cost,Plastic,1000-5000,10K-50K,Medium,Medium,Awareness,Neutral
+Cloud Kitchen,Tier 2,5+,2-5L,Owner,Cost,Plastic,<1000,10K-50K,High,High,Cost,Likely
+Cloud Kitchen,Tier 1,3-5,10-25L,Owner,Compliance,Plastic,1000-5000,10K-50K,High,Low,Quality,Very Likely
+Retail,Tier 3,5+,10-25L,Procurement,Customer Experience,Plastic,5000-10000,1L-5L,Low,High,Supply,Likely
+E-commerce,Tier 1,<1,5-10L,Owner,Cost,Plastic,<1000,10K-50K,Low,Medium,Supply,Neutral
+Restaurant,Tier 1,1-3,2-5L,Owner,Cost,Paper,1000-5000,<10K,High,High,Cost,Very Likely
+Retail,Tier 3,1-3,2-5L,Owner,Customer Experience,Plastic,<1000,<10K,Low,Low,Quality,Unlikely
+Restaurant,Tier 1,1-3,2-5L,Procurement,Cost,Plastic,1000-5000,<10K,Medium,Medium,Cost,Very Unlikely
+E-commerce,Tier 2,<1,<2L,Owner,Customer Experience,Mixed,1000-5000,<10K,High,High,Cost,Likely
+Retail,Tier 2,3-5,2-5L,Procurement,Cost,Paper,1000-5000,<10K,Medium,High,Quality,Likely
+Catering,Tier 1,1-3,2-5L,Procurement,Customer Experience,Mixed,1000-5000,<10K,High,Low,Supply,Very Likely
+Restaurant,Tier 1,3-5,2-5L,Multiple,Cost,Paper,1000-5000,<10K,High,Low,Supply,Very Likely
+Restaurant,Tier 2,1-3,25L+,Owner,Customer Experience,Plastic,5000-10000,50K-1L,Medium,Medium,Supply,Unlikely
+Restaurant,Tier 1,<1,<2L,Owner,Cost,Biodegradable,<1000,10K-50K,High,Low,Cost,Neutral
